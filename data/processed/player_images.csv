@@ -1,0 +1,11 @@
+player_name,image_path,source_url,image_format,background_type,download_status
+Virat Kohli,assets/images/players/virat_kohli.png,https://www.iplt20.com/api/team-assets?pathname=player%2F8903%2F2138%2F13144.png&brand=ipl,PNG,transparent,success
+Rohit Sharma,assets/images/players/rohit_sharma.png,https://www.iplt20.com/api/team-assets?pathname=player%2F8903%2F1854%2F11326.png&brand=ipl,PNG,transparent,success
+MS Dhoni,assets/images/players/ms_dhoni.png,https://www.iplt20.com/api/team-assets?pathname=player%2F8903%2F1622%2F11318.png&brand=ipl,PNG,transparent,success
+Hardik Pandya,assets/images/players/hardik_pandya.png,https://www.iplt20.com/api/team-assets?pathname=player%2F8903%2F1854%2F16093.png&brand=ipl,PNG,transparent,success
+Jasprit Bumrah,assets/images/players/jasprit_bumrah.png,https://www.iplt20.com/api/team-assets?pathname=player%2F8903%2F1854%2F16096.png&brand=ipl,PNG,transparent,success
+Suryakumar Yadav,assets/images/players/suryakumar_yadav.png,https://www.iplt20.com/api/team-assets?pathname=player%2F8903%2F1854%2F20861.png&brand=ipl,PNG,transparent,success
+Rishabh Pant,assets/images/players/rishabh_pant.png,https://www.delhicapitals.in/static-assets/images/players/ipl/65756.png,PNG,transparent,success
+Shubman Gill,assets/images/players/shubman_gill.png,https://www.iplt20.com/api/team-assets?pathname=player%2F8903%2F2879%2F65345.png&brand=ipl,PNG,transparent,success
+KL Rahul,assets/images/players/kl_rahul.png,https://www.iplt20.com/api/team-assets?pathname=player%2F8903%2F1396%2F20451.png&brand=ipl,PNG,transparent,success
+Andre Russell,assets/images/players/andre_russell.png,https://www.kkr.in/static-assets/images/players/12047.png?v=112.14,PNG,transparent,success
