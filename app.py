@@ -3,6 +3,7 @@ import streamlit as st
 
 from components.sidebar import render_sidebar
 from components.player_info_card import render_player_card
+from utils.player_data import PLAYER_IMAGES, PLAYER_TEAMS, TEAM_BANNERS
 
 
 # Page Configuration
@@ -51,8 +52,8 @@ if page == "Batter Analysis":
         player_name="Virat Kohli",
         team_name="Royal Challengers Bengaluru",
         batting_style="Right-hand Batter",
-        player_image="assets/images/players/virat_kohli.png",
-        team_banner="assets/images/team_banners/rcb_banner.png",
+        player_image=PLAYER_IMAGES[selected_filter],
+        team_banner=TEAM_BANNERS[PLAYER_TEAMS[selected_filter]],
         debut=2008,
         centuries=9,
         half_centuries=45,

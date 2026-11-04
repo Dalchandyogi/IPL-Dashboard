@@ -2,6 +2,7 @@ import streamlit as st
 from streamlit_option_menu import option_menu   # pip install streamlit-option-menu
 
 from utils.helpers import load_image
+from utils.player_data import PLAYER_IMAGES
 
 
 # ---------- sidebar ----------
@@ -231,13 +232,7 @@ def render_sidebar():
         filters = {
             "Batter Analysis": (
                 "Batter",
-                [
-                    "Virat Kohli",
-                    "Rohit Sharma",
-                    "MS Dhoni",
-                    "AB de Villiers",
-                    "Suresh Raina",
-                ],
+                list(PLAYER_IMAGES),
             ),
             "Bowler Analysis": (
                 "Bowler",

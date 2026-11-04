@@ -1,0 +1,11 @@
+{
+  "current_batch_number": 2,
+  "last_processed_player": "BJ Rohrer",
+  "next_player_index": 100,
+  "total_successful_images": 171,
+  "total_failed": 445,
+  "total_unresolved": 199,
+  "retry_candidates_remaining": 554,
+  "batch_status": "completed",
+  "last_updated": "2026-11-04T21:54:54.988559"
+}
