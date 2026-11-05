@@ -48,7 +48,7 @@ def _season_metric_figure(season_stats, metric, y_title, hovertemplate):
     )
     figure.update_layout(
         template="plotly_dark",
-        height=300,
+        height=260,
         margin={"t": 0, "b": 50, "l": 50, "r": 20},
         hovermode="closest",
         dragmode=False,
