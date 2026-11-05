@@ -155,7 +155,13 @@ def render_batter_season_metric_charts(player_name, season_stats):
         figure.update_traces(
             customdata=season_stats[["runs", "balls_faced"]]
         )
-        figure.update_yaxes(range=[50, 300], dtick=50)
+        figure.update_yaxes(
+            range=[
+                50,
+                ((int(season_stats["strike_rate"].max()) // 50) + 1) * 50,
+            ],
+            dtick=50,
+        )
         st.plotly_chart(
             figure,
             width="stretch",
