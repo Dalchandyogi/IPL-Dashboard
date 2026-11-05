@@ -3,6 +3,15 @@ import streamlit as st
 
 from components.sidebar import render_sidebar
 from components.player_info_card import render_player_card
+from analysis.batter_analysis import (
+    aggregate_batter_runs_by_season,
+    get_batter_season_stats,
+    get_batter_season_runs,
+)
+from components.batter_season_chart import (
+    render_batter_season_chart,
+    render_batter_season_metric_charts,
+)
 from utils.player_data import (
     get_player_image_path,
     get_team_banner_path,
@@ -85,3 +94,18 @@ if page == "Batter Analysis":
                 (player_row["highest_score_display"], "Highest Score"),
             ],
         )
+
+        st.subheader(f"Runs by IPL Season")
+        batter_runs_by_season = aggregate_batter_runs_by_season()
+        season_runs = get_batter_season_runs(
+            selected_filter,
+            batter_runs_by_season,
+            player_metadata_df,
+        )
+        season_stats = get_batter_season_stats(
+            selected_filter,
+            batter_runs_by_season,
+            player_metadata_df,
+        )
+        render_batter_season_chart(selected_filter, season_runs)
+        render_batter_season_metric_charts(selected_filter, season_stats)
