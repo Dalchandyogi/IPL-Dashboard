@@ -3,7 +3,11 @@ import streamlit as st
 
 from components.sidebar import render_sidebar
 from components.player_info_card import render_player_card
-from utils.player_data import PLAYER_IMAGES, PLAYER_TEAMS, TEAM_BANNERS
+from utils.player_data import (
+    get_player_image_path,
+    get_team_banner_path,
+    load_player_metadata,
+)
 
 
 # Page Configuration
@@ -24,8 +28,12 @@ st.html(
 )
 
 
+# Load player metadata once, then share it with the sidebar and profile section.
+player_metadata_df = load_player_metadata()
+
+
 # Render Sidebar
-page, selected_filter = render_sidebar()
+page, selected_filter = render_sidebar(player_metadata_df)
 
 
 # Main Content
@@ -42,26 +50,38 @@ filter_labels = {
 
 # Display Selected Filter
 if selected_filter is not None and page in filter_labels:
-    st.write(f"Selected {filter_labels[page]}: {selected_filter}")
+    # st.write(f"Selected {filter_labels[page]}: {selected_filter}")
+    pass
 
 
 # Batter Analysis
 if page == "Batter Analysis":
+    st.badge("Showing each batter's latest IPL team")
+    player_rows = player_metadata_df.loc[
+        player_metadata_df["full_name"] == selected_filter
+    ]
 
-    render_player_card(
-        player_name="Virat Kohli",
-        team_name="Royal Challengers Bengaluru",
-        batting_style="Right-hand Batter",
-        player_image=PLAYER_IMAGES[selected_filter],
-        team_banner=TEAM_BANNERS[PLAYER_TEAMS[selected_filter]],
-        debut=2008,
-        centuries=9,
-        half_centuries=45,
-        stats=[
-            ("8,000", "Runs"),
-            ("134.89", "Strike Rate"),
-            ("45.78", "Batting Average"),
-            ("250", "Matches"),
-            ("113*", "Highest Score"),
-        ]
-    )
+    if player_rows.empty:
+        st.error(f"No player profile data found for {selected_filter}.")
+    else:
+        player_row = player_rows.iloc[0]
+        player_team = player_row["team"]
+        team_banner = get_team_banner_path(player_team)
+
+        render_player_card(
+            player_name=player_row["full_name"],
+            team_name=player_team,
+            batting_style=player_row["batting_style"],
+            player_image=get_player_image_path(player_row["full_name"]),
+            team_banner=team_banner,
+            debut=player_row["debut"],
+            centuries=player_row["hundreds"],
+            half_centuries=player_row["fifties"],
+            stats=[
+                (player_row["runs"], "Runs"),
+                (player_row["strike_rate"], "Strike Rate"),
+                (player_row["batting_average"], "Batting Average"),
+                (player_row["matches"], "Matches"),
+                (player_row["highest_score_display"], "Highest Score"),
+            ],
+        )

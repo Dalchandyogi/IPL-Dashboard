@@ -1,12 +1,59 @@
 
 import streamlit as st
 from html import escape
+import math
 
 from utils.helpers import load_image
+from utils.player_data import DEFAULT_PLAYER_IMAGE, DEFAULT_TEAM_BANNER
 from components.metric_card import (
     get_metric_card_html,
     get_split_metric_card_html
 )
+
+
+def _is_missing(value):
+    if value is None:
+        return True
+    if isinstance(value, str):
+        return value.strip().lower() in {"", "nan", "none", "<na>"}
+    try:
+        return math.isnan(float(value))
+    except (TypeError, ValueError, OverflowError):
+        return str(value).strip().lower() in {"", "nan", "none", "<na>"}
+
+
+def _format_profile_value(value, label):
+    if _is_missing(value):
+        return "—"
+
+    if label in {
+        "Runs",
+        "Matches",
+        "100s",
+        "50s",
+        "Debut",
+        "Highest Score",
+    }:
+        try:
+            number = float(value)
+        except (TypeError, ValueError, OverflowError):
+            return str(value)
+        if not math.isfinite(number):
+            return "N/A"
+        if label == "Runs":
+            return f"{int(number):,}"
+        return str(int(number))
+
+    if label in {"Strike Rate", "Batting Average"}:
+        try:
+            number = float(value)
+        except (TypeError, ValueError, OverflowError):
+            return str(value)
+        if not math.isfinite(number):
+            return "N/A"
+        return f"{number:.2f}"
+
+    return str(value)
 
 
 def render_player_card(
@@ -23,12 +70,11 @@ def render_player_card(
     """Render dynamic IPL player profile banner."""
 
     # Load images
-    bg_image = load_image(team_banner)
-    profile_image = load_image(player_image)
-
-    if not bg_image:
-        st.error(f"Banner not found: {team_banner}")
-        return
+    bg_image = load_image(team_banner) or load_image(DEFAULT_TEAM_BANNER)
+    profile_image = load_image(player_image) or load_image(DEFAULT_PLAYER_IMAGE)
+    background_style = (
+        f'background-image: url("{bg_image}");' if bg_image else ""
+    )
 
     # Player photo
     photo_html = ""
@@ -43,13 +89,13 @@ def render_player_card(
 
     # Reuse metric card component
     metrics_html = "".join(
-        get_metric_card_html(value, label)
+        get_metric_card_html(_format_profile_value(value, label), label)
         for value, label in stats
     )
     metrics_html += get_split_metric_card_html(
-        centuries,
+        _format_profile_value(centuries, "100s"),
         "100s",
-        half_centuries,
+        _format_profile_value(half_centuries, "50s"),
         "50s",
     )
 
@@ -68,8 +114,7 @@ def render_player_card(
             border-radius: 15px;
             color: white;
 
-            background-image:
-                url("{bg_image}");
+            {background_style}
 
             background-size: 100% 100%;
             background-position: center;
@@ -184,19 +229,19 @@ def render_player_card(
 
         <div class="player-details">
             <div class="player-name">
-                {escape(player_name)}
+                {escape(_format_profile_value(player_name, "Player"))}
             </div>
 
             <div class="team-name">
-                {escape(team_name)}
+                {escape(_format_profile_value(team_name, "Team"))}
             </div>
 
             <div class="batting-style">
-                {escape(batting_style)}
+                {escape(_format_profile_value(batting_style, "Batting style"))}
             </div>
 
             <div class="player-debut">
-                IPL Debut: {escape(str(debut))}
+                IPL Debut: {escape(_format_profile_value(debut, "Debut"))}
             </div>
         </div>
 

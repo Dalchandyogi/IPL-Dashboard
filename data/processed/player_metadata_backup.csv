@@ -1,0 +1,805 @@
+﻿player_id,canonical_name,full_name,nationality,batting_style,bowling_style,playing_role,batter,batter_runs,bowler,is_wicket
+3543,A Choudhary,Arpita Choudhary,India,Right-hand bat,No information available,Batter,A Choudhary,25.0,A Choudhary,5.0
+3545,A Nehra,Ashish Nehra,India,Right-hand bat,Left-arm fast-medium,Bowler,A Nehra,41.0,A Nehra,121.0
+3547,B Kumar,Bhuvneshwar Kumar,India,Right-hand bat,Right-arm fast-medium,Bowler,B Kumar,354.0,B Kumar,243.0
+3548,BCJ Cutting,Ben Cutting,Australia,Right-hand bat,Right-arm fast-medium,All-rounder,BCJ Cutting,238.0,BCJ Cutting,12.0
+3549,Bipul Sharma,Bipul Sharma,India,Left-hand bat,Left-arm orthodox,Bowler,Bipul Sharma,187.0,Bipul Sharma,22.0
+3550,CH Gayle,Chris Gayle,West Indies,Left-hand bat,Right-arm off-spin,Batter,CH Gayle,4997.0,CH Gayle,19.0
+3551,CJ Jordan,Chris Jordan,England,Right-hand bat,Right-arm fast-medium,Bowler,CJ Jordan,81.0,CJ Jordan,36.0
+3552,DA Warner,David Warner,Australia,Left-hand bat,No information available,Batter,DA Warner,6567.0,DA Warner,0.0
+3553,DJ Hooda,Deepak Hooda,India,Right Handed Bat,Right-arm offbreak,Batting Allrounder,DJ Hooda,1497.0,DJ Hooda,10.0
+3555,KM Jadhav,Kedar Jadhav,India,Right Handed Bat,Right-arm offbreak,Batting Allrounder,KM Jadhav,1208.0,,
+3556,MC Henriques,Moises Henriques,Australia,Right-hand bat,Right-arm fast-medium,All-rounder,MC Henriques,1000.0,MC Henriques,46.0
+3557,Mandeep Singh,Mandeep Singh,India,Right-hand bat,Right-arm medium,Batter,Mandeep Singh,1706.0,Mandeep Singh,0.0
+3560,NV Ojha,Naman Ojha,India,Right-hand bat,No information available,Batter,NV Ojha,1554.0,,
+3561,Rashid Khan,Rashid Khan,Afghanistan,Right-hand bat,Right-arm fast-medium,Batter,Rashid Khan,635.0,Rashid Khan,187.0
+3562,S Aravind,S Aravind,India,Left-hand bat,Left-arm orthodox,Batter,S Aravind,59.0,S Aravind,48.0
+3563,S Dhawan,Shikhar Dhawan,India,Left-hand bat,Right-arm off-spin,Batter,S Dhawan,6769.0,S Dhawan,4.0
+3564,SR Watson,Shane Watson,Australia,Right-hand bat,Right-arm fast-medium,All-rounder,SR Watson,3880.0,SR Watson,107.0
+3565,STR Binny,Stuart Binny,India,Right-hand bat,Right-arm medium,All-rounder,STR Binny,880.0,STR Binny,28.0
+3566,Sachin Baby,Sachin Baby,India,Left-hand bat,Right-arm off-spin,Batter,Sachin Baby,144.0,Sachin Baby,3.0
+3567,TM Head,Travis Head,Australia,Left-hand bat,Right-arm off-spin,Batter,TM Head,1556.0,TM Head,4.0
+3568,TS Mills,Tymal Mills,England,Right-hand bat,Left-arm fast,Bowler,TS Mills,8.0,TS Mills,11.0
+3569,YS Chahal,Yuzvendra Chahal,India,Right-hand bat,Leg-spin,Bowler,YS Chahal,37.0,YS Chahal,242.0
+3570,Yuvraj Singh,Yuvraj Singh,India,Left-hand bat,Left-arm orthodox,All-rounder,Yuvraj Singh,2754.0,Yuvraj Singh,39.0
+3572,A Zampa,Adam Zampa,Australia,Right-hand bat,Leg-spin,Bowler,A Zampa,15.0,A Zampa,32.0
+3573,AB Dinda,No information available,No information available,No information available,No information available,No information available,AB Dinda,26.0,AB Dinda,82.0
+3574,AM Rahane,Ajinkya Rahane,India,Right-hand bat,Right-arm medium,Batter,AM Rahane,5367.0,AM Rahane,1.0
+3575,AT Rayudu,No information available,No information available,No information available,No information available,No information available,AT Rayudu,4348.0,,
+3576,BA Stokes,Ben Stokes,England,Left-hand bat,Right-arm fast-medium,All-rounder,BA Stokes,935.0,BA Stokes,31.0
+3577,DL Chahar,Deepak Chahar,India,Right-hand bat,Right-arm fast-medium,Bowler,DL Chahar,142.0,DL Chahar,99.0
+3578,HH Pandya,Hardik Pandya,India,Right-hand bat,Right-arm fast-medium,All-rounder,HH Pandya,2964.0,HH Pandya,88.0
+3579,Imran Tahir,Imran Tahir,South Africa,Right-hand bat,Leg-spin,Bowler,Imran Tahir,33.0,Imran Tahir,86.0
+3580,JC Buttler,Jos Buttler,England,Right-hand bat,No information available,Batter,JC Buttler,4647.0,,
+3581,JJ Bumrah,Jasprit Bumrah,India,Right-hand bat,Right-arm fast,Bowler,JJ Bumrah,75.0,JJ Bumrah,208.0
+3582,KA Pollard,No information available,No information available,No information available,No information available,No information available,KA Pollard,3437.0,KA Pollard,81.0
+3583,KH Pandya,No information available,No information available,No information available,No information available,No information available,KH Pandya,1982.0,KH Pandya,111.0
+3585,MA Agarwal,Mayank Agarwal,India,Right-hand bat,Right-arm off-spin,Batter,MA Agarwal,2764.0,,
+3586,MJ McClenaghan,Mitchell McClenaghan,New Zealand,Left-hand bat,Left-arm fast-medium,Bowler,MJ McClenaghan,85.0,MJ McClenaghan,75.0
+3587,MK Tiwary,Manoj Tiwary,India,Right-hand bat,Leg-spin,Batter,MK Tiwary,1695.0,MK Tiwary,1.0
+3588,MS Dhoni,MS Dhoni,India,Right-hand bat,Right-arm medium,Batter,MS Dhoni,5439.0,,
+3589,N Rana,Nitish Rana,India,Left-hand bat,Right-arm off-spin,Batter,N Rana,3078.0,N Rana,11.0
+3591,PA Patel,Parthiv Patel,India,Left-hand bat,No information available,Batter,PA Patel,2848.0,,
+3592,R Bhatia,Rajat Bhatia,India,Right-hand bat,Right-arm medium,All-rounder,R Bhatia,342.0,R Bhatia,82.0
+3593,RG Sharma,Rohit Sharma,India,Right-hand bat,Right-arm off-spin,Batter,RG Sharma,7331.0,RG Sharma,16.0
+3595,SPD Smith,Steven Smith,Australia,Right-hand bat,Leg-spin,Batter,SPD Smith,2495.0,SPD Smith,0.0
+3596,TG Southee,Tim Southee,New Zealand,Right-hand bat,Right-arm fast-medium,Bowler,TG Southee,120.0,TG Southee,57.0
+3598,AJ Finch,Aaron Finch,Australia,Right-hand bat,Left-arm orthodox,Batter,AJ Finch,2092.0,AJ Finch,1.0
+3599,BB McCullum,Brendon McCullum,New Zealand,Right-hand bat,No information available,Batter,BB McCullum,2882.0,,
+3600,CA Lynn,Chris Lynn,Australia,Right-hand bat,Left-arm orthodox,Batter,CA Lynn,1329.0,,
+3602,CR Woakes,Chris Woakes,England,Right-hand bat,Right-arm fast-medium,All-rounder,CR Woakes,78.0,CR Woakes,31.0
+3603,DR Smith,Dwayne Smith,West Indies,Right-hand bat,Right-arm medium,All-rounder,DR Smith,2385.0,DR Smith,27.0
+3604,DS Kulkarni,Dhawal Kulkarni,India,Right-hand bat,Right-arm fast-medium,Bowler,DS Kulkarni,104.0,DS Kulkarni,91.0
+3605,G Gambhir,Gautam Gambhir,India,Left-hand bat,Leg-spin,Batter,G Gambhir,4217.0,,
+3606,JJ Roy,Jason Roy,England,Right-hand bat,No information available,Batter,JJ Roy,614.0,,
+3608,KD Karthik,Dinesh Karthik,India,Right-hand bat,No information available,Batter,KD Karthik,4843.0,,
+3609,Kuldeep Yadav,Kuldeep Yadav,India,Left-hand bat,Left-arm wrist-spin,Bowler,Kuldeep Yadav,210.0,Kuldeep Yadav,116.0
+3610,MK Pandey,Manish Pandey,India,Right-hand bat,Right-arm medium,Batter,MK Pandey,4021.0,,
+3611,MS Gony,Manpreet Gony,India,Right Handed Bat,Right-arm fast-medium,Bowler,MS Gony,99.0,MS Gony,39.0
+3613,P Kumar,Praveen Kumar,India,Right-hand bat,Right-arm fast-medium,Bowler,P Kumar,340.0,P Kumar,102.0
+3614,PP Chawla,Piyush Chawla,India,Left-hand bat,Leg-spin,Bowler,PP Chawla,624.0,PP Chawla,201.0
+3615,RV Uthappa,Robin Uthappa,India,Right Handed Bat,Right-arm medium,WK-Batsman,RV Uthappa,4954.0,,
+3616,S Kaushik,Shivil Koushik,India,Right Handed Bat,Left-arm wrist-spin,Bowler,S Kaushik,0.0,S Kaushik,6.0
+3617,SA Yadav,Surya Prakash Rao,India,Left-hand bat,No information available,Batter,SA Yadav,4581.0,SA Yadav,0.0
+3618,SB Jakati,Shadab Jakati,India,Left-hand bat,Left-arm orthodox,Bowler,SB Jakati,28.0,SB Jakati,50.0
+3619,SK Raina,Suresh Raina,India,Left-hand bat,Right-arm off-spin,Batter,SK Raina,5536.0,SK Raina,30.0
+3620,SP Narine,Sunil Narine,West Indies,Left-hand bat,Right-arm off-spin,All-rounder,SP Narine,1820.0,SP Narine,229.0
+3621,TA Boult,Trent Boult,New Zealand,Right-hand bat,Left-arm fast-medium,Bowler,TA Boult,93.0,TA Boult,153.0
+3624,YK Pathan,Yusuf Pathan,India,Right-hand bat,Right-arm off-spin,All-rounder,YK Pathan,3222.0,YK Pathan,46.0
+3628,AR Patel,Axar Patel,India,Left-hand bat,Left-arm orthodox,All-rounder,AR Patel,2089.0,AR Patel,148.0
+3632,DA Miller,David Miller,South Africa,Left-hand bat,No information available,Batter,DA Miller,3288.0,,
+3633,DT Christian,Daniel Christian,Australia,Right-hand bat,Right-arm fast-medium,All-rounder,DT Christian,460.0,DT Christian,40.0
+3634,GJ Maxwell,Maxwell Ager,Kenya,Left-hand bat,Left-arm medium,Bowler,GJ Maxwell,2820.0,GJ Maxwell,45.0
+3635,HM Amla,Hashim Amla,South Africa,Right-hand bat,Right-arm medium,Batter,HM Amla,577.0,,
+3638,M Vohra,Manan Vohra,India,Right-hand bat,Right-arm medium,Batter,M Vohra,1083.0,,
+3641,MM Sharma,Mohit Sharma,India,Right-hand bat,Right-arm fast-medium,Bowler,MM Sharma,125.0,MM Sharma,149.0
+3642,MP Stoinis,Marcus Stoinis,Australia,Right-hand bat,Right-arm medium,All-rounder,MP Stoinis,2242.0,MP Stoinis,48.0
+3646,RD Chahar,Rahul Chahar,India,Right Handed Bat,Right-arm legbreak,Bowler,RD Chahar,129.0,RD Chahar,76.0
+3648,Sandeep Sharma,Sanjeev Sharma,India,Right-hand bat,Right-arm medium,Batter,Sandeep Sharma,60.0,Sandeep Sharma,169.0
+3649,Swapnil Singh,Swapnil Singh,India,Right-hand bat,Left-arm orthodox,Bowler,Swapnil Singh,51.0,Swapnil Singh,7.0
+3650,T Natarajan,T Natarajan,India,Left-hand bat,Left-arm fast-medium,Bowler,T Natarajan,4.0,T Natarajan,83.0
+3651,WP Saha,Wriddhiman Saha,India,Right-hand bat,No information available,Batter,WP Saha,2934.0,,
+3652,A Mishra,Amit Mishra,India,Right-hand bat,Leg-spin,Bowler,A Mishra,381.0,A Mishra,183.0
+3654,AP Tare,Aditya Tare,India,Right-hand bat,No information available,Batter,AP Tare,339.0,,
+3655,B Stanlake,Billy Stanlake,Australia,Left-hand bat,Right-arm fast,Bowler,B Stanlake,5.0,B Stanlake,7.0
+3657,CH Morris,Chris Morris,South Africa,Right-hand bat,Right-arm fast-medium,All-rounder,CH Morris,618.0,CH Morris,107.0
+3658,CR Brathwaite,Carlos Brathwaite,West Indies,Right-hand bat,Right-arm fast-medium,All-rounder,CR Brathwaite,181.0,CR Brathwaite,16.0
+3659,Iqbal Abdulla,Iqbal Abdulla,India,Left-hand bat,Left-arm orthodox,Bowler,Iqbal Abdulla,88.0,Iqbal Abdulla,45.0
+3661,KK Nair,Karun Nair,India,Right-hand bat,Right-arm off-spin,Batter,KK Nair,1712.0,,
+3665,P Negi,Pawan Negi,India,Left-hand bat,Left-arm orthodox,All-rounder,P Negi,365.0,P Negi,38.0
+3666,PJ Cummins,Pat Cummins,Australia,Right-hand bat,Right-arm fast,Bowler,PJ Cummins,642.0,PJ Cummins,90.0
+3667,RR Pant,Rishabh Pant,India,Left-hand bat,No information available,Batter,RR Pant,3879.0,,
+3668,S Nadeem,Shahbaz Nadeem,India,Right-hand bat,Left-arm orthodox,Bowler,S Nadeem,39.0,S Nadeem,54.0
+3672,SV Samson,Sanju Samson,India,Right-hand bat,No information available,Batter,SV Samson,5181.0,,
+3673,SW Billings,Sam Billings,England,Right-hand bat,No information available,Batter,SW Billings,503.0,,
+3676,Vishnu Vinod,Vishnu Vinod,India,Right-hand bat,No information available,Batter,Vishnu Vinod,71.0,,
+3678,Z Khan,Zaheer Khan,India,Right-hand bat,Left-arm fast-medium,Bowler,Z Khan,117.0,Z Khan,119.0
+3686,Basil Thampi,Basil Thampi,India,Right-hand bat,Right-arm fast-medium,Bowler,Basil Thampi,32.0,Basil Thampi,26.0
+3704,Tejas Baroka,Tejas Baroka,India,Right-hand bat,Right-arm off-spin,All-rounder,,,Tejas Baroka,0.0
+3705,V Shankar,Vijay Shankar,India,Right-hand bat,Right-arm medium,All-rounder,V Shankar,1233.0,V Shankar,12.0
+3707,AS Rajpoot,Ankit Rajpoot,India,Right-hand bat,Right-arm fast-medium,Bowler,AS Rajpoot,26.0,AS Rajpoot,24.0
+3713,Harbhajan Singh,Harbhajan Singh,India,Right-hand bat,Right-arm offbreak,Bowler,Harbhajan Singh,833.0,Harbhajan Singh,161.0
+3725,Rishi Dhawan,Rishi Dhawan,India,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,,,,
+3730,SL Malinga,Lasith Malinga,Sri Lanka,Right-hand bat,Right-arm fast,Bowler,SL Malinga,88.0,SL Malinga,188.0
+3735,AB de Villiers,AB de Villiers,South Africa,Right-hand bat,Right-arm medium,Batter,AB de Villiers,5181.0,,
+3758,VR Aaron,Varun Aaron,India,Right-hand bat,Right-arm fast,Bowler,VR Aaron,50.0,VR Aaron,46.0
+3771,CJ Anderson,Corey Anderson,United States of America,Left-hand bat,Left-arm fast-medium,All-rounder,CJ Anderson,538.0,CJ Anderson,14.0
+3773,F du Plessis,Faf du Plessis,South Africa,Right-hand bat,Leg-spin,Batter,F du Plessis,4773.0,F du Plessis,0.0
+3782,RA Tripathi,Rahul Tripathi,India,Right Handed Bat,Right-arm medium,Batsman,RA Tripathi,2291.0,RA Tripathi,0.0
+3804,Mustafizur Rahman,Mustafizur Rahman,Bangladesh,Left-hand bat,Left-arm fast-medium,Bowler,Mustafizur Rahman,13.0,Mustafizur Rahman,74.0
+3820,C de Grandhomme,Colin de Grandhomme,New Zealand,Right-hand bat,Right-arm fast-medium,All-rounder,C de Grandhomme,303.0,C de Grandhomme,7.0
+3826,I Sharma,Ishant Sharma,India,Right-hand bat,Right-arm fast-medium,Bowler,I Sharma,57.0,I Sharma,100.0
+3839,UT Yadav,Umesh Yadav,India,Right-hand bat,Right-arm fast,Bowler,UT Yadav,208.0,UT Yadav,163.0
+3864,S Badree,Samuel Badree,West Indies,Right Handed Bat,Right-arm legbreak,Bowler,S Badree,13.0,S Badree,11.0
+3868,V Kohli,Virat Kohli,India,Right-hand bat,Right-arm medium,Batter,V Kohli,9346.0,V Kohli,5.0
+3872,AJ Tye,Andrew Tye,Australia,Right-hand bat,Right-arm fast-medium,Bowler,AJ Tye,91.0,AJ Tye,48.0
+3874,Ankit Sharma,Ankit Sharma,India,Left Handed Bat,Left-arm orthodox,Bowler,Ankit Sharma,87.0,Ankit Sharma,12.0
+3880,Ishan Kishan,Ishan Malhotra,India,Right-hand bat,Right-arm fast-medium,Bowler,Ishan Kishan,3600.0,Ishan Kishan,0.0
+3883,LH Ferguson,Lockie Ferguson,New Zealand,Right-hand bat,Right-arm fast,Bowler,LH Ferguson,72.0,LH Ferguson,64.0
+3888,RA Jadeja,Ravindra Jadeja,India,Left-hand bat,Left-arm orthodox,All-rounder,RA Jadeja,3526.0,RA Jadeja,189.0
+3894,SN Thakur,Shardul Thakur,India,Right-hand bat,Right-arm fast-medium,All-rounder,SN Thakur,349.0,SN Thakur,127.0
+3931,EJG Morgan,Eoin Morgan,England,Left-hand bat,Right-arm medium,Batter,EJG Morgan,1406.0,,
+3935,KC Cariappa,KC Cariappa,India,Right-hand bat,Leg-spin,Bowler,KC Cariappa,24.0,KC Cariappa,8.0
+3944,SS Iyer,Shreyas Iyer,India,Right-hand bat,Leg-spin,Batter,SS Iyer,4233.0,SS Iyer,0.0
+3968,MM Patel,Munaf Patel,India,Right-hand bat,Right-arm fast-medium,Bowler,MM Patel,39.0,MM Patel,82.0
+3980,AF Milne,Adam Milne,New Zealand,Right-hand bat,Right-arm fast,Bowler,AF Milne,25.0,AF Milne,9.0
+3988,JD Unadkat,Jaydev Unadkat,India,Right-hand bat,Left-arm fast-medium,Bowler,JD Unadkat,201.0,JD Unadkat,125.0
+4007,AD Mathews,Angelo Mathews,Sri Lanka,Right-hand bat,Right-arm fast-medium,All-rounder,AD Mathews,724.0,AD Mathews,28.0
+4017,Mohammed Shami,Mohammed Shami,India,Right-hand bat,Right-arm fast,Bowler,Mohammed Shami,115.0,Mohammed Shami,162.0
+4018,NM Coulter-Nile,Nathan Coulter-Nile,Australia,Right-hand bat,Right-arm fast,Bowler,NM Coulter-Nile,82.0,NM Coulter-Nile,52.0
+4038,BB Sran,Barinder Sran,India,Left Handed Bat,Left-arm fast-medium,Bowler,BB Sran,10.0,BB Sran,20.0
+4050,Mohammad Nabi,Mohammad Nabi,Afghanistan,Right-hand bat,Right-arm off-spin,All-rounder,Mohammad Nabi,221.0,Mohammad Nabi,15.0
+4056,S Kaul,Siddarth Kaul,India,Right-hand bat,Right-arm fast-medium,Bowler,S Kaul,20.0,S Kaul,63.0
+4096,J Yadav,Jayant Yadav,India,Right-hand bat,Right-arm off-spin,Bowler,J Yadav,40.0,J Yadav,9.0
+4098,KS Williamson,Kane Williamson,New Zealand,Right-hand bat,Right-arm off-spin,Batter,KS Williamson,2132.0,KS Williamson,0.0
+4101,Mohammed Siraj,Mohammed Siraj,India,Right-hand bat,Right-arm fast,Bowler,Mohammed Siraj,117.0,Mohammed Siraj,132.0
+4121,Gurkeerat Singh,Gurkeerat Singh Mann,India,Right-hand bat,Right-arm off-spin,Batter,Gurkeerat Singh,511.0,Gurkeerat Singh,5.0
+4138,SE Marsh,Shaun Marsh,Australia,Left-hand bat,Left-arm orthodox,Batter,SE Marsh,2489.0,,
+4153,JP Faulkner,James Faulkner,Australia,Right-hand bat,Left-arm fast-medium,All-rounder,JP Faulkner,527.0,JP Faulkner,76.0
+4166,Shakib Al Hasan,Shakib Al Hasan,Bangladesh,Left-hand bat,Left-arm orthodox,All-rounder,Shakib Al Hasan,795.0,Shakib Al Hasan,71.0
+4180,K Rabada,Kagiso Rabada,South Africa,Left-hand bat,Right-arm fast,Bowler,K Rabada,262.0,K Rabada,157.0
+4185,MG Johnson,Mitchell Johnson,Australia,Left-hand bat,Left-arm fast,Bowler,MG Johnson,167.0,MG Johnson,66.0
+4224,Washington Sundar,Washington Sundar,India,Left-hand bat,Right-arm off-spin,All-rounder,Washington Sundar,888.0,Washington Sundar,42.0
+4225,AD Nath,Akshdeep Nath,United Arab Emirates,Right Handed Bat,Right-arm fast-medium,Batting Allrounder,AD Nath,90.0,,
+4243,NB Singh,Nathu Singh,India,Right-hand bat,Right-arm fast-medium,Bowler,,,NB Singh,1.0
+4248,SS Agarwal,Shubham Agarwal,India,Right hand Bat,Right-arm legbreak,Bowler,,,SS Agarwal,1.0
+4292,KV Sharma,Karan Sharma,India,Right-hand bat,Leg-spin,Batter,KV Sharma,352.0,KV Sharma,89.0
+4312,DM Bravo,Darren Bravo,West Indies,Left-hand bat,Right-arm fast-medium,Batter,DM Bravo,6.0,,
+4338,Ankit Soni,Ankit Soni,India,Right-hand bat,Leg-spin,Bowler,Ankit Soni,7.0,Ankit Soni,4.0
+4362,AR Bawne,Ankit Bawne,India,Right Handed Bat,Right-arm offbreak,Batsman,AR Bawne,12.0,,
+4379,SP Jackson,Sheldon Jackson,India,Right-hand bat,No information available,Batter,SP Jackson,61.0,,
+4389,Anureet Singh,Anureet Singh,India,Right-hand bat,Right-arm medium,Bowler,Anureet Singh,36.0,Anureet Singh,21.0
+4402,MJ Guptill,Martin Guptill,New Zealand,Right-hand bat,Right-arm off-spin,Batter,MJ Guptill,271.0,,
+4452,IK Pathan,Irfan Pathan,India,Left-hand bat,Left-arm fast-medium,All-rounder,IK Pathan,1150.0,IK Pathan,99.0
+4569,PJ Sangwan,Pradeep Sangwan,India,Right-hand bat,Left-arm fast-medium,Bowler,PJ Sangwan,26.0,PJ Sangwan,44.0
+4621,R Powell,Rovman Powell,West Indies,Right Handed Bat,Right-arm fast-medium,Batsman,R Powell,555.0,R Powell,1.0
+4649,MN Samuels,Marlon Samuels,West Indies,Right-hand bat,Right-arm off-spin,All-rounder,MN Samuels,161.0,MN Samuels,10.0
+4725,LMP Simmons,Lendl Simmons,West Indies,Right-hand bat,Right-arm medium,Batter,LMP Simmons,1079.0,LMP Simmons,1.0
+4835,MJ Henry,Matt Henry,New Zealand,Right-hand bat,Right-arm fast-medium,Bowler,MJ Henry,7.0,MJ Henry,5.0
+4839,R Tewatia,Rahul Tewatia,India,Left Handed Bat,Right-arm legbreak,Bowling Allrounder,R Tewatia,1302.0,R Tewatia,36.0
+4966,J Suchith,Jagadeesha Suchith,India,Left Handed Bat,Left-arm orthodox,Bowler,J Suchith,70.0,J Suchith,20.0
+4975,R Vinay Kumar,Vinay Kumar,India,Right-hand bat,Right-arm fast-medium,Bowler,R Vinay Kumar,310.0,R Vinay Kumar,127.0
+4980,SS Tiwary,Saurabh Tiwary,India,Left-hand bat,No information available,Batter,SS Tiwary,1494.0,,
+5015,Avesh Khan,Avesh Khan,India,Right-hand bat,Right-arm fast-medium,Bowler,Avesh Khan,68.0,Avesh Khan,100.0
+5020,HV Patel,Harshal Patel,India,Right-hand bat,Right-arm fast-medium,Bowler,HV Patel,280.0,HV Patel,168.0
+5075,IR Jaggi,Ishank Jaggi,India,Right Handed Bat,Right-arm legbreak,Batsman,IR Jaggi,76.0,,
+5153,DJ Bravo,Dwayne Bravo,West Indies,Right-hand bat,Right-arm fast-medium,All-rounder,DJ Bravo,1560.0,DJ Bravo,207.0
+5155,E Lewis,Evin Lewis,West Indies,Left Handed Bat,No information available,Batsman,E Lewis,654.0,,
+5164,M Markande,Mayank Markande,India,Right-hand bat,Leg-spin,Bowler,M Markande,48.0,M Markande,37.0
+5165,MA Wood,Mark Wood,England,Right-hand bat,Right-arm fast,Bowler,MA Wood,12.0,MA Wood,11.0
+5179,C Munro,Colin Munro,New Zealand,Left-hand bat,Right-arm medium,Batter,C Munro,177.0,C Munro,0.0
+5186,KL Rahul,KL Rahul,India,Right-hand bat,No information available,Batter,KL Rahul,5828.0,,
+5192,Mujeeb Ur Rahman,Mujeeb Ur Rahman,Afghanistan,Right-hand bat,Right-arm off-spin,Bowler,Mujeeb Ur Rahman,12.0,Mujeeb Ur Rahman,21.0
+5195,R Ashwin,Ravichandran Ashwin,India,Right Handed Bat,Right-arm offbreak,Bowling Allrounder,R Ashwin,833.0,R Ashwin,205.0
+5205,AD Russell,Andre Russell,West Indies,Right-hand bat,Right-arm fast,All-rounder,AD Russell,2655.0,AD Russell,133.0
+5210,K Khejroliya,Kulwant Khejroliya,India,Left-hand bat,Left-arm fast-medium,Bowler,,,K Khejroliya,6.0
+5218,Q de Kock,Quinton de Kock,South Africa,Left-hand bat,No information available,Batter,Q de Kock,3444.0,,
+5220,RK Singh,Rinku Singh,India,Left-hand bat,Right-arm off-spin,Batter,RK Singh,1398.0,,
+5223,SN Khan,Sarfaraz Khan,India,Right Handed Bat,Right-arm legbreak,Batsman,SN Khan,746.0,SN Khan,0.0
+5232,B Laughlin,Ben Laughlin,Australia,Right-hand bat,Right-arm fast-medium,Bowler,B Laughlin,5.0,B Laughlin,10.0
+5237,DJM Short,D Arcy Short,Australia,Left Handed Bat,Left-arm wrist-spin,Batsman,DJM Short,115.0,DJM Short,1.0
+5241,K Gowtham,Krishnappa Gowtham,India,Right-hand bat,Right-arm offbreak,Bowling Allrounder,K Gowtham,247.0,K Gowtham,22.0
+5250,S Gopal,Shreyas Gopal,India,Right-hand bat,Leg-spin,Bowler,S Gopal,180.0,S Gopal,53.0
+5282,Shivam Mavi,Shivam Mavi,India,Right-hand bat,Right-arm fast-medium,Bowler,Shivam Mavi,51.0,Shivam Mavi,33.0
+5283,TK Curran,Tom Curran,England,Right-hand bat,Right-arm fast-medium,All-rounder,TK Curran,127.0,TK Curran,13.0
+5366,A Dananjaya,Akila Dananjaya,Sri Lanka,Left-hand bat,Right-arm off-spin,Bowler,A Dananjaya,4.0,A Dananjaya,0.0
+5416,Shubman Gill,Shubman Gill,India,Right-hand bat,Right-arm off-spin,Batter,Shubman Gill,4598.0,,
+5459,M Vijay,Murali Vijay,India,Right-hand bat,Right-arm off-spin,Batter,M Vijay,2619.0,M Vijay,0.0
+5510,JP Duminy,Jean-Paul Duminy,South Africa,Left-hand bat,Right-arm off-spin,All-rounder,JP Duminy,2029.0,JP Duminy,23.0
+5591,H Klaasen,Heinrich Klaasen,South Africa,Right-hand bat,Right-arm off-spin,Batter,H Klaasen,2104.0,,
+5681,RK Bhui,Ricky Bhui,India,Right-hand bat,Leg-spin,Batter,RK Bhui,10.0,,
+5702,JC Archer,Jofra Archer,England,Right-hand bat,Right-arm fast,Bowler,JC Archer,326.0,JC Archer,90.0
+5736,LE Plunkett,Liam Plunkett,United States of America,Right-hand bat,Right-arm fast,Bowler,LE Plunkett,1.0,LE Plunkett,4.0
+5739,PP Shaw,Prithvi Shaw,India,Right-hand bat,Right-arm off-spin,Batter,PP Shaw,1892.0,,
+5884,AD Hales,Alex Hales,England,Right-hand bat,Right-arm medium,Batter,AD Hales,148.0,,
+5892,IS Sodhi,Ish Sodhi,New Zealand,Right-hand bat,Leg-spin,Bowler,IS Sodhi,7.0,IS Sodhi,9.0
+5898,MK Lomror,Mahipal Lomror,India,Left Handed Bat,Left-arm orthodox,Batting Allrounder,MK Lomror,527.0,MK Lomror,2.0
+5917,M Ashwin,Murugan Ashwin,India,Right Handed Bat,Right-arm legbreak,Bowler,M Ashwin,35.0,M Ashwin,35.0
+5949,KM Asif,KM Asif,India,Right-hand bat,Right-arm fast-medium,Bowler,KM Asif,0.0,KM Asif,7.0
+5951,L Ngidi,Lungi Ngidi,South Africa,Right-hand bat,Right-arm fast,Bowler,L Ngidi,4.0,L Ngidi,46.0
+6077,DJ Willey,David Willey,England,Left-hand bat,Left-arm fast-medium,All-rounder,DJ Willey,53.0,DJ Willey,7.0
+6078,DR Shorey,Dhruv Shorey,India,Right-hand bat,Right-arm off-spin,Batter,DR Shorey,13.0,,
+6141,M Prasidh Krishna,Prasidh Krishna,India,Right-hand bat,Right-arm fast,Batter,M Prasidh Krishna,15.0,M Prasidh Krishna,98.0
+6192,MM Ali,Moeen Ali,England,Left-hand bat,Right-arm off-spin,All-rounder,MM Ali,1167.0,MM Ali,46.0
+6282,SP Goswami,Shreevats Goswami,India,Left-hand bat,No information available,Batter,SP Goswami,293.0,,
+6307,P Chopra,Prashant Chopra,India,Right Handed Bat,Right-arm legbreak,WK-Batsman,P Chopra,8.0,,
+6328,JPR Scantlebury-Searles,Javon Searles,West Indies,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,JPR Scantlebury-Searles,8.0,JPR Scantlebury-Searles,2.0
+6347,Abhishek Sharma,Abhishek Sharma,India,Left Handed Bat,Left-arm orthodox,Batting Allrounder,Abhishek Sharma,2379.0,Abhishek Sharma,11.0
+6349,CJ Dala,Junior Dala,South Africa,Right-hand bat,Right-arm medium,Bowler,,,CJ Dala,0.0
+6362,S Lamichhane,Sandeep Lamichhane,Nepal,Right-hand bat,Leg-spin,Bowler,S Lamichhane,0.0,S Lamichhane,14.0
+6735,KK Ahmed,Khaleel Ahmed,India,Right-hand bat,Left-arm fast-medium,Bowler,KK Ahmed,2.0,KK Ahmed,96.0
+6795,Navdeep Saini,Navdeep Saini,India,Right Handed Bat,Right-arm fast,Bowler,Navdeep Saini,33.0,Navdeep Saini,26.0
+6799,S Dube,Shivam Dube,India,Left-hand bat,Right-arm medium,All-rounder,S Dube,2129.0,S Dube,7.0
+6802,SO Hetmyer,Shimron Hetmyer,West Indies,Left Handed Bat,No information available,Batsman,SO Hetmyer,1566.0,,
+6815,JM Bairstow,Jonny Bairstow,England,Right-hand bat,Right-arm medium,Batter,JM Bairstow,1674.0,,
+6837,CA Ingram,Colin Ingram,South Africa,Left-hand bat,Leg-spin,Batter,CA Ingram,205.0,,
+6845,KMA Paul,Keemo Paul,West Indies,Right-hand bat,Right-arm fast-medium,All-rounder,KMA Paul,18.0,KMA Paul,10.0
+6853,Rasikh Salam,Rasikh Salam Dar,India,Right-hand bat,Right-arm fast-medium,Bowler,Rasikh Salam,43.0,Rasikh Salam,30.0
+6881,N Pooran,Nicholas Pooran,West Indies,Left-hand bat,Right-arm off-spin,Batter,N Pooran,2527.0,,
+6885,SM Curran,Sam Curran,England,Left-hand bat,Left-arm fast-medium,All-rounder,SM Curran,997.0,SM Curran,63.0
+6922,CV Varun,Varun Chakaravarthy,India,Right Handed Bat,Right-arm legbreak,Bowler,CV Varun,31.0,CV Varun,114.0
+6924,GC Viljoen,Hardus Viljoen,South Africa,Right-hand bat,Right-arm fast-medium,Bowler,GC Viljoen,3.0,GC Viljoen,8.0
+7031,GH Vihari,Hanuma Vihari,India,Right-hand bat,Right-arm off-spin,All-rounder,GH Vihari,284.0,GH Vihari,1.0
+7042,NS Naik,Niranjan Naik,India,Left-hand bat,No information available,Bowler,NS Naik,31.0,,
+7067,P Ray Barman,Prayas Barman,India,Right Handed Bat,Right-arm offbreak,Batsman,P Ray Barman,19.0,P Ray Barman,0.0
+7097,MJ Santner,Mitchell Santner,New Zealand,Left-hand bat,Left-arm orthodox,All-rounder,MJ Santner,136.0,MJ Santner,31.0
+7171,JP Behrendorff,Jason Behrendorff,Australia,Right-hand bat,Left-arm fast-medium,Bowler,JP Behrendorff,6.0,JP Behrendorff,22.0
+7267,SC Kuggeleijn,Scott Kuggeleijn,New Zealand,Right Handed Bat,Right-arm fast-medium,Batting Allrounder,,,SC Kuggeleijn,2.0
+7272,AS Joseph,Alzarri Joseph,West Indies,Right-hand bat,Right-arm fast,Bowler,AS Joseph,27.0,AS Joseph,22.0
+7335,HF Gurney,Harry Gurney,England,Right Handed Bat,Left-arm fast-medium,Bowler,HF Gurney,1.0,HF Gurney,7.0
+7348,S Midhun,Sudhesan Midhun,India,Right Handed Bat,Right-arm legbreak,Bowler,,,S Midhun,0.0
+7432,SD Lad,Siddhesh Dinesh Lad,India,Right hand Bat,Right arm Offbreak,Batsman,SD Lad,15.0,,
+7454,R Parag,Riyan Parag,India,Right-hand bat,Leg-spin,All-rounder,R Parag,1879.0,R Parag,11.0
+7472,JL Denly,Joe Denly,England,Right-hand bat,Leg-spin,All-rounder,JL Denly,0.0,,
+7506,LS Livingstone,Liam Livingstone,England,Right-hand bat,Leg-spin,All-rounder,LS Livingstone,1066.0,LS Livingstone,13.0
+7613,Milind Kumar,Milind Pathak,India,Left-hand bat,No information available,Batter,,,,
+7629,AJ Turner,Ashton Turner,Australia,Right-hand bat,Right-arm off-spin,All-rounder,AJ Turner,24.0,,
+7632,Arshdeep Singh,Arshdeep Singh,India,Left-hand bat,Left-arm fast-medium,Bowler,Arshdeep Singh,32.0,Arshdeep Singh,120.0
+7714,DW Steyn,Dale Steyn,South Africa,Right-hand bat,Right-arm fast,Bowler,DW Steyn,167.0,DW Steyn,105.0
+7771,Harpreet Brar,Harpreet Brar,India,Left-hand bat,Left-arm orthodox,Bowler,Harpreet Brar,249.0,Harpreet Brar,37.0
+7786,SE Rutherford,Sherfane Rutherford,West Indies,Left-hand bat,Right-arm fast-medium,All-rounder,SE Rutherford,520.0,SE Rutherford,1.0
+7815,Y Prithvi Raj,Prithvi Raj Yarra,India,Left-hand bat,Left-arm fast-medium,Bowler,Y Prithvi Raj,0.0,Y Prithvi Raj,1.0
+7941,O Thomas,Thomas Odoyo,Kenya,Right-hand bat,Right-arm fast-medium,All-rounder,,,O Thomas,5.0
+7954,AS Roy,Anukul Roy,India,Left-hand bat,Left-arm orthodox,All-rounder,AS Roy,78.0,AS Roy,17.0
+8056,S Sandeep Warrier,Sandeep Warrier,India,Right-hand bat,Right-arm fast-medium,Bowler,,,S Sandeep Warrier,8.0
+8081,P Simran Singh,Prabhsimran Singh,India,Right-hand bat,No information available,WK-Batsman,P Simran Singh,1865.0,,
+8305,Anmolpreet Singh,Anmolpreet Sing,India,Right Handed Bat,Right-arm offbreak,Batsman,Anmolpreet Singh,139.0,,
+8419,JL Pattinson,James Pattinson,Australia,Left-hand bat,Right-arm fast,Bowler,JL Pattinson,15.0,JL Pattinson,11.0
+8440,A Nortje,Anrich Nortje,South Africa,Right-hand bat,Right-arm fast,Bowler,A Nortje,49.0,A Nortje,63.0
+8460,Ravi Bishnoi,Ravi Bishnoi,India,Right Handed Bat,Right-arm legbreak,Bowler,Ravi Bishnoi,45.0,Ravi Bishnoi,89.0
+8464,SS Cottrell,Sheldon Cottrell,West Indies,Right-hand bat,Left-arm fast-medium,Bowler,SS Cottrell,0.0,SS Cottrell,6.0
+8472,D Padikkal,Devdutt Padikkal,India,Left-hand bat,Right-arm off-spin,Batter,D Padikkal,2270.0,,
+8475,I Udana,Isuru Udana,Sri Lanka,Right Handed Bat,Left-arm fast-medium,Bowling Allrounder,I Udana,15.0,I Udana,8.0
+8488,T Banton,Tom Banton,England,Right-hand bat,No information available,Batter,T Banton,18.0,,
+8494,Abdul Samad,Abdul Samad,India,Right-hand bat,Leg-spin,All-rounder,Abdul Samad,859.0,Abdul Samad,2.0
+8500,JO Holder,Jason Holder,West Indies,Right-hand bat,Right-arm fast-medium,All-rounder,JO Holder,324.0,JO Holder,76.0
+8507,PK Garg,Priyam Garg,India,Right-hand bat,Right-arm medium,Batter,PK Garg,273.0,,
+8537,RD Gaikwad,Ruturaj Gaikwad,India,Right Handed Bat,Right-arm offbreak,Batsman,RD Gaikwad,2839.0,,
+8547,YBK Jaiswal,Yashasvi Jaiswal,India,Left Handed Bat,Right-arm legbreak,Batsman,YBK Jaiswal,2593.0,YBK Jaiswal,0.0
+8556,KL Nagarkoti,Kamlesh Nagarkoti,India,Right-hand bat,Right-arm fast,Bowler,KL Nagarkoti,22.0,KL Nagarkoti,5.0
+8573,TU Deshpande,Tushar Deshpande,India,Left Handed Bat,Right-arm fast-medium,Bowler,TU Deshpande,54.0,TU Deshpande,60.0
+8613,JR Philippe,Josh Philippe,Australia,Right-hand bat,No information available,Batter,JR Philippe,78.0,,
+8640,Kartik Tyagi,Kartik Tyagi,India,Right-hand bat,Right-arm fast,Bowler,Kartik Tyagi,24.0,Kartik Tyagi,35.0
+8714,JDS Neesham,James Neesham,New Zealand,Left-hand bat,Right-arm fast-medium,All-rounder,JDS Neesham,92.0,JDS Neesham,8.0
+8772,DR Sams,Daniel Sams,Australia,Right-hand bat,Left-arm fast-medium,All-rounder,DR Sams,44.0,DR Sams,15.0
+8787,Shahbaz Ahmed,Shahbaz Nadeem,India,Right-hand bat,Left-arm orthodox,Bowler,Shahbaz Ahmed,603.0,Shahbaz Ahmed,27.0
+8809,N Jagadeesan,Narayan Jagadeesan,India,Right-hand bat,No information available,Batter,N Jagadeesan,162.0,,
+8876,AT Carey,Alex Carey,Australia,Left-hand bat,No information available,Batter,AT Carey,32.0,,
+9208,JR Hazlewood,Josh Hazlewood,Australia,Left-hand bat,Right-arm fast-medium,Bowler,JR Hazlewood,19.0,JR Hazlewood,73.0
+9257,CJ Green,Chris Green,Australia,Right-hand bat,Right-arm off-spin,All-rounder,,,CJ Green,0.0
+9567,MR Marsh,Mitchell Marsh,Australia,Right-hand bat,Right-arm fast-medium,All-rounder,MR Marsh,1855.0,MR Marsh,37.0
+9595,P Dubey,Praveen Dubey,India,Right Handed Bat,Right-arm legbreak,Bowling Allrounder,P Dubey,23.0,P Dubey,2.0
+9811,Lalit Yadav,Lalit Yadav,India,Right-hand bat,Right-arm off-spin,All-rounder,Lalit Yadav,305.0,Lalit Yadav,11.0
+9841,Monu Kumar,Monu Kumar,India,Right-hand bat,Right-arm medium,All-rounder,,,Monu Kumar,0.0
+10055,KA Jamieson,Kyle Jamieson,New Zealand,Right-hand bat,Right-arm fast-medium,Bowler,KA Jamieson,77.0,KA Jamieson,16.0
+10059,M Jansen,Marco Jansen,South Africa,Right-hand bat,Left-arm fast,All-rounder,M Jansen,192.0,M Jansen,47.0
+10064,RM Patidar,Rajat Patidar,India,Right-hand bat,Right-arm off-spin,Batter,RM Patidar,1612.0,,
+10130,C Sakariya,Chetan Sakariya,India,Left-hand bat,Left-arm fast-medium,Bowler,C Sakariya,20.0,C Sakariya,20.0
+10134,JA Richardson,Jhye Richardson,Australia,Right-hand bat,Right-arm fast,Bowler,JA Richardson,17.0,JA Richardson,3.0
+10139,M Shahrukh Khan,Shahrukh Khan,India,Right-hand bat,Right-arm off-spin,Batter,M Shahrukh Khan,775.0,M Shahrukh Khan,1.0
+10147,RP Meredith,Riley Meredith,Australia,Right-hand bat,Right-arm fast,Bowler,RP Meredith,0.0,RP Meredith,21.0
+10289,Virat Singh,V Singh,India,Right-hand bat,No information available,Batter,Virat Singh,15.0,,
+10326,Jalaj S Saxena,Jalaj Saxena,India,Right-hand bat,Right-arm off-spin,All-rounder,,,Jalaj S Saxena,0.0
+10329,LI Meriwala,Lukman Meriwala,India,Left Handed Bat,Left Handed Bat,Bowler,,,LI Meriwala,1.0
+10342,RV Patel,Ripal Patel,India,Right-hand bat,Right-arm fast-medium,All-rounder,RV Patel,80.0,RV Patel,0.0
+10406,FA Allen,Fabian Allen,West Indies,Right Handed Bat,Left-arm orthodox,Batting Allrounder,FA Allen,14.0,FA Allen,2.0
+10465,KW Richardson,Kane Richardson,Australia,Right-hand bat,Right-arm fast-medium,Bowler,KW Richardson,36.0,KW Richardson,21.0
+10780,Anuj Rawat,Anuj Rawat,India,Left-hand bat,No information available,Batter,Anuj Rawat,318.0,,
+10813,DJ Malan,Dawid Malan,England,Left-hand bat,Leg-spin,Batter,DJ Malan,26.0,,
+10843,KS Bharat,Srikar Bharat,India,Right Handed Bat,No information available,WK-Batsman,KS Bharat,199.0,,
+10848,PWH de Silva,Wanindu Hasaranga,Sri Lanka,Right-hand bat,Leg-spin,All-rounder,PWH de Silva,81.0,PWH de Silva,47.0
+10858,VR Iyer,Venkatesh Iyer,India,Left-hand bat,Right-arm medium,All-rounder,VR Iyer,1677.0,VR Iyer,3.0
+10882,Umran Malik,Umran Malik,India,Right-hand bat,Right-arm fast,Bowler,Umran Malik,23.0,Umran Malik,31.0
+10887,Akash Singh,Akash Singh,India,Right-hand bat,Leg-spin,Batter,,,Akash Singh,13.0
+10893,GD Phillips,Glenn Phillips,New Zealand,Right-hand bat,Right-arm off-spin,Batter,GD Phillips,132.0,GD Phillips,2.0
+10914,AK Markram,Aiden Markram,South Africa,Right-hand bat,Right-arm off-spin,Batter,AK Markram,1671.0,AK Markram,6.0
+10918,GHS Garton,George Garton,England,Left Handed Bat,Left-arm fast-medium,Batting Allrounder,GHS Garton,2.0,GHS Garton,3.0
+11007,K Yadav,Kartik Yadav,India,Left-hand bat,Left-arm orthodox,Bowler,K Yadav,0.0,K Yadav,2.0
+11126,T Shamsi,Tabraiz Shamsi,South Africa,Right-hand bat,Left-arm wrist-spin,Bowler,T Shamsi,2.0,T Shamsi,3.0
+11173,NT Ellis,Nathan Ellis,Australia,Right-hand bat,Right-arm fast-medium,Bowler,NT Ellis,19.0,NT Ellis,20.0
+11265,TL Seifert,Tim Seifert,New Zealand,Right Handed Bat,No information available,WK-Batsman,TL Seifert,45.0,,
+11490,AU Rashid,Adil Rashid,England,Right-hand bat,Leg-spin,Bowler,AU Rashid,22.0,AU Rashid,2.0
+11498,IC Porel,Ishan Porel,India,Right-hand bat,Right-arm fast-medium,Bowler,,,IC Porel,1.0
+11566,TH David,Tim David,Australia,Right-hand bat,Right-arm off-spin,Batter,TH David,1151.0,TH David,0.0
+11687,DP Conway,Devon Conway,New Zealand,Left-hand bat,Right-arm medium,Batter,DP Conway,1080.0,,
+11732,Tilak Varma,Tilak Varma,India,Left-hand bat,Right-arm off-spin,Batter,Tilak Varma,1858.0,Tilak Varma,0.0
+11734,Akash Deep,Akash Deep,India,Right-hand bat,Right-arm fast-medium,Bowler,Akash Deep,25.0,Akash Deep,11.0
+11748,OF Smith,Steven Smith,Australia,Right-hand bat,Leg-spin,Batter,OF Smith,51.0,OF Smith,7.0
+11749,PBB Rajapaksa,Bhanuka Rajapaksa,Sri Lanka,Left Handed Bat,Right-arm medium,WK-Batsman,PBB Rajapaksa,277.0,,
+11752,RA Bawa,Raj Bawa,India,Left Handed Bat,Right-arm fast-medium,Batting Allrounder,RA Bawa,35.0,RA Bawa,2.0
+11760,A Badoni,Ayush Badoni,India,Right-hand bat,Right-arm off-spin,All-rounder,A Badoni,1178.0,A Badoni,4.0
+11761,A Manohar,Abhinav Manohar,India,Right-hand bat,Leg-spin,Batter,A Manohar,292.0,,
+11773,MS Wade,Matthew Wade,Australia,Left-hand bat,No information available,Batter,MS Wade,183.0,,
+11775,Mohsin Khan,Mohsin Khan,India,Left Handed Bat,Left-arm fast-medium,Bowler,Mohsin Khan,25.0,Mohsin Khan,38.0
+11777,PVD Chameera,Dushmantha Chameera,Sri Lanka,Right-hand bat,Right-arm fast,Bowler,PVD Chameera,53.0,PVD Chameera,15.0
+11802,R Shepherd,Romario Shepherd,West Indies,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,R Shepherd,268.0,R Shepherd,19.0
+11845,D Pretorius,Dwaine Pretorius,South Africa,Right-hand bat,Right-arm fast-medium,All-rounder,D Pretorius,44.0,D Pretorius,7.0
+11855,Mukesh Choudhary,Mukesh Choudhary,India,Left-hand bat,Left-arm fast-medium,Bowler,Mukesh Choudhary,8.0,Mukesh Choudhary,26.0
+11956,JM Sharma,Jitesh Sharma,India,Right Handed Bat,No information available,WK-Batsman,JM Sharma,1107.0,,
+11974,VG Arora,Vaibhav Arora,India,Right Handed Bat,Right-arm fast-medium,Bowler,VG Arora,10.0,VG Arora,51.0
+12035,D Brevis,Dewald Brevis,South Africa,Right-hand bat,Leg-spin,Batter,D Brevis,606.0,D Brevis,1.0
+12087,B Sai Sudharsan,Sai Sudharsan,India,Left Handed Bat,Right-arm legbreak,Batsman,B Sai Sudharsan,2515.0,,
+12090,DG Nalkande,Darshan Nalkande,India,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,DG Nalkande,12.0,DG Nalkande,6.0
+12120,M Theekshana,Maheesh Theekshana,Sri Lanka,Right Handed Bat,Right-arm offbreak,Bowler,M Theekshana,17.0,M Theekshana,36.0
+12133,Shashank Singh,Shashank Singh,India,Right-hand bat,Right-arm medium,All-rounder,Shashank Singh,905.0,Shashank Singh,5.0
+12157,Ramandeep Singh,Ramandeep Singh,India,Right-hand bat,Right-arm medium,All-rounder,Ramandeep Singh,299.0,Ramandeep Singh,7.0
+12199,HE van der Dussen,Rassie van der Dussen,South Africa,Right-hand bat,Leg-spin,Batter,HE van der Dussen,22.0,,
+12206,KR Sen,Kuldeep Sen,India,Right-hand bat,Right-arm fast,Bowler,KR Sen,0.0,KR Sen,14.0
+12270,SS Prabhudessai,Suyash Prabhudessai,India,Right Handed Bat,Right-arm medium,Batting Allrounder,SS Prabhudessai,126.0,,
+12327,Yash Dayal,Yash Dayal,India,Right-hand bat,Left-arm fast-medium,Bowler,Yash Dayal,4.0,Yash Dayal,45.0
+12332,Aman Hakim Khan,Aman Khan,India,Left-hand bat,No information available,All-rounder,Aman Hakim Khan,115.0,Aman Hakim Khan,0.0
+12476,OC McCoy,Obed McCoy,West Indies,Left Handed Bat,Left-arm fast-medium,Bowler,OC McCoy,8.0,OC McCoy,11.0
+12551,HR Shokeen,Hrithik Shokeen,India,Right Handed Bat,Right-arm offbreak,Bowling Allrounder,HR Shokeen,66.0,HR Shokeen,5.0
+12710,DJ Mitchell,Daryl Mitchell,New Zealand,Right-hand bat,Right-arm medium,All-rounder,DJ Mitchell,351.0,DJ Mitchell,1.0
+12767,B Indrajith,Baba Indrajith,India,Right Handed Bat,Right-arm legbreak,Right-arm legbreak,B Indrajith,21.0,,
+12771,Harshit Rana,Harshit Rana,India,Right-hand bat,Right-arm fast-medium,Bowler,Harshit Rana,59.0,Harshit Rana,42.0
+12852,K Kartikeya,Kumar Kartikeya,India,Right Handed Bat,Left-arm wrist-spin,Bowler,K Kartikeya,12.0,K Kartikeya,12.0
+12920,Simarjeet Singh,Simarjeet Singh,India,Right-hand bat,Right-arm fast-medium,Bowler,Simarjeet Singh,10.0,Simarjeet Singh,12.0
+13029,SA Abbott,Sean Abbott,Australia,Right-hand bat,Right-arm fast-medium,Bowler,SA Abbott,22.0,SA Abbott,1.0
+13121,Fazalhaq Farooqi,Fazalhaq Farooqi,Afghanistan,Right-hand bat,Left-arm fast-medium,Bowler,Fazalhaq Farooqi,5.0,Fazalhaq Farooqi,6.0
+13208,KS Sharma,Karan Sharma,India,Right-hand bat,Leg-spin,Batter,KS Sharma,16.0,,
+13216,R Sai Kishore,Ravisrinivasan Sai Kishore,India,Left Handed Bat,Left-arm orthodox,Bowling Allrounder,R Sai Kishore,18.0,R Sai Kishore,33.0
+13276,T Stubbs,Tristan Stubbs,South Africa,Right-hand bat,Right-arm off-spin,Batter,T Stubbs,986.0,T Stubbs,4.0
+13339,M Pathirana,Matheesha Pathirana,Sri Lanka,Right Handed Bat,Right-arm fast,Bowler,,,M Pathirana,53.0
+13348,PH Solanki,Prashant Solanki,India,Right Handed Bat,Right-arm legbreak,Bowler,,,PH Solanki,2.0
+13431,R Sanjay Yadav,Sanjay Bangar,India,Right-hand bat,Right-arm fast-medium,All-rounder,R Sanjay Yadav,0.0,R Sanjay Yadav,0.0
+13442,A Tomar,Abhijeet Tomar,India,Right-hand bat,Right-arm off-spin,Batter,A Tomar,4.0,,
+13571,PN Mankad,Prerak Mankad,India,Right-hand bat,Right-arm medium,All-rounder,PN Mankad,97.0,,
+13694,J Little,Joshua Little,Ireland,Right Handed Bat,Left-arm fast-medium,Bowler,,,J Little,13.0
+13705,RS Hangargekar,Rajvardhan Hangargekar,India,Right-hand bat,Right-arm fast-medium,All-rounder,,,RS Hangargekar,3.0
+13733,Rahmanullah Gurbaz,Rahmanullah Gurbaz,Afghanistan,Right-hand bat,No information available,Batter,Rahmanullah Gurbaz,363.0,,
+13738,Sikandar Raza,Sikandar Raza,Zimbabwe,Right-hand bat,Right-arm off-spin,All-rounder,Sikandar Raza,182.0,Sikandar Raza,3.0
+13758,KR Mayers,Kyle Mayers,West Indies,Left-hand bat,Right-arm medium,All-rounder,KR Mayers,379.0,KR Mayers,0.0
+13764,Mukesh Kumar,Mukesh Kumar,India,Right-hand bat,Right-arm fast-medium,Bowler,Mukesh Kumar,10.0,Mukesh Kumar,52.0
+13770,RR Rossouw,Rilee Rossouw,South Africa,Left-hand bat,Right-arm off-spin,Batter,RR Rossouw,473.0,,
+13781,HC Brook,Harry Brook,England,Right Handed Bat,Right-arm medium,Batsman,HC Brook,190.0,,
+13804,Arshad Khan,Arshad Khan,India,Left Handed Bat,Left-arm medium,Bowling Allrounder,Arshad Khan,142.0,Arshad Khan,20.0
+13805,C Green,Cameron Green,Australia,Right-hand bat,Right-arm fast-medium,All-rounder,C Green,1029.0,C Green,27.0
+13816,MG Bracewell,Michael Bracewell,New Zealand,Left Handed Bat,Right-arm offbreak,Batting Allrounder,MG Bracewell,58.0,MG Bracewell,6.0
+13818,N Wadhera,Nehal Wadhera,India,Left Handed Bat,Right-arm legbreak,Batsman,N Wadhera,784.0,N Wadhera,0.0
+13822,RJW Topley,Reece Topley,England,Right-hand bat,Left-arm fast-medium,Bowler,RJW Topley,3.0,RJW Topley,5.0
+13858,Yash Thakur,Yash Thakur,India,Right-hand bat,Right-arm fast-medium,Bowler,,,Yash Thakur,30.0
+13864,Abishek Porel,Abishek Porel,India,Left-hand bat,No information available,Batter,Abishek Porel,769.0,,
+13891,Dhruv Jurel,Dhruv Jurel,India,Right-hand bat,No information available,WK-Batsman,Dhruv Jurel,1195.0,,
+13900,MW Short,Matthew Short,Australia,Right Handed Bat,Right-arm offbreak,Batsman,MW Short,177.0,MW Short,0.0
+13940,Suyash Sharma,Suyash Sharma,India,Right-hand bat,Leg-spin,Bowler,,,Suyash Sharma,29.0
+14029,SSB Magala,Sisanda Magala,South Africa,Right Handed Bat,Right-arm fast-medium,Bowler,,,SSB Magala,1.0
+14081,Mohit Rathee,Mohit Rathee,India,Right-hand bat,Leg-spin,All-rounder,Mohit Rathee,1.0,Mohit Rathee,0.0
+14122,WD Parnell,Wayne Parnell,South Africa,Left-hand bat,Left-arm fast-medium,Bowler,WD Parnell,65.0,WD Parnell,40.0
+14151,YV Dhull,Yash Dhull,India,Right Handed Bat,Right-arm offbreak,Batsman,YV Dhull,16.0,,
+14265,Vijaykumar Vyshak,Vijaykumar Vyshak,India,Right-hand bat,Right-arm medium,Bowler,Vijaykumar Vyshak,16.0,Vijaykumar Vyshak,31.0
+14271,Atharva Taide,Atharva Taide,India,Left-hand bat,Left-arm orthodox,Batter,Atharva Taide,260.0,Atharva Taide,0.0
+14276,Harpreet Singh,Harpreet Singh Bhatia,United Arab Emirates,Left-hand bat,Right-arm medium,Batter,Harpreet Singh,123.0,,
+14298,Yudhvir Singh,Yudhvir Singh Charak,India,Right-hand bat,Right-arm fast-medium,Bowler,Yudhvir Singh,22.0,Yudhvir Singh,8.0
+14300,Arjun Tendulkar,Arjun Tendulkar,India,Left-hand bat,Left-arm fast-medium,All-rounder,Arjun Tendulkar,18.0,Arjun Tendulkar,5.0
+14304,D Jansen,Duan Jansen,South Africa,Right Handed Bat,Left-arm fast,Bowler,,,D Jansen,1.0
+14344,Noor Ahmad,Noor Ahmad,Afghanistan,Right-hand bat,Left-arm wrist-spin,Bowler,Noor Ahmad,31.0,Noor Ahmad,62.0
+14431,Naveen-ul-Haq,Naveen-ul-Haq,Afghanistan,Right-hand bat,Right-arm fast-medium,Bowler,Naveen-ul-Haq,18.0,Naveen-ul-Haq,26.0
+14482,D Wiese,David Wiese,Namibia,Right-hand bat,Right-arm fast-medium,All-rounder,D Wiese,148.0,D Wiese,17.0
+14490,Liton Das,Litton Das,Bangladesh,Right Handed Bat,No information available,WK-Batsman,Liton Das,4.0,,
+14497,PD Salt,Philip Salt,England,Right-hand bat,Right-arm off-spin,Batter,PD Salt,1258.0,,
+14523,Mayank Dagar,Mayank Dagar,India,Right-hand bat,Left-arm orthodox,All-rounder,Mayank Dagar,0.0,Mayank Dagar,2.0
+14592,Abdul Basith,Abdul Basith,India,Right-hand bat,Right-arm off-spin,All-rounder,Abdul Basith,1.0,,
+14774,Gurnoor Brar,Gurnoor Brar,India,Left-hand bat,Right-arm fast,Bowler,,,Gurnoor Brar,0.0
+14827,AJ Hosein,Akeal Hosein,Trinidadian,Left hand Bat,Slow Left arm Orthodox,Bowler,AJ Hosein,21.0,AJ Hosein,10.0
+14879,SK Rasheed,Shaik Rasheed,India,Right Handed Bat,Right-arm legbreak,Batsman,SK Rasheed,71.0,,
+14941,Sonu Yadav,Sonu Yadav,India,Right-hand bat,Right-arm fast-medium,All-rounder,,,,
+15002,Akash Madhwal,Akash Madhwal,India,Right-hand bat,Right-arm fast-medium,Bowler,Akash Madhwal,8.0,Akash Madhwal,26.0
+15107,R Goyal,Rajeshwari Goyal,India,Right Handed Bat,No information available,Batsman,,,R Goyal,0.0
+15186,JE Root,Joe Root,England,Right-hand bat,Right-arm off-spin,Batter,JE Root,10.0,JE Root,0.0
+15202,Vivrant Sharma,Vivrant Sharma,India,Left-hand bat,Leg-spin,All-rounder,Vivrant Sharma,69.0,Vivrant Sharma,0.0
+15255,RS Sodhi,Reetinder Sodhi,India,Right Handed Bat,Right-arm medium,Batting Allrounder,RS Sodhi,4.0,,
+15303,P Dharmani,Pankaj Dharmani,India,Right Handed Bat,No information available,Batting Allrounder,,,,
+15480,MD Shanaka,Dasun Shanaka,Sri Lanka,Right-hand bat,Right-arm medium,All-rounder,MD Shanaka,89.0,MD Shanaka,1.0
+15488,Sanvir Singh,Sanvir Singh,India,Right-hand bat,Right-arm medium,All-rounder,Sanvir Singh,25.0,,
+15574,Nithish Kumar Reddy,Nitish Kumar Reddy,India,Right Handed Bat,Right-arm fast-medium,Batting Allrounder,Nithish Kumar Reddy,787.0,Nithish Kumar Reddy,17.0
+15586,D Ferreira,Donovan Ferreira,South Africa,Right-hand bat,Right-arm off-spin,Batter,D Ferreira,326.0,D Ferreira,1.0
+15704,H Sharma,Hitesh Sharma,Philippines,Right-hand bat,No information available,Batter,,,H Sharma,0.0
+15755,Subhransu Senapati,No information available,No information available,No information available,No information available,No information available,,,,
+15867,R Ravindra,Rachin Ravindra,New Zealand,Left-hand bat,Left-arm orthodox,All-rounder,R Ravindra,413.0,R Ravindra,0.0
+15872,Sameer Rizvi,Sameer Rizvi,India,Right-hand bat,Right-arm off-spin,Batter,Sameer Rizvi,424.0,,
+15900,SD Hope,Shai Hope,West Indies,Right Handed Bat,No information available,WK-Batsman,SD Hope,183.0,,
+15903,Sumit Kumar,Sumit Kumar,India,Right-hand bat,No information available,Batter,Sumit Kumar,18.0,Sumit Kumar,0.0
+15905,Tanay Thyagarajan,Tanay Thyagarajan,India,Left-hand bat,Left-arm orthodox,All-rounder,,,,
+15921,MA Starc,Mitchell Starc,Australia,Left-hand bat,Left-arm fast,Bowler,MA Starc,111.0,MA Starc,91.0
+15949,N Burger,Nandre Burger,South Africa,Left Handed Bat,Left-arm fast-medium,Bowler,N Burger,14.0,N Burger,21.0
+15966,Azmatullah Omarzai,Azmatullah Omarzai,Afghanistan,Right-hand bat,Right-arm fast-medium,All-rounder,Azmatullah Omarzai,151.0,Azmatullah Omarzai,15.0
+15970,G Coetzee,Gerald Coetzee,South Africa,Right-hand bat,Right-arm fast,Bowler,G Coetzee,31.0,G Coetzee,15.0
+15975,L Wood,Luke Wood,England,Left Handed Bat,Left-arm fast-medium,Bowler,L Wood,9.0,L Wood,1.0
+15978,Naman Dhir,Naman Dhir,India,Right-hand bat,Right-arm off-spin,Batter,Naman Dhir,710.0,Naman Dhir,1.0
+15985,SH Johnson,Spencer Johnson,Australia,Left Handed Bat,Left-arm fast,Bowler,SH Johnson,8.0,SH Johnson,7.0
+15986,SZ Mulani,Shams Mulani,India,Left-hand bat,Left-arm orthodox,All-rounder,SZ Mulani,1.0,SZ Mulani,0.0
+16065,KT Maphaka,Kwena Maphaka,South Africa,Left-hand bat,Left-arm fast-medium,Bowler,KT Maphaka,8.0,KT Maphaka,2.0
+16111,A Raghuvanshi,Angkrish Raghuvanshi,India,Right Handed Bat,Right-arm offbreak,Batsman,A Raghuvanshi,885.0,,
+16153,M Siddharth,Manimaran Siddharth,India,Right Handed Bat,Left-arm orthodox,Bowler,,,M Siddharth,9.0
+16155,MP Yadav,Mayank Yadav,India,Right Handed Bat,Right-arm fast,Bowler,MP Yadav,5.0,MP Yadav,10.0
+16248,SB Dubey,Shubham Dubey,India,Left-hand bat,Right-arm off-spin,Batter,SB Dubey,220.0,,
+16317,Ashutosh Sharma,Ashutosh Sharma,India,Right-hand bat,Right-arm medium,All-rounder,Ashutosh Sharma,564.0,,
+16395,Saurav Chauhan,Saurav Chauhan,India,Left-hand bat,Right-arm off-spin,Batter,Saurav Chauhan,18.0,,
+16413,J Fraser-McGurk,Jake Fraser-McGurk,Australia,Right-hand bat,Leg-spin,Batter,J Fraser-McGurk,385.0,,
+16418,Kumar Kushagra,Kumar Kushagra,India,Right-hand bat,No information available,Batter,Kumar Kushagra,21.0,,
+16436,BR Sharath,Sharath BR,India,Right Handed Bat,No information available,WK-Batsman,BR Sharath,2.0,,
+16527,KA Maharaj,Keshav Maharaj,South Africa,Right-hand bat,Left-arm orthodox,Bowler,KA Maharaj,1.0,KA Maharaj,2.0
+16578,WG Jacks,Will Jacks,England,Right-hand bat,Right-arm off-spin,All-rounder,WG Jacks,602.0,WG Jacks,10.0
+16632,Tanush Kotian,Tanush Kotian,India,Right-hand bat,Right-arm off-spin,All-rounder,Tanush Kotian,24.0,,
+16658,S Joseph,Shamar Joseph,West Indies,Left Handed Bat,Right-arm fast,Bowler,,,S Joseph,0.0
+16938,N Thushara,Nuwan Thushara,Sri Lanka,Right-hand bat,Right-arm fast-medium,Bowler,,,N Thushara,9.0
+17083,LB Williams,Lizaad Williams,South Africa,Left Handed Bat,Right-arm fast-medium,Bowler,LB Williams,1.0,LB Williams,1.0
+17220,AA Kulkarni,Arshin Kulkarni,India,Right Handed Bat,Right-arm fast-medium,Batting Allrounder,AA Kulkarni,26.0,,
+17269,RJ Gleeson,Richard Gleeson,England,Right-hand bat,Right-arm fast-medium,Bowler,RJ Gleeson,2.0,RJ Gleeson,2.0
+17349,MJ Suthar,Manav Suthar,India,Left Handed Bat,Left-arm orthodox,Bowling Allrounder,MJ Suthar,1.0,MJ Suthar,2.0
+17427,A Kamboj,Anshul Kamboj,India,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,A Kamboj,74.0,A Kamboj,34.0
+17461,Gulbadin Naib,Gulbadin Naib,Afghanistan,Right-hand bat,Right-arm fast-medium,All-rounder,Gulbadin Naib,19.0,Gulbadin Naib,0.0
+17509,V Viyaskanth,Vijayakanth Viyaskanth,Sri Lanka,Right Handed Bat,Right-arm legbreak,Bowler,V Viyaskanth,7.0,V Viyaskanth,1.0
+17536,V Kaverappa,Vidhwath Kaverappa,India,Right Handed Bat,Right-arm fast-medium,Bowler,,,V Kaverappa,2.0
+17711,T Kohler-Cadmore,Tom Kohler-Cadmore,England,Right Handed Bat,Right-arm offbreak,WK-Batsman,T Kohler-Cadmore,48.0,,
+17797,Shivam Singh,Shivam Singh,India,Right-hand bat,Right-arm off-spin,Batter,Shivam Singh,2.0,,
+17940,TM Srivastava,Tanmay Srivastava,India,Left-hand bat,No information available,Batter,TM Srivastava,8.0,,
+17951,Aniket Verma,Aniket Verma,India,Right-hand bat,Right-arm medium,Batter,Aniket Verma,315.0,,
+17988,PVSN Raju,Satyanarayana Raju,India,Right Handed Bat,Right-arm fast-medium,Bowler,PVSN Raju,1.0,PVSN Raju,2.0
+17990,R Minz,Robin Minz,India,Left Handed Bat,Left-arm orthodox,WK-Batsman,R Minz,12.0,,
+17995,RD Rickelton,Ryan Rickelton,South Africa,Left-hand bat,No information available,Batter,RD Rickelton,836.0,,
+18002,V Puthur,Vignesh Puthur,India,Right Handed Bat,Left-arm wrist-spin,Bowler,,,V Puthur,6.0
+18012,DS Rathi,Digvesh Singh Rathi,India,Right Handed Bat,Right-arm legbreak,Bowler,DS Rathi,3.0,DS Rathi,19.0
+18022,Prince Yadav,Prince Yadav,India,Right-hand bat,Right-arm medium,Bowler,Prince Yadav,5.0,Prince Yadav,25.0
+18029,T Vijay,Tripurana Vijay,India,Right Handed Bat,Right-arm offbreak,Bowling Allrounder,,,T Vijay,0.0
+18032,V Nigam,Vipraj Nigam,India,Right Handed Bat,Right-arm legbreak,Bowling Allrounder,V Nigam,157.0,V Nigam,14.0
+18050,Priyansh Arya,Priyansh Arya,India,Left-hand bat,Right-arm off-spin,Batter,Priyansh Arya,909.0,,
+18058,Suryansh Shedge,Suryansh Shedge,India,Right-hand bat,Right-arm fast-medium,All-rounder,Suryansh Shedge,165.0,Suryansh Shedge,0.0
+18134,MS Bhandage,Manoj Bhandage,India,Left-hand bat,Right-arm fast-medium,All-rounder,MS Bhandage,1.0,,
+18200,PWA Mulder,Wiaan Mulder,South Africa,Right-hand bat,Right-arm medium,All-rounder,PWA Mulder,9.0,PWA Mulder,0.0
+18207,Zeeshan Ansari,Zeeshan Ansari,India,Right-hand bat,Leg-spin,Bowler,,,Zeeshan Ansari,8.0
+18211,J Overton,Jamie Overton,England,Right-hand bat,Right-arm fast,All-rounder,J Overton,151.0,J Overton,14.0
+18240,Ashwani Kumar,Ashwani Kumar,India,Left-hand bat,Left-arm fast-medium,Bowler,Ashwani Kumar,1.0,Ashwani Kumar,17.0
+18341,PHKD Mendis,Kamindu Mendis,Sri Lanka,Left Handed Bat,Right-arm offbreak,Batting Allrounder,PHKD Mendis,92.0,PHKD Mendis,2.0
+18360,C Bosch,Corbin Bosch,South Africa,Right-hand bat,Right-arm fast-medium,All-rounder,C Bosch,97.0,C Bosch,14.0
+18654,Himmat Singh,Himmat Singh,India,Right-hand bat,Right-arm off-spin,Batter,Himmat Singh,92.0,,
+18680,E Malinga,Eshan Malinga,Sri Lanka,Left Handed Bat,Right-arm fast-medium,Bowler,E Malinga,7.0,E Malinga,35.0
+18801,JP Inglis,Josh Inglis,Australia,Right-hand bat,No information available,Wicket-keeper batter,JP Inglis,544.0,,
+18818,XC Bartlett,Xavier Bartlett,Australia,Right Handed Bat,Right-arm fast-medium,Bowler,XC Bartlett,40.0,XC Bartlett,7.0
+18964,V Suryavanshi,Vaibhav Sooryavanshi,India,Left Handed Bat,Left-arm orthodox,Batsman,V Suryavanshi,1028.0,,
+18996,A Mhatre,Ayush Mhatre,India,Right Handed Bat,Right-arm offbreak,Batsman,A Mhatre,441.0,,
+19235,JG Bethell,Jacob Bethell,England,Left Handed Bat,Left-arm orthodox,Batting Allrounder,JG Bethell,163.0,,
+19262,Karim Janat,Karim Janat,Afghanistan,Right-hand bat,Right-arm fast-medium,All-rounder,,,Karim Janat,0.0
+19437,Ashok Sharma,Ashok Sharma,India,Right-hand bat,Right-arm fast-medium,Bowler,Ashok Sharma,1.0,Ashok Sharma,6.0
+19442,KS Rathore,Kunal Singh Rathore,India,Left Handed Bat,Right-arm offbreak,WK-Batsman,KS Rathore,0.0,,
+19574,Urvil Patel,Urvil Patel,India,Right-hand bat,No information available,Wicket-keeper batter,Urvil Patel,197.0,,
+19589,M Tiwari,Manoj Tiwary,India,Right Handed Bat,Right-arm legbreak,Batsman,M Tiwari,21.0,M Tiwari,4.0
+19615,MJ Owen,Mitchell Owen,Australia,Right Handed Bat,Right-arm medium,Batting Allrounder,MJ Owen,0.0,,
+19674,Harsh Dubey,Harsh Dubey,India,Left-hand bat,Left-arm orthodox,All-rounder,Harsh Dubey,13.0,Harsh Dubey,13.0
+19688,W O'Rourke,William ORourke,New Zealand,Right Handed Bat,Right-arm fast-medium,Bowler,,,W O'Rourke,6.0
+19907,MP Breetzke,Matthew Breetzke,South Africa,Right-hand bat,No information available,Wicket-keeper batter,MP Breetzke,14.0,,
+19936,Musheer Khan,Musheer Khan,India,Right-hand bat,Left-arm orthodox,All-rounder,Musheer Khan,0.0,Musheer Khan,1.0
+19954,BKG Mendis,Kusal Mendis,Sri Lanka,Right-hand bat,No information available,Wicket-keeper batter,BKG Mendis,20.0,,
+20065,Sediqullah Atal,Sediqullah Atal,Afghanistan,Left-hand bat,No information available,Batter,Sediqullah Atal,22.0,,
+20070,Abhinandan Singh,Abhinandan Singh,India,Right-hand bat,Right-arm fast-medium,Bowler,,,Abhinandan Singh,3.0
+20075,DA Payne,David Payne,England,Right-hand bat,Left-arm fast-medium,Bowler,DA Payne,6.0,DA Payne,2.0
+20083,JA Duffy,Jacob Duffy,New Zealand,Right Handed Bat,Right-arm fast-medium,Bowler,,,JA Duffy,9.0
+20092,S Arora,Salil Arora,India,Right Handed Bat,No information available,WK-Batsman,S Arora,121.0,,
+20099,AM Ghazanfar,AM Ghazanfar,Afghanistan,Right-hand bat,Right-arm off-spin,Bowler,AM Ghazanfar,2.0,AM Ghazanfar,15.0
+20103,B Muzarabani,Blessing Muzarabani,Zimbabwe,Right-hand bat,Right-arm fast-medium,Bowler,,,B Muzarabani,5.0
+20106,FH Allen,Finn Allen,New Zealand,Right Handed Bat,No information available,Batsman,FH Allen,349.0,,
+20130,Brijesh Sharma,Brijesh Sharma,India,Right-hand bat,Right-arm medium,Bowler,Brijesh Sharma,2.0,Brijesh Sharma,14.0
+20137,Kartik Sharma,Kartik Sharma,India,Right-hand bat,No information available,Wicket-keeper batter,Kartik Sharma,295.0,,
+20161,C Connolly,Cooper Connolly,Australia,Left Handed Bat,Left-arm orthodox,Batting Allrounder,C Connolly,491.0,,
+20197,MD Choudhary,Mukesh Choudhary,India,Left Handed Bat,Left-arm fast-medium,Bowler,MD Choudhary,170.0,,
+20204,P Nissanka,Pathum Nissanka,Sri Lanka,Right-hand bat,No information available,Batter,P Nissanka,278.0,,
+20239,Shivang Kumar,Shivang Kumar,India,Right-hand bat,Left-arm wrist-spin,All-rounder,Shivang Kumar,53.0,Shivang Kumar,11.0
+20259,PR Veer,Prashant Veer,India,Left Handed Bat,Left-arm orthodox,Bowling Allrounder,PR Veer,90.0,PR Veer,0.0
+20567,Auqib Nabi,Auqib Nabi Dar,India,Right-hand bat,Right-arm medium,All-rounder,Auqib Nabi,14.0,Auqib Nabi,0.0
+20570,Gurjapneet Singh,Gurjapneet Singh,India,Right-hand bat,Left-arm fast-medium,Bowler,,,Gurjapneet Singh,4.0
+20601,GF Linde,George Linde,South Africa,Left-hand bat,Left-arm orthodox,All-rounder,GF Linde,31.0,GF Linde,1.0
+20660,LG Pretorius,Lhuan-dre Pretorius,South Africa,Left-hand bat,No information available,Wicket-keeper batter,LG Pretorius,7.0,,
+20663,PP Hinge,Praful Hinge,India,Right Handed Bat,Right-arm fast-medium,Bowler,PP Hinge,3.0,PP Hinge,14.0
+20669,Sakib Hussain,Sakib Hussain,India,Right-hand bat,Right-arm fast-medium,Bowler,Sakib Hussain,5.0,Sakib Hussain,16.0
+20747,Mayank Rawat,Mayank Rawat,India,Right-hand bat,Right-arm off-spin,All-rounder,,,,
+20879,Yash Raj Punja,Yash Raj Punja,India,Right-hand bat,Leg-spin,Bowler,,,Yash Raj Punja,9.0
+20916,DV Malewar,Danish Malewar,India,Right Handed Bat,Right-arm legbreak,Batsman,DV Malewar,2.0,,
+20923,Krish Bhagat,Krish Bhagat,India,Right-hand bat,Right-arm fast-medium,All-rounder,Krish Bhagat,10.0,Krish Bhagat,0.0
+20945,D Madushanka,Dilshan Madushanka,Sri Lanka,Right Handed Bat,Left-arm fast-medium,Bowler,,,D Madushanka,1.0
+20992,Ravi Singh,Ravi Singh,India,Left-hand bat,Leg-spin,Wicket-keeper batter,Ravi Singh,4.0,,
+21175,AA Noffke,Ashley Noffke,Australia,Right Handed Bat,Right-arm fast-medium,Bowler,AA Noffke,9.0,AA Noffke,1.0
+21176,AB Agarkar,Ajit Agarkar,India,Right-hand bat,Right-arm fast-medium,Bowler,AB Agarkar,179.0,AB Agarkar,33.0
+21180,B Akhil,Balachandra Akhil,India,Right Handed Bat,Right-arm medium,Batting Allrounder,B Akhil,76.0,B Akhil,7.0
+21182,CL White,Cameron White,Australia,Right-hand bat,Leg-spin,Batter,CL White,971.0,CL White,1.0
+21183,DJ Hussey,David Hussey,Australia,Right-hand bat,Right-arm off-spin,All-rounder,DJ Hussey,1322.0,DJ Hussey,10.0
+21186,JH Kallis,Jacques Kallis,South Africa,Right-hand bat,Right-arm fast-medium,All-rounder,JH Kallis,2427.0,JH Kallis,74.0
+21187,LR Shukla,Laxmi Shukla,India,Right Handed Bat,Right-arm medium,Batting Allrounder,LR Shukla,405.0,LR Shukla,17.0
+21188,M Kartik,Murali Kartik,India,Left-hand bat,Left-arm orthodox,Bowler,M Kartik,113.0,M Kartik,39.0
+21189,MV Boucher,Mark Boucher,South Africa,Right-hand bat,Right-arm medium,Wicket-keeper batter,MV Boucher,394.0,,
+21190,Mohammad Hafeez,Mohammad Hafeez,Pakistan,Right-hand bat,Right-arm off-spin,All-rounder,Mohammad Hafeez,64.0,Mohammad Hafeez,2.0
+21192,R Dravid,Rahul Dravid,India,Right-hand bat,Right-arm off-spin,Batter,R Dravid,2174.0,,
+21194,RT Ponting,Ricky Ponting,Australia,Right-hand bat,Right-arm medium,Batter,RT Ponting,91.0,,
+21195,SB Joshi,Sunil Joshi,India,Left-hand bat,Left-arm orthodox,Batter,SB Joshi,6.0,SB Joshi,1.0
+21196,SC Ganguly,Sourav Ganguly,India,Left-hand bat,Right-arm medium,Batter,SC Ganguly,1349.0,SC Ganguly,12.0
+21199,W Jaffer,Wasim Jaffer,India,Right-hand bat,Right-arm off-spin,Batter,W Jaffer,130.0,,
+21202,B Lee,Brett Lee,Australia,Right-hand bat,Right-arm fast,Bowler,B Lee,124.0,B Lee,30.0
+21204,JDP Oram,Jacob Oram,New Zealand,Left-hand bat,Right-arm fast-medium,All-rounder,JDP Oram,106.0,JDP Oram,13.0
+21205,JR Hopes,James Hopes,Australia,Right Handed Bat,Right-arm medium,Batsman,JR Hopes,417.0,JR Hopes,14.0
+21206,Joginder Sharma,Joginder Sharma,India,Right-hand bat,Right-arm fast-medium,All-rounder,Joginder Sharma,36.0,Joginder Sharma,13.0
+21207,K Goel,Karan Goel,India,Right Handed Bat,No information available,Batting Allrounder,K Goel,218.0,K Goel,0.0
+21208,KC Sangakkara,Kumar Sangakkara,Sri Lanka,Left-hand bat,Right-arm off-spin,Batter,KC Sangakkara,1687.0,,
+21209,M Muralitharan,Muthiah Muralidaran,Sri Lanka,Right Handed Bat,Right-arm offbreak,Bowler,M Muralitharan,20.0,M Muralitharan,67.0
+21210,MEK Hussey,Michael Hussey,Australia,Left-hand bat,Right-arm medium,Batter,MEK Hussey,1977.0,,
+21211,ML Hayden,Matthew Hayden,Australia,Left-hand bat,Right-arm medium,Batter,ML Hayden,1107.0,,
+21216,P Amarnath,Palani Amarnath,India,Right Handed Bat,Right-arm medium,Bowler,,,P Amarnath,7.0
+21221,S Badrinath,S Badrinath,India,Right-hand bat,Right-arm off-spin,Batter,S Badrinath,1441.0,,
+21222,S Sreesanth,S Sreesanth,India,Right-hand bat,Right-arm fast-medium,Bowler,S Sreesanth,34.0,S Sreesanth,43.0
+21226,SM Katich,Simon Katich,Australia,Left-hand bat,Left-arm wrist-spin,Batter,SM Katich,241.0,,
+21227,WA Mota,Wilkin Mota,India,Right Handed Bat,No information available,Batting Allrounder,WA Mota,56.0,WA Mota,4.0
+21230,B Geeves,Brett Geeves,Australia,Right Handed Bat,Right-arm fast-medium,Bowler,,,B Geeves,2.0
+21231,D Salunkhe,Dinesh Salunkhe,India,Right Handed Bat,No information available,Batting Allrounder,D Salunkhe,33.0,D Salunkhe,1.0
+21232,DL Vettori,Daniel Vettori,New Zealand,Left-hand bat,Left-arm orthodox,All-rounder,DL Vettori,121.0,DL Vettori,34.0
+21233,DS Lehmann,Darren Lehmann,Australia,Left-hand bat,Left-arm orthodox,All-rounder,DS Lehmann,18.0,,
+21236,GD McGrath,Glenn McGrath,Australia,Right-hand bat,Right-arm fast-medium,Bowler,GD McGrath,4.0,GD McGrath,14.0
+21240,M Kaif,Mohammad Kaif,India,Right-hand bat,Right-arm off-spin,Batter,M Kaif,259.0,,
+21241,M Manhas,Mithun Manhas,India,Right-hand bat,Right-arm off-spin,All-rounder,M Manhas,514.0,M Manhas,0.0
+21242,M Rawat,Mahesh Rawat,India,Right-hand bat,No information available,Wicket-keeper batter,M Rawat,55.0,,
+21243,MF Maharoof,Farveez Maharoof,Sri Lanka,Right-hand bat,Right-arm fast-medium,All-rounder,MF Maharoof,177.0,MF Maharoof,33.0
+21249,SK Trivedi,Siddharth Trivedi,India,Right Handed Bat,Right-arm medium,Bowler,SK Trivedi,42.0,SK Trivedi,73.0
+21250,SK Warne,Shane Warne,Australia,Right-hand bat,Leg-spin,Bowler,SK Warne,198.0,SK Warne,60.0
+21252,T Kohli,Taruwar Kohli,India,Right-hand bat,Right-arm medium,All-rounder,T Kohli,11.0,,
+21253,V Sehwag,Virender Sehwag,India,Right-hand bat,Right-arm off-spin,Batter,V Sehwag,2728.0,V Sehwag,6.0
+21256,AM Nayar,Abhishek Nayar,India,Left-hand bat,Right-arm medium,All-rounder,AM Nayar,672.0,AM Nayar,9.0
+21260,DJ Thornely,Dominic Thornely,Australia,Right Handed Bat,No information available,Batting Allrounder,DJ Thornely,39.0,DJ Thornely,3.0
+21265,L Ronchi,Luke Ronchi,New Zealand,Right-hand bat,No information available,Wicket-keeper batter,L Ronchi,34.0,,
+21266,LRPL Taylor,Ross Taylor,Samoa,Right-hand bat,Right-arm off-spin,Batter,LRPL Taylor,1017.0,LRPL Taylor,0.0
+21267,MA Khote,Musavir Khote,India,Right Handed Bat,No information available,Batting Allrounder,MA Khote,24.0,MA Khote,2.0
+21270,PR Shah,Pinal Shah,India,Right Handed Bat,No information available,WK-Batsman,PR Shah,92.0,,
+21274,S Chanderpaul,Shivnarine Chanderpaul,West Indies,Left-hand bat,Leg-spin,Batter,S Chanderpaul,25.0,,
+21277,SM Pollock,Shaun Pollock,South Africa,Right-hand bat,Right-arm fast-medium,All-rounder,SM Pollock,147.0,SM Pollock,13.0
+21279,ST Jayasuriya,Sanath Jayasuriya,Sri Lanka,Left Handed Bat,Left-arm orthodox,Batting Allrounder,ST Jayasuriya,768.0,ST Jayasuriya,16.0
+21282,A Symonds,Andrew Symonds,Australia,Right-hand bat,Right-arm medium,All-rounder,A Symonds,974.0,A Symonds,23.0
+21285,AC Gilchrist,Adam Gilchrist,Australia,Left-hand bat,Right-arm off-spin,Wicket-keeper batter,AC Gilchrist,2069.0,AC Gilchrist,1.0
+21286,AS Yadav,Arjun Yadav,India,Right Handed Bat,No information available,Batsman,AS Yadav,49.0,,
+21298,PP Ojha,Pragyan Ojha,India,Left-hand bat,Left-arm orthodox,Bowler,PP Ojha,16.0,PP Ojha,99.0
+21300,RP Singh,R P Singh,India,Right-hand bat,No information available,Batter,RP Singh,52.0,RP Singh,100.0
+21302,SB Bangar,Sanjay Bangar,India,Right-hand bat,Right-arm fast-medium,All-rounder,SB Bangar,49.0,SB Bangar,6.0
+21303,SB Styris,Scott Styris,New Zealand,Right-hand bat,Right-arm medium,All-rounder,SB Styris,131.0,SB Styris,9.0
+21305,VVS Laxman,VVS Laxman,India,Right-hand bat,Right-arm off-spin,Batter,VVS Laxman,282.0,,
+21307,WPUJC Vaas,Chaminda Vaas,Sri Lanka,Left-hand bat,Left-arm fast-medium,Bowler,WPUJC Vaas,81.0,WPUJC Vaas,22.0
+21308,Y Venugopal Rao,Venugopal Rao,India,Right Handed Bat,Right-arm offbreak,Batsman,Y Venugopal Rao,985.0,Y Venugopal Rao,7.0
+21312,DPMD Jayawardene,Mahela Jayawardene,Sri Lanka,Right-hand bat,Right-arm medium,Batter,DPMD Jayawardene,1808.0,,
+21319,Kamran Akmal,Kamran Akmal,Pakistan,Right-hand bat,No information available,Wicket-keeper batter,Kamran Akmal,128.0,,
+21324,Pankaj Singh,Pratap Singh,India,Right-hand bat,Right-arm medium,Bowler,Pankaj Singh,7.0,Pankaj Singh,11.0
+21327,S Sohal,Sunny Sohal,India,Right Handed Bat,Right-arm legbreak,Batsman,S Sohal,368.0,,
+21348,Mohammad Asif,Mohammad Asif,Pakistan,Left-hand bat,Right-arm fast-medium,Bowler,Mohammad Asif,3.0,Mohammad Asif,9.0
+21355,Shahid Afridi,Shahid Afridi,Pakistan,Right-hand bat,Leg-spin,All-rounder,Shahid Afridi,81.0,Shahid Afridi,9.0
+21356,Shoaib Malik,Shoaib Malik,Pakistan,Right-hand bat,Right-arm off-spin,All-rounder,Shoaib Malik,52.0,Shoaib Malik,2.0
+21360,VY Mahesh,Yo Mahesh,India,Right Handed Bat,No information available,Bowling Allrounder,VY Mahesh,15.0,VY Mahesh,22.0
+21389,VS Yeligati,Vikrant Yeligati,India,Right Handed Bat,No information available,Batting Allrounder,VS Yeligati,2.0,VS Yeligati,0.0
+21395,D Kalyankrishna,Doddapaneni Kalyankrishna,India,Right Handed Bat,No information available,Batting Allrounder,D Kalyankrishna,3.0,D Kalyankrishna,2.0
+21397,GC Smith,Graeme Smith,South Africa,Left-hand bat,Right-arm off-spin,Batter,GC Smith,739.0,,
+21436,RR Sarwan,Ramnaresh Sarwan,West Indies,Right-hand bat,Leg-spin,Batter,RR Sarwan,73.0,,
+21443,VRV Singh,Vikram Singh,India,Right-hand bat,Right-arm fast-medium,All-rounder,VRV Singh,4.0,VRV Singh,16.0
+21445,A Kumble,Anil Kumble,India,Right-hand bat,Leg-spin,Bowler,A Kumble,35.0,A Kumble,49.0
+21468,Sohail Tanvir,Sohail Tanvir,Pakistan,Left-hand bat,Left-arm fast-medium,Bowler,Sohail Tanvir,36.0,Sohail Tanvir,24.0
+21509,DNT Zoysa,Nuwan Zoysa,Sri Lanka,Left-hand bat,Left-arm fast-medium,Batter,DNT Zoysa,11.0,DNT Zoysa,2.0
+21519,SD Chitnis,Siddharth Chitnis,India,Right-hand bat,Right-arm off-spin,Batter,SD Chitnis,99.0,SD Chitnis,2.0
+21554,B Chipli,Bharath Chipli,India,Right Handed Bat,No information available,Batsman,B Chipli,280.0,B Chipli,0.0
+21558,JA Morkel,Albie Morkel,South Africa,Left-hand bat,Right-arm fast-medium,All-rounder,JA Morkel,975.0,JA Morkel,96.0
+21588,CRD Fernando,Dilhara Fernando,Sri Lanka,Right-hand bat,Right-arm fast-medium,Bowler,CRD Fernando,4.0,CRD Fernando,19.0
+21589,DB Das,Debabrata Das,India,Right-hand bat,Leg-spin,Batter,DB Das,304.0,,
+21640,Gagandeep Singh,Gagandeep Singh,India,Right-hand bat,No information available,All-rounder,,,Gagandeep Singh,3.0
+21641,HH Gibbs,Herschelle Gibbs,South Africa,Right-hand bat,No information available,Batter,HH Gibbs,886.0,,
+21664,BJ Hodge,Brad Hodge,Australia,Right Handed Bat,Right-arm offbreak,Batting Allrounder,BJ Hodge,1400.0,BJ Hodge,18.0
+21678,SA Asnodkar,Swapnil Asnodkar,India,Right Handed Bat,Right-arm offbreak,Batting Allrounder,SA Asnodkar,423.0,,
+21683,Salman Butt,Salman Butt,Pakistan,Left-hand bat,Right-arm off-spin,Batter,Salman Butt,193.0,,
+21686,Umar Gul,Umar Gul,Pakistan,Right-hand bat,Right-arm fast-medium,Bowler,Umar Gul,39.0,Umar Gul,14.0
+21698,M Ntini,Makhaya Ntini,South Africa,Right-hand bat,Right-arm fast,Bowler,M Ntini,11.0,M Ntini,8.0
+21710,S Vidyut,Vidyut Sivaramakrishnan,India,Right Handed Bat,No information available,Batting Allrounder,S Vidyut,145.0,S Vidyut,1.0
+21712,SP Fleming,Stephen Fleming,New Zealand,Left-hand bat,No information available,Batter,SP Fleming,196.0,,
+21723,DB Ravi Teja,Dwaraka Ravi Teja,India,Right Handed Bat,No information available,Batsman,DB Ravi Teja,375.0,DB Ravi Teja,1.0
+21724,DP Vijaykumar,Vijaykumar Vyshak,India,Right Handed Bat,Right-arm medium,Bowler,DP Vijaykumar,1.0,DP Vijaykumar,4.0
+21729,LPC Silva,Chamara Silva,Sri Lanka,Right-hand bat,Leg-spin,Batter,LPC Silva,40.0,LPC Silva,0.0
+21730,Misbah-ul-Haq,Misbah-ul-Haq,Pakistan,Right-hand bat,Leg-spin,Batter,Misbah-ul-Haq,117.0,,
+21786,RR Raje,Rohan Raje,India,Right-hand bat,Right-arm fast-medium,All-rounder,RR Raje,20.0,RR Raje,7.0
+21796,YV Takawale,Yogesh Takawale,India,Right Handed Bat,No information available,WK-Batsman,YV Takawale,192.0,,
+21829,DT Patil,Devraj Patil,India,Right Handed Bat,No information available,WK-Batsman,DT Patil,13.0,,
+21845,U Kaul,Uday Kaul,India,Left-hand bat,No information available,Wicket-keeper batter,U Kaul,0.0,,
+21869,S Anirudha,Srikkanth Anirudha,India,Right Handed Bat,No information available,Batsman,S Anirudha,136.0,,
+21908,CK Kapugedera,Chamara Kapugedera,Sri Lanka,Right-hand bat,Right-arm medium,Batter,CK Kapugedera,16.0,CK Kapugedera,0.0
+21914,L Balaji,Lakshmipathy Balaji,India,Right-hand bat,Right-arm fast-medium,Bowler,L Balaji,36.0,L Balaji,85.0
+21931,A Chopra,Aakash Chopra,India,Right-hand bat,No information available,Batter,A Chopra,53.0,,
+21943,J Arunkumar,Jagadeesh Arunkumar,India,Right Handed Bat,No information available,Batting Allrounder,J Arunkumar,23.0,,
+21952,T Taibu,Tatenda Taibu,Zimbabwe,Right-hand bat,Right-arm off-spin,Wicket-keeper batter,T Taibu,31.0,,
+21967,NK Patel,Niraj Patel,India,Right Handed Bat,No information available,Batting Allrounder,NK Patel,121.0,,
+22005,SR Tendulkar,Sachin Tendulkar,India,Right-hand bat,Leg-spin,Batter,SR Tendulkar,2334.0,SR Tendulkar,0.0
+22064,AD Mascarenhas,Dimitri Mascarenhas,England,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,AD Mascarenhas,79.0,AD Mascarenhas,19.0
+22084,TM Dilshan,Tillakaratne Dilshan,Sri Lanka,Right-hand bat,Right-arm off-spin,All-rounder,TM Dilshan,1153.0,TM Dilshan,5.0
+22100,LA Pomersbach,Luke Pomersbach,Australia,Left Handed Bat,Right-arm offbreak,Batsman,LA Pomersbach,302.0,,
+22134,Shoaib Akhtar,Shoaib Akhtar,Pakistan,Right-hand bat,Right-arm fast,Bowler,Shoaib Akhtar,2.0,Shoaib Akhtar,5.0
+22183,RR Powar,Ramesh Powar,India,Right-hand bat,Right-arm off-spin,Bowler,RR Powar,67.0,RR Powar,15.0
+22193,Younis Khan,Younis Khan,Pakistan,Right-hand bat,Right-arm medium,Batter,Younis Khan,3.0,,
+22211,PM Sarvesh Kumar,Sarvesh Kumar,India,Right Handed Bat,No information available,Bowling Allrounder,PM Sarvesh Kumar,1.0,PM Sarvesh Kumar,1.0
+22239,RV Pawar,Ramesh Powar,India,Right Handed Bat,Right-arm offbreak,Bowler,,,,
+22278,Abdur Razzak,Abdur Razzak,Bangladesh,Left-hand bat,Left-arm orthodox,Bowler,Abdur Razzak,0.0,Abdur Razzak,0.0
+22317,H Das,Halhadar Das,India,Right Handed Bat,No information available,WK-Batsman,H Das,2.0,,
+22496,A Nel,Andre Nel,South Africa,Right-hand bat,Right-arm fast-medium,Bowler,,,A Nel,1.0
+22520,A Mukund,Abhinav Mukund,India,Left-hand bat,No information available,Batter,A Mukund,19.0,,
+22576,BAW Mendis,Ajantha Mendis,Sri Lanka,Right-hand bat,Right-arm off-spin,Bowler,BAW Mendis,3.0,BAW Mendis,9.0
+22733,A Flintoff,Andrew Flintoff,England,Right-hand bat,Right-arm fast,All-rounder,A Flintoff,62.0,A Flintoff,2.0
+22758,T Thushara,Thilan Thushara,Sri Lanka,Left-hand bat,Left-arm fast-medium,Bowler,T Thushara,12.0,T Thushara,10.0
+22768,JD Ryder,Jesse Ryder,New Zealand,Left-hand bat,Right-arm medium,All-rounder,JD Ryder,604.0,JD Ryder,11.0
+22770,KP Pietersen,Kevin Pietersen,England,Right-hand bat,Right-arm off-spin,Batter,KP Pietersen,1001.0,KP Pietersen,9.0
+22771,Kamran Khan,Kamran Khan,India,Right-hand bat,No information available,Bowler,Kamran Khan,3.0,Kamran Khan,14.0
+22784,T Henderson,Tyron Henderson,South Africa,Right Handed Bat,Right-arm fast-medium,Batting Allrounder,T Henderson,11.0,T Henderson,1.0
+22789,AM Salvi,Aavishkar Salvi,India,Right Handed Bat,Right-arm medium,Bowler,,,AM Salvi,7.0
+22791,DP Nannes,Dirk Nannes,Australia,Right Handed Bat,Left-arm fast,Bowler,DP Nannes,4.0,DP Nannes,38.0
+22803,RS Bopara,Ravi Bopara,England,Right-hand bat,Right-arm medium,All-rounder,RS Bopara,531.0,RS Bopara,13.0
+22809,VS Malik,Vikramjeet Singh Malik,India,Right Handed Bat,Right-arm medium,Bowler,VS Malik,7.0,VS Malik,6.0
+22811,YA Abdulla,Yusuf Abdulla,South Africa,Left Handed Bat,Left-arm fast-medium,Batting Allrounder,YA Abdulla,0.0,YA Abdulla,15.0
+22823,FH Edwards,Fidel Edwards,West Indies,Right-hand bat,Right-arm fast,Bowler,FH Edwards,4.0,FH Edwards,6.0
+22825,Harmeet Singh,Harmeet Singh Bansal,India,Right-hand bat,Right-arm fast-medium,Bowler,Harmeet Singh,18.0,Harmeet Singh,31.0
+22858,R Bishnoi,Rajesh Bishnoi,India,Right Handed Bat,No information available,Batsman,R Bishnoi,19.0,,
+22893,Yashpal Singh,Yashpal Singh,India,Right-hand bat,Right-arm medium,All-rounder,Yashpal Singh,47.0,,
+22952,AS Raut,Abhishek Raut,India,Right-hand bat,Leg-spin,All-rounder,AS Raut,194.0,AS Raut,0.0
+22968,PC Valthaty,Paul Valthaty,India,Right Handed Bat,Right-arm medium,Batsman,PC Valthaty,505.0,PC Valthaty,7.0
+22970,RJ Quiney,Rob Quiney,Australia,Left-hand bat,Right-arm medium,Batter,RJ Quiney,103.0,,
+22992,RR Bose,Ranadeb Bose,India,Right Handed Bat,No information available,Batting Allrounder,,,RR Bose,0.0
+23042,KP Appanna,KP Appanna,India,Right-hand bat,Left-arm orthodox,Bowler,KP Appanna,2.0,KP Appanna,11.0
+23084,AA Bilakhia,Azhar Bilakhia,India,Right Handed Bat,No information available,Batsman,AA Bilakhia,69.0,,
+23107,Shoaib Ahmed,Shoaib Ahmed,India,Right-hand bat,No information available,Bowler,Shoaib Ahmed,1.0,Shoaib Ahmed,5.0
+23113,AN Ghosh,Arindam Ghosh,India,Right-hand bat,No information available,All-rounder,AN Ghosh,7.0,,
+23179,MN van Wyk,Morne van Wyk,South Africa,Right Handed Bat,Left-arm orthodox,WK-Batsman,MN van Wyk,167.0,,
+23184,RE van der Merwe,Roelof van der Merwe,Netherlands,Right-hand bat,Left-arm orthodox,Bowler,RE van der Merwe,159.0,RE van der Merwe,25.0
+23243,TL Suman,Tirumalsetti Suman,India,Right Handed Bat,Right-arm offbreak,Batsman,TL Suman,676.0,TL Suman,7.0
+23267,S Tyagi,Sudeep Tyagi,India,Right Handed Bat,Right-arm fast-medium,Bowler,S Tyagi,3.0,S Tyagi,6.0
+23282,GR Napier,Graham Napier,England,Right Handed Bat,Right-arm medium,Bowling Allrounder,GR Napier,15.0,GR Napier,1.0
+23336,LA Carseldine,Lee Carseldine,Australia,Right Handed Bat,No information available,Batting Allrounder,LA Carseldine,81.0,LA Carseldine,1.0
+23350,SM Harwood,Shane Harwood,Australia,Right Handed Bat,Right-arm fast-medium,Batting Allrounder,SM Harwood,9.0,SM Harwood,3.0
+23412,D du Preez,Dillon du Preez,South Africa,Right Handed Bat,Right-arm fast-medium,Batting Allrounder,D du Preez,10.0,D du Preez,4.0
+23450,RJ Harris,Ryan Harris,Australia,Right-hand bat,Right-arm fast,Bowler,RJ Harris,117.0,RJ Harris,47.0
+23463,A Singh,Amit Singh,India,Right Handed Bat,Right-arm medium,Bowler,A Singh,2.0,A Singh,31.0
+23554,M Morkel,Morne Morkel,South Africa,Left-hand bat,Right-arm fast,Bowler,M Morkel,126.0,M Morkel,88.0
+23573,GJ Bailey,George Bailey,Australia,Right-hand bat,Right-arm medium,Batter,GJ Bailey,663.0,,
+23680,A Mithun,Abhimanyu Mithun,India,Right-hand bat,Right-arm medium,Bowler,A Mithun,34.0,A Mithun,8.0
+23685,C Nanda,Chetanya Nanda,India,Right Handed Bat,No information available,Batsman,C Nanda,0.0,C Nanda,2.0
+23728,SS Sarkar,Sourav Sarkar,India,Right Handed Bat,No information available,Batting Allrounder,,,SS Sarkar,1.0
+23879,J Botha,Johan Botha,South Africa,Right-hand bat,Right-arm off-spin,All-rounder,J Botha,409.0,J Botha,27.0
+23962,Mashrafe Mortaza,Mashrafe Mortaza,Bangladesh,Right-hand bat,Right-arm fast-medium,Bowler,Mashrafe Mortaza,2.0,Mashrafe Mortaza,1.0
+23972,SS Shaikh,Shoaib Shaikh,India,Right Handed Bat,Right-arm medium,Bowler,SS Shaikh,6.0,,
+23984,Jaskaran Singh,Jaspal Singh,Malta,Right-hand bat,Right-arm medium,Batter,Jaskaran Singh,8.0,Jaskaran Singh,6.0
+24060,AB McDonald,Andrew McDonald,Australia,Right-hand bat,Right-arm fast-medium,All-rounder,AB McDonald,123.0,AB McDonald,14.0
+24084,Y Nagar,Yogesh Nagar,India,Right-hand bat,No information available,All-rounder,Y Nagar,285.0,Y Nagar,4.0
+24091,CK Langeveldt,Charl Langeveldt,South Africa,Right-hand bat,Right-arm fast-medium,Batter,CK Langeveldt,8.0,CK Langeveldt,13.0
+24153,Mohammad Ashraful,Mohammad Ashraful,Bangladesh,Right-hand bat,Leg-spin,Batter,Mohammad Ashraful,2.0,,
+24157,RA Shaikh,No information available,No information available,No information available,No information available,No information available,,,RA Shaikh,0.0
+24278,Anirudh Singh,Anirudh Singh,India,Left-hand bat,Right-arm medium,Batter,Anirudh Singh,63.0,,
+24281,CA Pujara,Cheteshwar Pujara,India,Right-hand bat,Leg-spin,Batter,CA Pujara,390.0,,
+24289,OA Shah,Owais Shah,England,Right-hand bat,Right-arm off-spin,All-rounder,OA Shah,506.0,,
+24301,A Uniyal,No information available,No information available,No information available,No information available,No information available,A Uniyal,4.0,A Uniyal,3.0
+24302,AA Jhunjhunwala,No information available,No information available,No information available,No information available,No information available,AA Jhunjhunwala,217.0,AA Jhunjhunwala,1.0
+24304,AG Murtaza,No information available,No information available,No information available,No information available,No information available,AG Murtaza,10.0,AG Murtaza,12.0
+24313,P Dogra,No information available,No information available,No information available,No information available,No information available,P Dogra,127.0,,
+24314,R McLaren,Ryan McLaren,South Africa,Left-hand bat,Right-arm fast-medium,All-rounder,R McLaren,159.0,R McLaren,14.0
+24315,R Sathish,No information available,No information available,No information available,No information available,No information available,R Sathish,270.0,R Sathish,6.0
+24324,SW Tait,Shaun Tait,Australia,Right-hand bat,Right-arm fast,Bowler,SW Tait,23.0,SW Tait,26.0
+24341,MS Bisla,No information available,No information available,No information available,No information available,No information available,MS Bisla,798.0,,
+24375,RS Gavaskar,No information available,No information available,No information available,No information available,No information available,RS Gavaskar,2.0,RS Gavaskar,0.0
+24390,JM Kemp,Justin Kemp,South Africa,Right-hand bat,Right-arm fast-medium,Batter,JM Kemp,26.0,JM Kemp,3.0
+24417,FY Fazal,No information available,No information available,No information available,No information available,No information available,FY Fazal,183.0,FY Fazal,1.0
+24430,S Ladda,No information available,No information available,No information available,No information available,No information available,S Ladda,0.0,S Ladda,5.0
+24487,SE Bond,Shane Bond,New Zealand,Right-hand bat,Right-arm fast,Bowler,SE Bond,1.0,SE Bond,9.0
+24523,DR Martyn,Damien Martyn,Australia,Right-hand bat,Right-arm medium,Batter,DR Martyn,19.0,,
+24530,MJ Lumb,No information available,No information available,No information available,No information available,No information available,MJ Lumb,278.0,,
+24541,S Narwal,No information available,No information available,No information available,No information available,No information available,S Narwal,37.0,S Narwal,6.0
+24574,AB Barath,Adrian Barath,West Indies,Right-hand bat,Right-arm off-spin,Batter,AB Barath,42.0,,
+24595,SJ Srivastava,No information available,No information available,No information available,No information available,No information available,SJ Srivastava,5.0,SJ Srivastava,15.0
+24602,AC Voges,Adam Voges,Australia,Right-hand bat,Left-arm orthodox,Batter,AC Voges,181.0,AC Voges,1.0
+24670,MD Mishra,No information available,No information available,No information available,No information available,No information available,MD Mishra,237.0,,
+24672,R Sharma,No information available,No information available,No information available,No information available,No information available,R Sharma,66.0,R Sharma,42.0
+24686,J Theron,No information available,No information available,No information available,No information available,No information available,J Theron,10.0,J Theron,13.0
+24805,NLTC Perera,Thisara Perera,Sri Lanka,Left-hand bat,Right-arm fast-medium,All-rounder,NLTC Perera,424.0,NLTC Perera,37.0
+24905,KB Arun Karthik,No information available,No information available,No information available,No information available,No information available,KB Arun Karthik,51.0,,
+24938,KAJ Roach,Kemar Roach,West Indies,Right-hand bat,Right-arm fast,Bowler,KAJ Roach,10.0,KAJ Roach,0.0
+24972,PD Collingwood,Paul Collingwood,England,Right-hand bat,Right-arm medium,Batter,PD Collingwood,203.0,PD Collingwood,5.0
+25011,C Ganapathy,No information available,No information available,No information available,No information available,No information available,,,C Ganapathy,0.0
+25078,MB Parmar,No information available,No information available,No information available,No information available,No information available,,,MB Parmar,0.0
+25121,DE Bollinger,Doug Bollinger,Australia,Left-hand bat,Left-arm fast-medium,Bowler,DE Bollinger,21.0,DE Bollinger,43.0
+25138,SB Wagh,Shrikant Wagh,India,Left-hand bat,Left-arm fast-medium,All-rounder,SB Wagh,2.0,SB Wagh,5.0
+25230,AP Dole,No information available,No information available,No information available,No information available,No information available,AP Dole,34.0,AP Dole,5.0
+25253,AN Ahmed,Arslan Ahmed,Portugal,Right-hand bat,No information available,Batter,AN Ahmed,36.0,AN Ahmed,15.0
+25375,L Ablish,No information available,No information available,No information available,No information available,No information available,L Ablish,0.0,L Ablish,5.0
+25390,B Sumanth,No information available,No information available,No information available,No information available,No information available,B Sumanth,35.0,,
+25438,S Sriram,No information available,No information available,No information available,No information available,No information available,S Sriram,31.0,S Sriram,0.0
+25530,C Madan,No information available,No information available,No information available,No information available,No information available,C Madan,15.0,,
+25581,AG Paunikar,Amit Paunikar,India,Right-hand bat,No information available,Wicket-keeper batter,AG Paunikar,49.0,,
+25860,ND Doshi,No information available,No information available,No information available,No information available,No information available,ND Doshi,0.0,ND Doshi,2.0
+25923,S Randiv,Suraj Randiv,Sri Lanka,Right-hand bat,Right-arm off-spin,Bowler,S Randiv,2.0,S Randiv,8.0
+25933,AL Menaria,Ashok Menaria,India,Left-hand bat,Left-arm orthodox,All-rounder,AL Menaria,401.0,AL Menaria,3.0
+25960,AUK Pathan,No information available,No information available,No information available,No information available,No information available,AUK Pathan,39.0,AUK Pathan,0.0
+25976,RV Gomez,No information available,No information available,No information available,No information available,No information available,RV Gomez,50.0,RV Gomez,6.0
+25991,DJ Jacobs,No information available,No information available,No information available,No information available,No information available,DJ Jacobs,92.0,,
+25994,JEC Franklin,James Franklin,New Zealand,Left-hand bat,Left-arm medium,All-rounder,JEC Franklin,327.0,JEC Franklin,9.0
+26007,UBT Chand,Unmukt Chand,United States of America,Right-hand bat,Right-arm off-spin,Wicket-keeper batter,UBT Chand,300.0,,
+26012,AC Thomas,No information available,No information available,No information available,No information available,No information available,AC Thomas,20.0,AC Thomas,16.0
+26014,BA Bhatt,Bhargav Bhatt,India,Left-hand bat,Left-arm orthodox,Bowler,BA Bhatt,6.0,BA Bhatt,13.0
+26024,NJ Rimmington,Nathan Rimmington,Australia,Right-hand bat,Right-arm fast-medium,Bowler,NJ Rimmington,1.0,NJ Rimmington,0.0
+26035,Sunny Singh,Sunny Singh,India,Right-hand bat,Right-arm medium,Batter,Sunny Singh,43.0,,
+26059,RN ten Doeschate,No information available,No information available,No information available,No information available,No information available,RN ten Doeschate,326.0,RN ten Doeschate,3.0
+26159,NL McCullum,Nathan McCullum,New Zealand,Right-hand bat,Right-arm off-spin,All-rounder,NL McCullum,26.0,NL McCullum,0.0
+26185,JJ van der Wath,No information available,No information available,No information available,No information available,No information available,JJ van der Wath,18.0,JJ van der Wath,3.0
+26190,R Ninan,No information available,No information available,No information available,No information available,No information available,R Ninan,3.0,R Ninan,3.0
+26441,TD Paine,Tim Paine,Australia,Right-hand bat,Right-arm medium,Wicket-keeper batter,TD Paine,10.0,,
+26477,DH Yagnik,No information available,No information available,No information available,No information available,No information available,DH Yagnik,170.0,,
+26530,BJ Haddin,Brad Haddin,Australia,Right-hand bat,No information available,Wicket-keeper batter,BJ Haddin,18.0,,
+26537,J Syed Mohammad,JS Mohammad,India,Left-hand bat,Left-arm orthodox,All-rounder,J Syed Mohammad,29.0,J Syed Mohammad,10.0
+26641,JE Taylor,Jerome Taylor,West Indies,Right-hand bat,Right-arm fast,Bowler,JE Taylor,3.0,JE Taylor,6.0
+26696,KMDN Kulasekara,Nuwan Kulasekara,Sri Lanka,Right-hand bat,Right-arm fast-medium,All-rounder,KMDN Kulasekara,5.0,KMDN Kulasekara,6.0
+26765,TR Birt,No information available,No information available,No information available,No information available,No information available,TR Birt,75.0,,
+26836,M Klinger,No information available,No information available,No information available,No information available,No information available,M Klinger,73.0,,
+26974,P Parameswaran,Prasanth Parameswaran,India,Right-hand bat,Left-arm medium,Bowler,P Parameswaran,1.0,P Parameswaran,9.0
+27044,AC Blizzard,No information available,No information available,No information available,No information available,No information available,AC Blizzard,120.0,,
+27108,I Malhotra,No information available,No information available,No information available,No information available,No information available,I Malhotra,7.0,I Malhotra,0.0
+27236,CJ Ferguson,Callum Ferguson,Australia,Right-hand bat,Right-arm medium,Batter,CJ Ferguson,98.0,,
+27339,AA Kazi,Abrar Kazi,India,Left-hand bat,Left-arm orthodox,Bowler,,,AA Kazi,1.0
+27451,Anand Rajan,Anand Rajan,India,Right-hand bat,Right-arm medium,Bowler,,,Anand Rajan,10.0
+27501,AA Chavan,No information available,No information available,No information available,No information available,No information available,AA Chavan,12.0,AA Chavan,8.0
+27513,P Prasanth,Prasanth Padmanabhan,India,Left-hand bat,Left-arm orthodox,All-rounder,,,P Prasanth,0.0
+27527,Y Gnaneswara Rao,No information available,No information available,No information available,No information available,No information available,Y Gnaneswara Rao,19.0,Y Gnaneswara Rao,0.0
+27626,S Rana,No information available,No information available,No information available,No information available,No information available,S Rana,91.0,S Rana,0.0
+27679,KH Devdhar,Kedar Devdhar,India,Right-hand bat,No information available,Wicket-keeper batter,,,,
+27711,SS Mundhe,No information available,No information available,No information available,No information available,No information available,,,SS Mundhe,1.0
+27760,RW Price,Ray Price,Zimbabwe,Right-hand bat,Left-arm orthodox,Bowler,,,RW Price,0.0
+27896,RE Levi,No information available,No information available,No information available,No information available,No information available,RE Levi,83.0,,
+27919,M de Lange,Marchant de Lange,South Africa,Right-hand bat,Right-arm fast,Bowler,M de Lange,1.0,M de Lange,6.0
+27973,KK Cooper,No information available,No information available,No information available,No information available,No information available,KK Cooper,116.0,KK Cooper,36.0
+27992,DAJ Bracewell,Brendon Bracewell,New Zealand,Right-hand bat,Right-arm medium,Batter,DAJ Bracewell,12.0,DAJ Bracewell,3.0
+28021,DJ Harris,No information available,No information available,No information available,No information available,No information available,DJ Harris,111.0,DJ Harris,0.0
+28040,TP Sudhindra,TP Sudhindra,India,Left-hand bat,Right-arm fast,Bowler,,,TP Sudhindra,1.0
+28183,GB Hogg,Brad Hogg,Australia,Left-hand bat,Left-arm wrist-spin,Bowler,GB Hogg,22.0,GB Hogg,25.0
+28221,RR Bhatkal,No information available,No information available,No information available,No information available,No information available,RR Bhatkal,0.0,RR Bhatkal,0.0
+28246,P Awana,Parvinder Awana,India,Right-hand bat,Right-arm fast-medium,Bowler,P Awana,5.0,P Awana,43.0
+28308,V Pratap Singh,Veer Pratap Singh,India,Right-hand bat,Right-arm medium,Bowler,V Pratap Singh,0.0,V Pratap Singh,12.0
+28396,CJ McKay,No information available,No information available,No information available,No information available,No information available,CJ McKay,8.0,CJ McKay,1.0
+28446,T Mishra,Mohnish Mishra,India,Right-hand bat,Right-arm off-spin,Batter,,,,
+28501,A Ashish Reddy,Ashish Reddy,India,Right-hand bat,Right-arm medium,All-rounder,A Ashish Reddy,280.0,A Ashish Reddy,19.0
+28557,Azhar Mahmood,A Mahmood,Denmark,Right-hand bat,No information available,Batter,Azhar Mahmood,388.0,Azhar Mahmood,31.0
+28569,N Saini,Nitin Saini,India,Right-hand bat,No information available,Wicket-keeper batter,N Saini,140.0,,
+28690,A Chandila,No information available,No information available,No information available,No information available,No information available,A Chandila,4.0,A Chandila,11.0
+28725,LJ Wright,No information available,No information available,No information available,No information available,No information available,LJ Wright,106.0,LJ Wright,2.0
+28766,RJ Peterson,Robin Peterson,South Africa,Left-hand bat,Left-arm orthodox,All-rounder,RJ Peterson,32.0,RJ Peterson,3.0
+28817,R Shukla,Rahul Shukla,India,Right-hand bat,Right-arm fast-medium,Bowler,R Shukla,19.0,R Shukla,7.0
+28972,BB Samantray,Biplab Samantray,India,Right-hand bat,No information available,Batter,BB Samantray,125.0,,
+28981,MJ Clarke,Michael Clarke,Australia,Right-hand bat,Left-arm orthodox,Batter,MJ Clarke,98.0,MJ Clarke,3.0
+29080,BW Hilfenhaus,Ben Hilfenhaus,Australia,Right-hand bat,Right-arm fast-medium,Bowler,,,BW Hilfenhaus,23.0
+29203,PA Reddy,Akshath Reddy,India,Right-hand bat,Leg-spin,Batter,PA Reddy,164.0,,
+29242,AP Majumdar,Anustup Majumdar,India,Right-hand bat,Leg-spin,All-rounder,AP Majumdar,87.0,,
+29353,K Upadhyay,No information available,No information available,No information available,No information available,No information available,K Upadhyay,12.0,K Upadhyay,0.0
+29856,Sunny Gupta,Sunny Gupta,India,Right-hand bat,Right-arm off-spin,All-rounder,Sunny Gupta,0.0,Sunny Gupta,0.0
+29902,MC Juneja,No information available,No information available,No information available,No information available,No information available,MC Juneja,125.0,,
+29984,MDKJ Perera,Kusal Perera,Sri Lanka,Left-hand bat,No information available,Wicket-keeper batter,MDKJ Perera,14.0,,
+30106,BMAJ Mendis,No information available,No information available,No information available,No information available,No information available,BMAJ Mendis,23.0,BMAJ Mendis,1.0
+30286,R Rampaul,Ravi Rampaul,West Indies,Left-hand bat,Right-arm fast-medium,Bowler,R Rampaul,51.0,R Rampaul,17.0
+30317,SMSM Senanayake,Sachithra Senanayake,Sri Lanka,Right-hand bat,Right-arm off-spin,Bowler,SMSM Senanayake,10.0,SMSM Senanayake,9.0
+30404,BJ Rohrer,No information available,No information available,No information available,No information available,No information available,BJ Rohrer,193.0,BJ Rohrer,0.0
+30679,IC Pandey,No information available,No information available,No information available,No information available,No information available,IC Pandey,0.0,IC Pandey,19.0
+30702,CM Gautam,CM Gautam,India,Right-hand bat,No information available,Wicket-keeper batter,CM Gautam,169.0,,
+30760,DJG Sammy,Daren Sammy,West Indies,Right-hand bat,Right-arm medium,All-rounder,DJG Sammy,295.0,DJG Sammy,14.0
+30778,X Thalaivan Sargunam,Thalaivan Sargunam,India,Right-hand bat,Right-arm off-spin,All-rounder,X Thalaivan Sargunam,10.0,,
+31199,P Suyal,Pawan Suyal,India,Right-hand bat,Left-arm medium,Bowler,,,P Suyal,2.0
+31235,UA Birla,No information available,No information available,No information available,No information available,No information available,UA Birla,7.0,,
+31279,PV Tambe,Pravin Tambe,India,Right-hand bat,Leg-spin,Bowler,PV Tambe,18.0,PV Tambe,28.0
+31389,Parvez Rasool,Parvez Rasool,India,Right-hand bat,Right-arm off-spin,All-rounder,Parvez Rasool,17.0,Parvez Rasool,4.0
+31680,MG Neser,Michael Neser,Australia,Right-hand bat,Right-arm fast-medium,All-rounder,,,MG Neser,0.0
+31983,NJ Maddinson,Nic Maddinson,Australia,Left-hand bat,Left-arm orthodox,Batter,NJ Maddinson,20.0,,
+32350,AV Wankhade,No information available,No information available,No information available,No information available,No information available,,,,
+32462,BR Dunk,Ben Dunk,Australia,Left-hand bat,Right-arm off-spin,Wicket-keeper batter,BR Dunk,40.0,,
+32774,Shivam Sharma,Shivam Sharma,India,Right-hand bat,Right-arm off-spin,Bowler,Shivam Sharma,5.0,Shivam Sharma,4.0
+32886,VH Zol,No information available,No information available,No information available,No information available,No information available,VH Zol,29.0,,
+33115,K Santokie,No information available,No information available,No information available,No information available,No information available,,,K Santokie,3.0
+33134,BE Hendricks,Beuran Hendricks,South Africa,Left-hand bat,Left-arm fast-medium,Bowler,BE Hendricks,1.0,BE Hendricks,11.0
+33281,JW Hastings,John Hastings,Australia,Right-hand bat,Right-arm fast-medium,All-rounder,,,JW Hastings,3.0
+33332,Karanveer Singh,Karanveer Singh,India,Right-hand bat,Leg-spin,Bowler,Karanveer Singh,12.0,Karanveer Singh,14.0
+33598,DJ Muthuswami,No information available,No information available,No information available,No information available,No information available,DJ Muthuswami,1.0,DJ Muthuswami,4.0
+33827,RG More,Ronit More,India,Right-hand bat,Right-arm medium,Bowler,RG More,2.0,RG More,1.0
+34463,B Aparajith,No information available,No information available,No information available,No information available,No information available,,,,
+34521,GS Sandhu,Sunny Sandhu,India,Right-hand bat,Right-arm fast-medium,Bowler,,,GS Sandhu,1.0
+35235,P Sahu,Pardeep Sahu,India,Right-hand bat,Leg-spin,All-rounder,P Sahu,19.0,P Sahu,3.0
+35414,KJ Abbott,Kyle Abbott,South Africa,Right-hand bat,Right-arm fast-medium,Bowler,KJ Abbott,13.0,KJ Abbott,2.0
+35828,PSP Handscomb,Peter Handscomb,Australia,Right-hand bat,No information available,Wicket-keeper batter,PSP Handscomb,6.0,,
+35941,SM Boland,Scott Boland,Australia,Right-hand bat,Right-arm fast-medium,Bowler,,,SM Boland,3.0
+36053,UT Khawaja,Usman Khawaja,Australia,Left-hand bat,Right-arm off-spin,Batter,UT Khawaja,127.0,,
+36198,F Behardien,No information available,No information available,No information available,No information available,No information available,F Behardien,14.0,,
+36523,ER Dwivedi,Eklavya Dwivedi,India,Right-hand bat,No information available,Wicket-keeper batter,ER Dwivedi,24.0,,

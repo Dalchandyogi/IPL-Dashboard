@@ -2,11 +2,15 @@ import streamlit as st
 from streamlit_option_menu import option_menu   # pip install streamlit-option-menu
 
 from utils.helpers import load_image
-from utils.player_data import PLAYER_IMAGES
+
+from utils.player_data import (
+    get_batter_options,
+    get_bowler_options
+)
 
 
 # ---------- sidebar ----------
-def render_sidebar():
+def render_sidebar(player_metadata_df):
 
     background = load_image("assets/images/sidebar_bg.png")
     logo = load_image("assets/images/logo.png")   # optional
@@ -232,17 +236,11 @@ def render_sidebar():
         filters = {
             "Batter Analysis": (
                 "Batter",
-                list(PLAYER_IMAGES),
+                get_batter_options(player_metadata_df),
             ),
             "Bowler Analysis": (
                 "Bowler",
-                [
-                    "Jasprit Bumrah",
-                    "Yuzvendra Chahal",
-                    "Bhuvneshwar Kumar",
-                    "Lasith Malinga",
-                    "Rashid Khan",
-                ],
+                get_bowler_options(player_metadata_df),
             ),
             "Season Analysis": (
                 "Season",

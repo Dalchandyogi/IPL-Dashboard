@@ -1,0 +1,805 @@
+﻿player_id,canonical_name,full_name,nationality,batting_style,bowling_style,playing_role,batter_runs,is_wicket,debut,last_season,team,runs,balls_faced,dismissals,strike_rate,batting_average,matches,hundreds,fifties,fours,sixes,highest_score,not_out,highest_score_display
+3543,A Choudhary,Arpita Choudhary,India,Right-hand batter,No information available,Batter,25.0,5.0,2017.0,2017.0,Royal Challengers Bengaluru,25.0,20.0,1.0,125.0,25.0,3,0,0,1,1,15.0,True,15*
+3545,A Nehra,Ashish Nehra,India,Right-hand batter,Left-arm fast-medium,Bowler,41.0,121.0,2008.0,2017.0,Sunrisers Hyderabad,41.0,62.0,7.0,66.13,5.86,17,0,0,3,1,22.0,True,22*
+3547,B Kumar,Bhuvneshwar Kumar,India,Right-hand batter,Right-arm fast-medium,Bowler,354.0,243.0,2011.0,2026.0,Royal Challengers Bengaluru,354.0,377.0,38.0,93.9,9.32,75,0,0,34,4,27.0,False,27
+3548,BCJ Cutting,Ben Cutting,Australia,Right-hand batter,Right-arm fast-medium,All-rounder,238.0,12.0,2014.0,2019.0,Mumbai Indians,238.0,141.0,11.0,168.79,21.64,17,0,0,15,19,39.0,True,39*
+3549,Bipul Sharma,Bipul Sharma,India,Left-hand batter,Left-arm orthodox,Bowler,187.0,22.0,2010.0,2017.0,Sunrisers Hyderabad,187.0,123.0,8.0,152.03,23.38,17,0,0,11,9,35.0,True,35*
+3550,CH Gayle,Chris Gayle,West Indies,Left-hand batter,Right-arm off-spin,Batter,4997.0,19.0,2009.0,2021.0,Punjab Kings,4997.0,3346.0,126.0,149.34,39.66,141,6,31,404,357,175.0,True,175*
+3551,CJ Jordan,Chris Jordan,England,Right-hand batter,Right-arm fast-medium,Bowler,81.0,36.0,2016.0,2023.0,Mumbai Indians,81.0,77.0,10.0,105.19,8.1,12,0,0,3,3,30.0,False,30
+3552,DA Warner,David Warner,Australia,Left-hand batter,No information available,Batter,6567.0,0.0,2009.0,2024.0,Delhi Capitals,6567.0,4702.0,164.0,139.66,40.04,184,4,62,663,236,126.0,False,126
+3553,DJ Hooda,Deepak Hooda,India,Right Handed Bat,Right-arm offbreak,Batting Allrounder,1497.0,10.0,2015.0,2025.0,Chennai Super Kings,1497.0,1173.0,85.0,127.62,17.61,101,0,8,98,62,64.0,False,64
+3555,KM Jadhav,Kedar Jadhav,India,Right Handed Bat,Right-arm offbreak,Batting Allrounder,1208.0,,2010.0,2023.0,Royal Challengers Bengaluru,1208.0,981.0,54.0,123.14,22.37,81,0,4,102,40,69.0,False,69
+3556,MC Henriques,Moises Henriques,Australia,Right-hand batter,Right-arm fast-medium,All-rounder,1000.0,46.0,2009.0,2021.0,Punjab Kings,1000.0,788.0,36.0,126.9,27.78,54,0,5,87,28,74.0,True,74*
+3557,Mandeep Singh,Mandeep Singh,India,Right-hand batter,Right-arm medium,Batter,1706.0,0.0,2010.0,2023.0,Kolkata Knight Riders,1706.0,1388.0,82.0,122.91,20.8,97,0,6,176,38,77.0,True,77*
+3560,NV Ojha,Naman Ojha,India,Right-hand batter,No information available,Batter,1554.0,,2009.0,2018.0,Delhi Capitals,1554.0,1313.0,75.0,118.35,20.72,94,0,6,121,79,94.0,True,94*
+3561,Rashid Khan,Rashid Khan,Afghanistan,Right-hand batter,Right-arm fast-medium,Batter,635.0,187.0,2017.0,2026.0,Gujarat Titans,635.0,406.0,46.0,156.4,13.8,72,0,1,45,43,79.0,True,79*
+3562,S Aravind,S Aravind,India,Left-hand batter,Left-arm orthodox,Batter,59.0,48.0,2011.0,2017.0,Royal Challengers Bengaluru,59.0,57.0,4.0,103.51,14.75,10,0,0,7,0,14.0,True,14*
+3563,S Dhawan,Shikhar Dhawan,India,Left-hand batter,Right-arm off-spin,Batter,6769.0,4.0,2008.0,2024.0,Punjab Kings,6769.0,5326.0,193.0,127.09,35.07,221,2,51,768,152,106.0,True,106*
+3564,SR Watson,Shane Watson,Australia,Right-hand batter,Right-arm fast-medium,All-rounder,3880.0,107.0,2008.0,2020.0,Chennai Super Kings,3880.0,2813.0,126.0,137.93,30.79,141,4,21,376,190,117.0,True,117*
+3565,STR Binny,Stuart Binny,India,Right-hand batter,Right-arm medium,All-rounder,880.0,28.0,2010.0,2019.0,Rajasthan Royals,880.0,683.0,46.0,128.84,19.13,66,0,0,66,35,48.0,True,48*
+3566,Sachin Baby,Sachin Baby,India,Left-hand batter,Right-arm off-spin,Batter,144.0,3.0,2013.0,2021.0,Royal Challengers Bengaluru,144.0,118.0,9.0,122.03,16.0,11,0,0,11,5,33.0,False,33
+3567,TM Head,Travis Head,Australia,Left-hand batter,Right-arm off-spin,Batter,1556.0,4.0,2016.0,2026.0,Sunrisers Hyderabad,1556.0,915.0,48.0,170.05,32.42,52,1,10,172,78,102.0,False,102
+3568,TS Mills,Tymal Mills,England,Right-hand batter,Left-arm fast,Bowler,8.0,11.0,2017.0,2022.0,Mumbai Indians,8.0,14.0,4.0,57.14,2.0,5,0,0,0,1,6.0,False,6
+3569,YS Chahal,Yuzvendra Chahal,India,Right-hand batter,Leg-spin,Bowler,37.0,242.0,2013.0,2026.0,Punjab Kings,37.0,86.0,7.0,43.02,5.29,17,0,0,0,0,8.0,True,8*
+3570,Yuvraj Singh,Yuvraj Singh,India,Left-hand batter,Left-arm orthodox,All-rounder,2754.0,39.0,2008.0,2019.0,Mumbai Indians,2754.0,2122.0,111.0,129.78,24.81,126,0,13,217,149,83.0,False,83
+3572,A Zampa,Adam Zampa,Australia,Right-hand batter,Leg-spin,Bowler,15.0,32.0,2016.0,2025.0,Sunrisers Hyderabad,15.0,24.0,5.0,62.5,3.0,5,0,0,1,0,7.0,False,7
+3573,AB Dinda,Ashok Bhimchandra Dinda,India,Right-hand batter,Right-arm fast-medium,Bowler,26.0,82.0,2008.0,2017.0,Rising Pune Supergiant,26.0,48.0,10.0,54.17,2.6,16,0,0,2,0,7.0,False,7
+3574,AM Rahane,Ajinkya Rahane,India,Right-hand batter,Right-arm medium,Batter,5367.0,1.0,2008.0,2026.0,Kolkata Knight Riders,5367.0,4273.0,178.0,125.6,30.15,197,2,35,539,141,105.0,True,105*
+3575,AT Rayudu,Ambati Thirupathi Rayudu,India,Right-hand batter,Right-arm offbreak,Wicket-keeper batter,4348.0,,2010.0,2023.0,Chennai Super Kings,4348.0,3409.0,155.0,127.54,28.05,185,1,22,359,173,100.0,True,100*
+3576,BA Stokes,Ben Stokes,England,Left-hand batter,Right-arm fast-medium,All-rounder,935.0,31.0,2017.0,2023.0,Chennai Super Kings,935.0,698.0,38.0,133.95,24.61,43,2,2,81,32,107.0,True,107*
+3577,DL Chahar,Deepak Chahar,India,Right-hand batter,Right-arm fast-medium,Bowler,142.0,99.0,2016.0,2026.0,Mumbai Indians,142.0,103.0,10.0,137.86,14.2,20,0,0,8,9,39.0,False,39
+3578,HH Pandya,Hardik Pandya,India,Right-hand batter,Right-arm fast-medium,All-rounder,2964.0,88.0,2015.0,2026.0,Mumbai Indians,2964.0,2025.0,107.0,146.37,27.7,150,0,10,228,155,91.0,False,91
+3579,Imran Tahir,Imran Tahir,South Africa,Right-hand batter,Leg-spin,Bowler,33.0,86.0,2014.0,2021.0,Chennai Super Kings,33.0,37.0,4.0,89.19,8.25,8,0,0,5,0,13.0,True,13*
+3580,JC Buttler,Jos Buttler,England,Right-hand batter,No information available,Batter,4647.0,,2016.0,2026.0,Gujarat Titans,4647.0,3105.0,118.0,149.66,39.38,136,7,28,458,211,124.0,False,124
+3581,JJ Bumrah,Jasprit Bumrah,India,Right-hand batter,Right-arm fast,Bowler,75.0,208.0,2013.0,2026.0,Mumbai Indians,75.0,86.0,8.0,87.21,9.38,29,0,0,6,1,16.0,True,16*
+3582,KA Pollard,Kieron Adrian Pollard,West Indies,Right-hand batter,Right-arm medium,All-rounder,3437.0,81.0,2010.0,2022.0,Mumbai Indians,3437.0,2329.0,121.0,147.57,28.4,168,0,16,218,223,87.0,True,87*
+3583,KH Pandya,Krunal Himanshu Pandya,India,Left-hand batter,Left-arm orthodox,All-rounder,1982.0,111.0,2016.0,2026.0,Royal Challengers Bengaluru,1982.0,1481.0,87.0,133.83,22.78,123,0,3,173,76,86.0,False,86
+3585,MA Agarwal,Mayank Agarwal,India,Right-hand batter,Right-arm off-spin,Batter,2764.0,,2011.0,2025.0,Royal Challengers Bengaluru,2764.0,2066.0,120.0,133.79,23.03,125,1,13,273,100,106.0,False,106
+3586,MJ McClenaghan,Mitchell McClenaghan,New Zealand,Left-hand batter,Left-arm fast-medium,Bowler,85.0,75.0,2015.0,2019.0,Mumbai Indians,85.0,70.0,13.0,121.43,6.54,20,0,0,5,7,20.0,False,20
+3587,MK Tiwary,Manoj Tiwary,India,Right-hand batter,Leg-spin,Batter,1695.0,1.0,2008.0,2018.0,Punjab Kings,1695.0,1449.0,59.0,116.98,28.73,83,0,7,156,40,75.0,True,75*
+3588,MS Dhoni,MS Dhoni,India,Right-hand batter,Right-arm medium,Batter,5439.0,,2008.0,2025.0,Chennai Super Kings,5439.0,3957.0,142.0,137.45,38.3,241,0,24,375,264,84.0,True,84*
+3589,N Rana,Nitish Rana,India,Left-hand batter,Right-arm off-spin,Batter,3078.0,11.0,2016.0,2026.0,Delhi Capitals,3078.0,2235.0,112.0,137.72,27.48,121,0,22,288,151,91.0,False,91
+3591,PA Patel,Parthiv Patel,India,Left-hand batter,No information available,Batter,2848.0,,2008.0,2019.0,Royal Challengers Bengaluru,2848.0,2358.0,126.0,120.78,22.6,136,0,13,365,49,81.0,False,81
+3592,R Bhatia,Rajat Bhatia,India,Right-hand batter,Right-arm medium,All-rounder,342.0,82.0,2008.0,2017.0,Rising Pune Supergiant,342.0,284.0,30.0,120.42,11.4,47,0,0,24,13,26.0,True,26*
+3593,RG Sharma,Rohit Sharma,India,Right-hand batter,Right-arm off-spin,Batter,7331.0,16.0,2008.0,2026.0,Mumbai Indians,7331.0,5517.0,246.0,132.88,29.8,275,2,49,661,323,109.0,True,109*
+3595,SPD Smith,Steven Smith,Australia,Right-hand batter,Leg-spin,Batter,2495.0,0.0,2012.0,2021.0,Delhi Capitals,2495.0,1945.0,72.0,128.28,34.65,93,1,11,225,60,101.0,False,101
+3596,TG Southee,Tim Southee,New Zealand,Right-hand batter,Right-arm fast-medium,Bowler,120.0,57.0,2011.0,2023.0,Kolkata Knight Riders,120.0,107.0,13.0,112.15,9.23,19,0,0,8,4,36.0,True,36*
+3598,AJ Finch,Aaron Finch,Australia,Right-hand batter,Left-arm orthodox,Batter,2092.0,1.0,2010.0,2022.0,Kolkata Knight Riders,2092.0,1635.0,84.0,127.95,24.9,90,0,15,214,78,88.0,True,88*
+3599,BB McCullum,Brendon McCullum,New Zealand,Right-hand batter,No information available,Batter,2882.0,,2008.0,2018.0,Royal Challengers Bengaluru,2882.0,2190.0,104.0,131.6,27.71,109,2,13,293,130,158.0,True,158*
+3600,CA Lynn,Chris Lynn,Australia,Right-hand batter,Left-arm orthodox,Batter,1329.0,,2012.0,2021.0,Mumbai Indians,1329.0,945.0,39.0,140.63,34.08,42,0,10,132,66,93.0,True,93*
+3602,CR Woakes,Chris Woakes,England,Right-hand batter,Right-arm fast-medium,All-rounder,78.0,31.0,2017.0,2021.0,Delhi Capitals,78.0,77.0,6.0,101.3,13.0,12,0,0,7,2,18.0,False,18
+3603,DR Smith,Dwayne Smith,West Indies,Right-hand batter,Right-arm medium,All-rounder,2385.0,27.0,2008.0,2017.0,Gujarat Lions,2385.0,1764.0,84.0,135.2,28.39,88,0,17,245,117,87.0,True,87*
+3604,DS Kulkarni,Dhawal Kulkarni,India,Right-hand batter,Right-arm fast-medium,Bowler,104.0,91.0,2008.0,2021.0,Mumbai Indians,104.0,108.0,9.0,96.3,11.56,20,0,0,7,2,28.0,True,28*
+3605,G Gambhir,Gautam Gambhir,India,Left-hand batter,Leg-spin,Batter,4217.0,,2008.0,2018.0,Delhi Capitals,4217.0,3404.0,136.0,123.88,31.01,151,0,36,492,59,93.0,False,93
+3606,JJ Roy,Jason Roy,England,Right-hand batter,No information available,Batter,614.0,,2017.0,2023.0,Kolkata Knight Riders,614.0,443.0,19.0,138.6,32.32,21,0,4,75,21,91.0,True,91*
+3608,KD Karthik,Dinesh Karthik,India,Right-hand batter,No information available,Batter,4843.0,,2008.0,2024.0,Royal Challengers Bengaluru,4843.0,3580.0,184.0,135.28,26.32,233,0,22,466,161,97.0,True,97*
+3609,Kuldeep Yadav,Kuldeep Yadav,India,Left-hand batter,Left-arm wrist-spin,Bowler,210.0,116.0,2016.0,2026.0,Delhi Capitals,210.0,253.0,18.0,83.0,11.67,41,0,0,18,3,35.0,True,35*
+3610,MK Pandey,Manish Pandey,India,Right-hand batter,Right-arm medium,Batter,4021.0,,2008.0,2026.0,Kolkata Knight Riders,4021.0,3297.0,137.0,121.96,29.35,163,1,22,348,117,114.0,True,114*
+3611,MS Gony,Manpreet Gony,India,Right Handed Bat,Right-arm fast-medium,Bowler,99.0,39.0,2008.0,2017.0,Gujarat Lions,99.0,71.0,10.0,139.44,9.9,15,0,0,6,8,42.0,False,42
+3613,P Kumar,Praveen Kumar,India,Right-hand batter,Right-arm fast-medium,Bowler,340.0,102.0,2008.0,2017.0,Gujarat Lions,340.0,314.0,38.0,108.28,8.95,57,0,0,22,17,34.0,False,34
+3614,PP Chawla,Piyush Chawla,India,Left-hand batter,Leg-spin,Bowler,624.0,201.0,2008.0,2024.0,Mumbai Indians,624.0,563.0,56.0,110.83,11.14,86,0,0,56,20,24.0,True,24*
+3615,RV Uthappa,Robin Uthappa,India,Right Handed Bat,Right-arm medium,WK-Batsman,4954.0,,2008.0,2022.0,Chennai Super Kings,4954.0,3801.0,180.0,130.33,27.52,197,0,27,481,182,88.0,False,88
+3616,S Kaushik,Shivil Koushik,India,Right Handed Bat,Left-arm wrist-spin,Bowler,0.0,6.0,2016.0,2017.0,Gujarat Lions,0.0,1.0,1.0,0.0,0.0,1,0,0,0,0,0.0,False,0
+3617,SA Yadav,Surya Prakash Rao,India,Left-hand batter,No information available,Batter,4581.0,0.0,2012.0,2026.0,Mumbai Indians,4581.0,3084.0,137.0,148.54,33.44,164,2,31,482,178,103.0,True,103*
+3618,SB Jakati,Shadab Jakati,India,Left-hand batter,Left-arm orthodox,Bowler,28.0,50.0,2009.0,2017.0,Gujarat Lions,28.0,29.0,1.0,96.55,28.0,5,0,0,3,0,13.0,False,13
+3619,SK Raina,Suresh Raina,India,Left-hand batter,Right-arm off-spin,Batter,5536.0,30.0,2008.0,2021.0,Chennai Super Kings,5536.0,4046.0,171.0,136.83,32.37,200,1,39,506,203,100.0,True,100*
+3620,SP Narine,Sunil Narine,West Indies,Left-hand batter,Right-arm off-spin,All-rounder,1820.0,229.0,2012.0,2026.0,Kolkata Knight Riders,1820.0,1101.0,104.0,165.3,17.5,122,1,7,191,120,109.0,False,109
+3621,TA Boult,Trent Boult,New Zealand,Right-hand batter,Left-arm fast-medium,Bowler,93.0,153.0,2015.0,2026.0,Mumbai Indians,93.0,85.0,10.0,109.41,9.3,26,0,0,5,4,17.0,True,17*
+3624,YK Pathan,Yusuf Pathan,India,Right-hand batter,Right-arm off-spin,All-rounder,3222.0,46.0,2008.0,2019.0,Sunrisers Hyderabad,3222.0,2245.0,110.0,143.52,29.29,153,1,13,262,158,100.0,False,100
+3628,AR Patel,Axar Patel,India,Left-hand batter,Left-arm orthodox,All-rounder,2089.0,148.0,2014.0,2026.0,Delhi Capitals,2089.0,1562.0,97.0,133.74,21.54,134,0,4,146,100,66.0,False,66
+3632,DA Miller,David Miller,South Africa,Left-hand batter,No information available,Batter,3288.0,,2012.0,2026.0,Delhi Capitals,3288.0,2358.0,93.0,139.44,35.35,143,1,14,235,152,101.0,True,101*
+3633,DT Christian,Daniel Christian,Australia,Right-hand batter,Right-arm fast-medium,All-rounder,460.0,40.0,2011.0,2021.0,Royal Challengers Bengaluru,460.0,398.0,31.0,115.58,14.84,41,0,0,23,19,39.0,False,39
+3634,GJ Maxwell,Maxwell Ager,Kenya,Left-hand batter,Left-arm medium,Bowler,2820.0,45.0,2012.0,2025.0,Punjab Kings,2820.0,1818.0,118.0,155.12,23.9,134,0,18,237,161,95.0,False,95
+3635,HM Amla,Hashim Amla,South Africa,Right-hand batter,Right-arm medium,Batter,577.0,,2016.0,2017.0,Punjab Kings,577.0,407.0,13.0,141.77,44.38,16,2,3,60,21,104.0,True,104*
+3638,M Vohra,Manan Vohra,India,Right-hand batter,Right-arm medium,Batter,1083.0,,2013.0,2023.0,Lucknow Super Giants,1083.0,829.0,49.0,130.64,22.1,51,0,3,104,43,95.0,False,95
+3641,MM Sharma,Mohit Sharma,India,Right-hand batter,Right-arm fast-medium,Bowler,125.0,149.0,2013.0,2025.0,Delhi Capitals,125.0,136.0,18.0,91.91,6.94,30,0,0,8,4,21.0,True,21*
+3642,MP Stoinis,Marcus Stoinis,Australia,Right-hand batter,Right-arm medium,All-rounder,2242.0,48.0,2016.0,2026.0,Punjab Kings,2242.0,1520.0,78.0,147.5,28.74,108,1,10,181,117,124.0,True,124*
+3646,RD Chahar,Rahul Chahar,India,Right Handed Bat,Right-arm legbreak,Bowler,129.0,76.0,2017.0,2026.0,Chennai Super Kings,129.0,124.0,16.0,104.03,8.06,22,0,0,13,5,25.0,True,25*
+3648,Sandeep Sharma,Sanjeev Sharma,India,Right-hand batter,Right-arm medium,Batter,60.0,169.0,2013.0,2026.0,Rajasthan Royals,60.0,75.0,6.0,80.0,10.0,26,0,0,4,0,9.0,False,9
+3649,Swapnil Singh,Swapnil Singh,India,Right-hand batter,Left-arm orthodox,Bowler,51.0,7.0,2016.0,2024.0,Royal Challengers Bengaluru,51.0,45.0,5.0,113.33,10.2,9,0,0,3,3,15.0,True,15*
+3650,T Natarajan,T Natarajan,India,Left-hand batter,Left-arm fast-medium,Bowler,4.0,83.0,2017.0,2026.0,Delhi Capitals,4.0,7.0,0.0,57.14,,3,0,0,0,0,3.0,True,3*
+3651,WP Saha,Wriddhiman Saha,India,Right-hand batter,No information available,Batter,2934.0,,2008.0,2024.0,Gujarat Titans,2934.0,2300.0,121.0,127.57,24.25,143,1,13,296,87,115.0,True,115*
+3652,A Mishra,Amit Mishra,India,Right-hand batter,Leg-spin,Bowler,381.0,183.0,2008.0,2024.0,Lucknow Super Giants,381.0,419.0,32.0,90.93,11.91,55,0,0,31,5,31.0,False,31
+3654,AP Tare,Aditya Tare,India,Right-hand batter,No information available,Batter,339.0,,2010.0,2017.0,Delhi Capitals,339.0,273.0,24.0,124.18,14.12,27,0,1,40,11,59.0,False,59
+3655,B Stanlake,Billy Stanlake,Australia,Left-hand batter,Right-arm fast,Bowler,5.0,7.0,2017.0,2018.0,Sunrisers Hyderabad,5.0,2.0,0.0,250.0,,1,0,0,1,0,5.0,True,5*
+3657,CH Morris,Chris Morris,South Africa,Right-hand batter,Right-arm fast-medium,All-rounder,618.0,107.0,2013.0,2021.0,Rajasthan Royals,618.0,398.0,28.0,155.28,22.07,49,0,2,41,35,82.0,True,82*
+3658,CR Brathwaite,Carlos Brathwaite,West Indies,Right-hand batter,Right-arm fast-medium,All-rounder,181.0,16.0,2016.0,2019.0,Kolkata Knight Riders,181.0,111.0,13.0,163.06,13.92,14,0,0,10,16,43.0,True,43*
+3659,Iqbal Abdulla,Iqbal Abdulla,India,Left-hand batter,Left-arm orthodox,Bowler,88.0,45.0,2008.0,2017.0,Royal Challengers Bengaluru,88.0,84.0,2.0,104.76,44.0,13,0,0,9,1,33.0,True,33*
+3661,KK Nair,Karun Nair,India,Right-hand batter,Right-arm off-spin,Batter,1712.0,,2013.0,2026.0,Delhi Capitals,1712.0,1304.0,73.0,131.29,23.45,78,0,11,188,49,89.0,False,89
+3665,P Negi,Pawan Negi,India,Left-hand batter,Left-arm orthodox,All-rounder,365.0,38.0,2012.0,2019.0,Royal Challengers Bengaluru,365.0,289.0,26.0,126.3,14.04,35,0,0,27,16,36.0,False,36
+3666,PJ Cummins,Pat Cummins,Australia,Right-hand batter,Right-arm fast,Bowler,642.0,90.0,2014.0,2026.0,Sunrisers Hyderabad,642.0,421.0,33.0,152.49,19.45,51,0,3,40,44,66.0,True,66*
+3667,RR Pant,Rishabh Pant,India,Left-hand batter,No information available,Batter,3879.0,,2016.0,2026.0,Lucknow Super Giants,3879.0,2644.0,115.0,146.71,33.73,136,2,20,349,181,128.0,True,128*
+3668,S Nadeem,Shahbaz Nadeem,India,Right-hand batter,Left-arm orthodox,Bowler,39.0,54.0,2011.0,2021.0,Sunrisers Hyderabad,39.0,87.0,14.0,44.83,2.79,20,0,0,2,0,6.0,True,6*
+3672,SV Samson,Sanju Samson,India,Right-hand batter,No information available,Batter,5181.0,,2013.0,2026.0,Chennai Super Kings,5181.0,3671.0,164.0,141.13,31.59,185,5,27,432,243,119.0,False,119
+3673,SW Billings,Sam Billings,England,Right-hand batter,No information available,Batter,503.0,,2016.0,2022.0,Kolkata Knight Riders,503.0,388.0,26.0,129.64,19.35,27,0,3,40,20,56.0,False,56
+3676,Vishnu Vinod,Vishnu Vinod,India,Right-hand batter,No information available,Batter,71.0,,2017.0,2026.0,Punjab Kings,71.0,65.0,6.0,109.23,11.83,7,0,0,4,4,30.0,False,30
+3678,Z Khan,Zaheer Khan,India,Right-hand batter,Left-arm fast-medium,Bowler,117.0,119.0,2008.0,2017.0,Delhi Capitals,117.0,141.0,14.0,82.98,8.36,27,0,0,11,2,23.0,True,23*
+3686,Basil Thampi,Basil Thampi,India,Right-hand batter,Right-arm fast-medium,Bowler,32.0,26.0,2017.0,2022.0,Mumbai Indians,32.0,35.0,1.0,91.43,32.0,7,0,0,1,1,13.0,True,13*
+3704,Tejas Baroka,Tejas Baroka,India,Right-hand batter,Right-arm off-spin,All-rounder,,0.0,2017.0,2017.0,Gujarat Lions,0.0,0.0,0.0,,,0,0,0,0,0,,,
+3705,V Shankar,Vijay Shankar,India,Right-hand batter,Right-arm medium,All-rounder,1233.0,12.0,2014.0,2025.0,Chennai Super Kings,1233.0,950.0,47.0,129.79,26.23,63,0,7,88,48,69.0,True,69*
+3707,AS Rajpoot,Ankit Rajpoot,India,Right-hand batter,Right-arm fast-medium,Bowler,26.0,24.0,2013.0,2020.0,Rajasthan Royals,26.0,41.0,5.0,63.41,5.2,7,0,0,2,1,8.0,False,8
+3713,Harbhajan Singh,Harbhajan Singh,India,Right-hand batter,Right-arm offbreak,Bowler,833.0,161.0,2008.0,2021.0,Kolkata Knight Riders,833.0,604.0,55.0,137.91,15.15,88,0,1,79,42,64.0,False,64
+3725,Rishi Dhawan,Rishi Dhawan,India,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,,,,,,0.0,0.0,0.0,,,0,0,0,0,0,,,
+3730,SL Malinga,Lasith Malinga,Sri Lanka,Right-hand batter,Right-arm fast,Bowler,88.0,188.0,2009.0,2019.0,Mumbai Indians,88.0,99.0,16.0,88.89,5.5,20,0,0,6,5,17.0,False,17
+3735,AB de Villiers,AB de Villiers,South Africa,Right-hand batter,Right-arm medium,Batter,5181.0,,2008.0,2021.0,Royal Challengers Bengaluru,5181.0,3411.0,130.0,151.89,39.85,170,3,40,413,251,133.0,True,133*
+3758,VR Aaron,Varun Aaron,India,Right-hand batter,Right-arm fast,Bowler,50.0,46.0,2011.0,2022.0,Gujarat Titans,50.0,72.0,5.0,69.44,10.0,12,0,0,2,2,17.0,True,17*
+3771,CJ Anderson,Corey Anderson,United States of America,Left-hand batter,Left-arm fast-medium,All-rounder,538.0,14.0,2014.0,2018.0,Royal Challengers Bengaluru,538.0,423.0,22.0,127.19,24.45,29,0,3,40,31,95.0,True,95*
+3773,F du Plessis,Faf du Plessis,South Africa,Right-hand batter,Leg-spin,Batter,4773.0,0.0,2012.0,2025.0,Delhi Capitals,4773.0,3515.0,136.0,135.79,35.1,147,0,39,439,174,96.0,False,96
+3782,RA Tripathi,Rahul Tripathi,India,Right Handed Bat,Right-arm medium,Batsman,2291.0,0.0,2017.0,2025.0,Chennai Super Kings,2291.0,1662.0,88.0,137.85,26.03,98,0,12,229,85,93.0,False,93
+3804,Mustafizur Rahman,Mustafizur Rahman,Bangladesh,Left-hand batter,Left-arm fast-medium,Bowler,13.0,74.0,2016.0,2025.0,Delhi Capitals,13.0,24.0,2.0,54.17,6.5,7,0,0,0,1,8.0,True,8*
+3820,C de Grandhomme,Colin de Grandhomme,New Zealand,Right-hand batter,Right-arm fast-medium,All-rounder,303.0,7.0,2017.0,2019.0,Royal Challengers Bengaluru,303.0,225.0,16.0,134.67,18.94,21,0,0,18,18,40.0,False,40
+3826,I Sharma,Ishant Sharma,India,Right-hand batter,Right-arm fast-medium,Bowler,57.0,100.0,2008.0,2025.0,Gujarat Titans,57.0,69.0,6.0,82.61,9.5,21,0,0,4,2,10.0,True,10*
+3839,UT Yadav,Umesh Yadav,India,Right-hand batter,Right-arm fast,Bowler,208.0,163.0,2010.0,2024.0,Gujarat Titans,208.0,201.0,21.0,103.48,9.9,48,0,0,16,9,24.0,True,24*
+3864,S Badree,Samuel Badree,West Indies,Right Handed Bat,Right-arm legbreak,Bowler,13.0,11.0,2013.0,2017.0,Royal Challengers Bengaluru,13.0,23.0,5.0,56.52,2.6,5,0,0,0,0,8.0,False,8
+3868,V Kohli,Virat Kohli,India,Right-hand batter,Right-arm medium,Batter,9346.0,5.0,2008.0,2026.0,Royal Challengers Bengaluru,9346.0,6930.0,231.0,134.86,40.46,275,9,68,844,316,113.0,True,113*
+3872,AJ Tye,Andrew Tye,Australia,Right-hand batter,Right-arm fast-medium,Bowler,91.0,48.0,2017.0,2022.0,Lucknow Super Giants,91.0,76.0,9.0,119.74,10.11,13,0,0,6,5,25.0,False,25
+3874,Ankit Sharma,Ankit Sharma,India,Left Handed Bat,Left-arm orthodox,Bowler,87.0,12.0,2012.0,2018.0,Rajasthan Royals,87.0,67.0,7.0,129.85,12.43,10,0,0,7,4,30.0,False,30
+3880,Ishan Kishan,Ishan Malhotra,India,Right-hand batter,Right-arm fast-medium,Bowler,3600.0,0.0,2016.0,2026.0,Sunrisers Hyderabad,3600.0,2508.0,118.0,143.54,30.51,127,1,23,348,166,106.0,True,106*
+3883,LH Ferguson,Lockie Ferguson,New Zealand,Right-hand batter,Right-arm fast,Bowler,72.0,64.0,2017.0,2026.0,Punjab Kings,72.0,47.0,3.0,153.19,24.0,8,0,0,7,2,24.0,True,24*
+3888,RA Jadeja,Ravindra Jadeja,India,Left-hand batter,Left-arm orthodox,All-rounder,3526.0,189.0,2008.0,2026.0,Rajasthan Royals,3526.0,2699.0,121.0,130.64,29.14,205,0,5,264,122,77.0,True,77*
+3894,SN Thakur,Shardul Thakur,India,Right-hand batter,Right-arm fast-medium,All-rounder,349.0,127.0,2015.0,2026.0,Mumbai Indians,349.0,263.0,30.0,132.7,11.63,43,0,1,32,13,68.0,False,68
+3931,EJG Morgan,Eoin Morgan,England,Left-hand batter,Right-arm medium,Batter,1406.0,,2010.0,2021.0,Kolkata Knight Riders,1406.0,1148.0,62.0,122.47,22.68,74,0,5,112,64,68.0,True,68*
+3935,KC Cariappa,KC Cariappa,India,Right-hand batter,Leg-spin,Bowler,24.0,8.0,2015.0,2019.0,Kolkata Knight Riders,24.0,21.0,3.0,114.29,8.0,5,0,0,0,2,12.0,True,12*
+3944,SS Iyer,Shreyas Iyer,India,Right-hand batter,Leg-spin,Batter,4233.0,0.0,2015.0,2026.0,Punjab Kings,4233.0,3095.0,119.0,136.77,35.57,144,1,32,353,182,101.0,True,101*
+3968,MM Patel,Munaf Patel,India,Right-hand batter,Right-arm fast-medium,Bowler,39.0,82.0,2008.0,2017.0,Gujarat Lions,39.0,41.0,6.0,95.12,6.5,12,0,0,5,0,23.0,True,23*
+3980,AF Milne,Adam Milne,New Zealand,Right-hand batter,Right-arm fast,Bowler,25.0,9.0,2016.0,2026.0,Rajasthan Royals,25.0,31.0,4.0,80.65,6.25,7,0,0,0,1,15.0,False,15
+3988,JD Unadkat,Jaydev Unadkat,India,Right-hand batter,Left-arm fast-medium,Bowler,201.0,125.0,2010.0,2026.0,Sunrisers Hyderabad,201.0,169.0,16.0,118.93,12.56,28,0,0,16,7,26.0,False,26
+4007,AD Mathews,Angelo Mathews,Sri Lanka,Right-hand batter,Right-arm fast-medium,All-rounder,724.0,28.0,2009.0,2017.0,Delhi Capitals,724.0,575.0,31.0,125.91,23.35,41,0,1,44,29,65.0,True,65*
+4017,Mohammed Shami,Mohammed Shami,India,Right-hand batter,Right-arm fast,Bowler,115.0,162.0,2013.0,2026.0,Lucknow Super Giants,115.0,111.0,19.0,103.6,6.05,34,0,0,9,5,21.0,False,21
+4018,NM Coulter-Nile,Nathan Coulter-Nile,Australia,Right-hand batter,Right-arm fast,Bowler,82.0,52.0,2013.0,2022.0,Rajasthan Royals,82.0,72.0,11.0,113.89,7.45,16,0,0,7,4,24.0,True,24*
+4038,BB Sran,Barinder Sran,India,Left Handed Bat,Left-arm fast-medium,Bowler,10.0,20.0,2015.0,2019.0,Mumbai Indians,10.0,14.0,1.0,71.43,10.0,7,0,0,0,0,3.0,True,3*
+4050,Mohammad Nabi,Mohammad Nabi,Afghanistan,Right-hand batter,Right-arm off-spin,All-rounder,221.0,15.0,2017.0,2024.0,Mumbai Indians,221.0,152.0,17.0,145.39,13.0,19,0,0,18,11,31.0,False,31
+4056,S Kaul,Siddarth Kaul,India,Right-hand batter,Right-arm fast-medium,Bowler,20.0,63.0,2013.0,2022.0,Royal Challengers Bengaluru,20.0,36.0,4.0,55.56,5.0,9,0,0,1,0,7.0,True,7*
+4096,J Yadav,Jayant Yadav,India,Right-hand batter,Right-arm off-spin,Bowler,40.0,9.0,2015.0,2023.0,Gujarat Titans,40.0,36.0,4.0,111.11,10.0,4,0,0,2,1,23.0,False,23
+4098,KS Williamson,Kane Williamson,New Zealand,Right-hand batter,Right-arm off-spin,Batter,2132.0,0.0,2015.0,2024.0,Gujarat Titans,2132.0,1697.0,60.0,125.63,35.53,76,0,18,185,64,89.0,False,89
+4101,Mohammed Siraj,Mohammed Siraj,India,Right-hand batter,Right-arm fast,Bowler,117.0,132.0,2017.0,2026.0,Gujarat Titans,117.0,139.0,12.0,84.17,9.75,23,0,0,11,4,14.0,True,14*
+4121,Gurkeerat Singh,Gurkeerat Singh Mann,India,Right-hand batter,Right-arm off-spin,Batter,511.0,5.0,2012.0,2020.0,Royal Challengers Bengaluru,511.0,422.0,24.0,121.09,21.29,32,0,2,55,11,65.0,False,65
+4138,SE Marsh,Shaun Marsh,Australia,Left-hand batter,Left-arm orthodox,Batter,2489.0,,2008.0,2017.0,Punjab Kings,2489.0,1871.0,63.0,133.03,39.51,69,1,20,266,78,115.0,False,115
+4153,JP Faulkner,James Faulkner,Australia,Right-hand batter,Left-arm fast-medium,All-rounder,527.0,76.0,2011.0,2017.0,Gujarat Lions,527.0,390.0,26.0,135.13,20.27,45,0,0,36,23,46.0,False,46
+4166,Shakib Al Hasan,Shakib Al Hasan,Bangladesh,Left-hand batter,Left-arm orthodox,All-rounder,795.0,71.0,2011.0,2021.0,Kolkata Knight Riders,795.0,639.0,41.0,124.41,19.39,52,0,2,73,21,66.0,True,66*
+4180,K Rabada,Kagiso Rabada,South Africa,Left-hand batter,Right-arm fast,Bowler,262.0,157.0,2017.0,2026.0,Gujarat Titans,262.0,239.0,20.0,109.62,13.1,34,0,0,21,11,44.0,False,44
+4185,MG Johnson,Mitchell Johnson,Australia,Left-hand batter,Left-arm fast,Bowler,167.0,66.0,2013.0,2018.0,Kolkata Knight Riders,167.0,164.0,13.0,101.83,12.85,28,0,0,10,7,16.0,True,16*
+4224,Washington Sundar,Washington Sundar,India,Left-hand batter,Right-arm off-spin,All-rounder,888.0,42.0,2017.0,2026.0,Gujarat Titans,888.0,656.0,43.0,135.37,20.65,59,0,3,82,28,55.0,False,55
+4225,AD Nath,Akshdeep Nath,United Arab Emirates,Right Handed Bat,Right-arm fast-medium,Batting Allrounder,90.0,,2016.0,2019.0,Royal Challengers Bengaluru,90.0,98.0,10.0,91.84,9.0,10,0,0,7,2,24.0,False,24
+4243,NB Singh,Nathu Singh,India,Right-hand batter,Right-arm fast-medium,Bowler,,1.0,2017.0,2017.0,Gujarat Lions,0.0,0.0,0.0,,,0,0,0,0,0,,,
+4248,SS Agarwal,Shubham Agarwal,India,Right hand Bat,Right-arm legbreak,Bowler,,1.0,2017.0,2017.0,Gujarat Lions,0.0,0.0,0.0,,,0,0,0,0,0,,,
+4292,KV Sharma,Karan Sharma,India,Right-hand batter,Leg-spin,Batter,352.0,89.0,2009.0,2025.0,Mumbai Indians,352.0,295.0,26.0,119.32,13.54,40,0,0,20,17,39.0,True,39*
+4312,DM Bravo,Darren Bravo,West Indies,Left-hand batter,Right-arm fast-medium,Batter,6.0,,2017.0,2017.0,Kolkata Knight Riders,6.0,5.0,0.0,120.0,,1,0,0,1,0,6.0,True,6*
+4338,Ankit Soni,Ankit Soni,India,Right-hand batter,Leg-spin,Bowler,7.0,4.0,2017.0,2017.0,Gujarat Lions,7.0,9.0,2.0,77.78,3.5,3,0,0,0,1,7.0,True,7*
+4362,AR Bawne,Ankit Bawne,India,Right Handed Bat,Right-arm offbreak,Batsman,12.0,,2017.0,2017.0,Delhi Capitals,12.0,12.0,0.0,100.0,,1,0,0,1,0,12.0,True,12*
+4379,SP Jackson,Sheldon Jackson,India,Right-hand batter,No information available,Batter,61.0,,2017.0,2022.0,Kolkata Knight Riders,61.0,57.0,6.0,107.02,10.17,8,0,0,5,1,16.0,False,16
+4389,Anureet Singh,Anureet Singh,India,Right-hand batter,Right-arm medium,Bowler,36.0,21.0,2009.0,2018.0,Rajasthan Royals,36.0,47.0,4.0,76.6,9.0,8,0,0,2,1,15.0,False,15
+4402,MJ Guptill,Martin Guptill,New Zealand,Right-hand batter,Right-arm off-spin,Batter,271.0,,2016.0,2019.0,Sunrisers Hyderabad,271.0,197.0,12.0,137.56,22.58,13,0,1,24,15,50.0,True,50*
+4452,IK Pathan,Irfan Pathan,India,Left-hand batter,Left-arm fast-medium,All-rounder,1150.0,99.0,2008.0,2017.0,Gujarat Lions,1150.0,950.0,53.0,121.05,21.7,82,0,1,87,37,60.0,False,60
+4569,PJ Sangwan,Pradeep Sangwan,India,Right-hand batter,Left-arm fast-medium,Bowler,26.0,44.0,2008.0,2022.0,Gujarat Titans,26.0,44.0,8.0,59.09,3.25,14,0,0,1,0,6.0,True,6*
+4621,R Powell,Rovman Powell,West Indies,Right Handed Bat,Right-arm fast-medium,Batsman,555.0,1.0,2022.0,2026.0,Kolkata Knight Riders,555.0,390.0,25.0,142.31,22.2,30,0,1,38,38,67.0,True,67*
+4649,MN Samuels,Marlon Samuels,West Indies,Right-hand batter,Right-arm off-spin,All-rounder,161.0,10.0,2012.0,2017.0,Delhi Capitals,161.0,172.0,13.0,93.6,12.38,14,0,0,9,7,46.0,False,46
+4725,LMP Simmons,Lendl Simmons,West Indies,Right-hand batter,Right-arm medium,Batter,1079.0,1.0,2014.0,2017.0,Mumbai Indians,1079.0,852.0,27.0,126.64,39.96,29,1,11,109,44,100.0,True,100*
+4835,MJ Henry,Matt Henry,New Zealand,Right-hand batter,Right-arm fast-medium,Bowler,7.0,5.0,2017.0,2026.0,Chennai Super Kings,7.0,10.0,2.0,70.0,3.5,2,0,0,1,0,5.0,False,5
+4839,R Tewatia,Rahul Tewatia,India,Left Handed Bat,Right-arm legbreak,Bowling Allrounder,1302.0,36.0,2014.0,2026.0,Gujarat Titans,1302.0,943.0,55.0,138.07,23.67,91,0,2,110,62,68.0,False,68
+4966,J Suchith,Jagadeesha Suchith,India,Left Handed Bat,Left-arm orthodox,Bowler,70.0,20.0,2015.0,2022.0,Sunrisers Hyderabad,70.0,61.0,4.0,114.75,17.5,9,0,0,6,3,34.0,True,34*
+4975,R Vinay Kumar,Vinay Kumar,India,Right-hand batter,Right-arm fast-medium,Bowler,310.0,127.0,2008.0,2018.0,Kolkata Knight Riders,310.0,274.0,28.0,113.14,11.07,42,0,0,21,9,26.0,True,26*
+4980,SS Tiwary,Saurabh Tiwary,India,Left-hand batter,No information available,Batter,1494.0,,2008.0,2021.0,Mumbai Indians,1494.0,1244.0,52.0,120.1,28.73,73,0,8,111,50,61.0,False,61
+5015,Avesh Khan,Avesh Khan,India,Right-hand batter,Right-arm fast-medium,Bowler,68.0,100.0,2017.0,2026.0,Lucknow Super Giants,68.0,43.0,4.0,158.14,17.0,16,0,0,7,4,19.0,True,19*
+5020,HV Patel,Harshal Patel,India,Right-hand batter,Right-arm fast-medium,Bowler,280.0,168.0,2012.0,2026.0,Sunrisers Hyderabad,280.0,238.0,32.0,117.65,8.75,44,0,0,18,15,36.0,True,36*
+5075,IR Jaggi,Ishank Jaggi,India,Right Handed Bat,Right-arm legbreak,Batsman,76.0,,2011.0,2017.0,Kolkata Knight Riders,76.0,97.0,5.0,78.35,15.2,7,0,0,6,0,28.0,False,28
+5153,DJ Bravo,Dwayne Bravo,West Indies,Right-hand batter,Right-arm fast-medium,All-rounder,1560.0,207.0,2008.0,2022.0,Chennai Super Kings,1560.0,1204.0,69.0,129.57,22.61,110,0,5,120,66,70.0,True,70*
+5155,E Lewis,Evin Lewis,West Indies,Left Handed Bat,No information available,Batsman,654.0,,2018.0,2022.0,Lucknow Super Giants,654.0,477.0,24.0,137.11,27.25,26,0,4,62,36,65.0,False,65
+5164,M Markande,Mayank Markande,India,Right-hand batter,Leg-spin,Bowler,48.0,37.0,2018.0,2026.0,Mumbai Indians,48.0,42.0,3.0,114.29,16.0,10,0,0,5,1,18.0,True,18*
+5165,MA Wood,Mark Wood,England,Right-hand batter,Right-arm fast,Bowler,12.0,11.0,2018.0,2023.0,Lucknow Super Giants,12.0,8.0,2.0,150.0,6.0,3,0,0,1,1,10.0,True,10*
+5179,C Munro,Colin Munro,New Zealand,Left-hand batter,Right-arm medium,Batter,177.0,0.0,2016.0,2019.0,Delhi Capitals,177.0,141.0,12.0,125.53,14.75,11,0,0,19,8,40.0,False,40
+5186,KL Rahul,KL Rahul,India,Right-hand batter,No information available,Batter,5828.0,,2013.0,2026.0,Delhi Capitals,5828.0,4188.0,128.0,139.16,45.53,149,6,45,508,239,152.0,True,152*
+5192,Mujeeb Ur Rahman,Mujeeb Ur Rahman,Afghanistan,Right-hand batter,Right-arm off-spin,Bowler,12.0,21.0,2018.0,2025.0,Mumbai Indians,12.0,15.0,3.0,80.0,4.0,6,0,0,2,0,10.0,True,10*
+5195,R Ashwin,Ravichandran Ashwin,India,Right Handed Bat,Right-arm offbreak,Bowling Allrounder,833.0,205.0,2009.0,2025.0,Chennai Super Kings,833.0,705.0,64.0,118.16,13.02,93,0,1,64,29,50.0,False,50
+5205,AD Russell,Andre Russell,West Indies,Right-hand batter,Right-arm fast,All-rounder,2655.0,133.0,2012.0,2025.0,Kolkata Knight Riders,2655.0,1525.0,95.0,174.1,27.95,114,0,12,186,223,88.0,True,88*
+5210,K Khejroliya,Kulwant Khejroliya,India,Left-hand batter,Left-arm fast-medium,Bowler,,6.0,2018.0,2026.0,Gujarat Titans,0.0,0.0,0.0,,,0,0,0,0,0,,,
+5218,Q de Kock,Quinton de Kock,South Africa,Left-hand batter,No information available,Batter,3444.0,,2013.0,2026.0,Mumbai Indians,3444.0,2553.0,111.0,134.9,31.03,118,3,24,334,143,140.0,True,140*
+5220,RK Singh,Rinku Singh,India,Left-hand batter,Right-arm off-spin,Batter,1398.0,,2018.0,2026.0,Kolkata Knight Riders,1398.0,956.0,41.0,146.23,34.1,62,0,6,114,67,83.0,True,83*
+5223,SN Khan,Sarfaraz Khan,India,Right Handed Bat,Right-arm legbreak,Batsman,746.0,0.0,2015.0,2026.0,Chennai Super Kings,746.0,543.0,33.0,137.38,22.61,43,0,2,86,20,67.0,False,67
+5232,B Laughlin,Ben Laughlin,Australia,Right-hand batter,Right-arm fast-medium,Bowler,5.0,10.0,2013.0,2018.0,Rajasthan Royals,5.0,13.0,2.0,38.46,2.5,4,0,0,0,0,4.0,True,4*
+5237,DJM Short,D Arcy Short,Australia,Left Handed Bat,Left-arm wrist-spin,Batsman,115.0,1.0,2018.0,2018.0,Rajasthan Royals,115.0,99.0,7.0,116.16,16.43,7,0,0,11,5,44.0,False,44
+5241,K Gowtham,Krishnappa Gowtham,India,Right-hand batter,Right-arm offbreak,Bowling Allrounder,247.0,22.0,2018.0,2024.0,Lucknow Super Giants,247.0,148.0,18.0,166.89,13.72,27,0,0,15,17,33.0,True,33*
+5250,S Gopal,Shreyas Gopal,India,Right-hand batter,Leg-spin,Bowler,180.0,53.0,2014.0,2024.0,Mumbai Indians,180.0,169.0,14.0,106.51,12.86,22,0,0,19,2,24.0,False,24
+5282,Shivam Mavi,Shivam Mavi,India,Right-hand batter,Right-arm fast-medium,Bowler,51.0,33.0,2018.0,2022.0,Kolkata Knight Riders,51.0,56.0,9.0,91.07,5.67,11,0,0,4,2,20.0,False,20
+5283,TK Curran,Tom Curran,England,Right-hand batter,Right-arm fast-medium,All-rounder,127.0,13.0,2018.0,2021.0,Delhi Capitals,127.0,107.0,5.0,118.69,25.4,10,0,1,10,3,54.0,True,54*
+5366,A Dananjaya,Akila Dananjaya,Sri Lanka,Left-hand batter,Right-arm off-spin,Bowler,4.0,0.0,2018.0,2018.0,Mumbai Indians,4.0,5.0,0.0,80.0,,1,0,0,0,0,4.0,True,4*
+5416,Shubman Gill,Shubman Gill,India,Right-hand batter,Right-arm off-spin,Batter,4598.0,,2018.0,2026.0,Gujarat Titans,4598.0,3236.0,114.0,142.09,40.33,130,5,32,446,152,129.0,False,129
+5459,M Vijay,Murali Vijay,India,Right-hand batter,Right-arm off-spin,Batter,2619.0,0.0,2009.0,2020.0,Chennai Super Kings,2619.0,2149.0,101.0,121.87,25.93,105,2,13,247,91,127.0,False,127
+5510,JP Duminy,Jean-Paul Duminy,South Africa,Left-hand batter,Right-arm off-spin,All-rounder,2029.0,23.0,2009.0,2018.0,Mumbai Indians,2029.0,1636.0,51.0,124.02,39.78,75,0,14,126,79,78.0,True,78*
+5591,H Klaasen,Heinrich Klaasen,South Africa,Right-hand batter,Right-arm off-spin,Batter,2104.0,,2018.0,2026.0,Sunrisers Hyderabad,2104.0,1262.0,50.0,166.72,42.08,60,2,13,146,120,105.0,True,105*
+5681,RK Bhui,Ricky Bhui,India,Right-hand batter,Leg-spin,Batter,10.0,,2018.0,2024.0,Delhi Capitals,10.0,26.0,4.0,38.46,2.5,4,0,0,0,0,7.0,False,7
+5702,JC Archer,Jofra Archer,England,Right-hand batter,Right-arm fast,Bowler,326.0,90.0,2018.0,2026.0,Rajasthan Royals,326.0,225.0,25.0,144.89,13.04,40,0,0,18,22,32.0,False,32
+5736,LE Plunkett,Liam Plunkett,United States of America,Right-hand batter,Right-arm fast,Bowler,1.0,4.0,2018.0,2018.0,Delhi Capitals,1.0,3.0,1.0,33.33,1.0,2,0,0,0,0,1.0,True,1*
+5739,PP Shaw,Prithvi Shaw,India,Right-hand batter,Right-arm off-spin,Batter,1892.0,,2018.0,2024.0,Delhi Capitals,1892.0,1283.0,79.0,147.47,23.95,79,0,14,238,61,99.0,False,99
+5884,AD Hales,Alex Hales,England,Right-hand batter,Right-arm medium,Batter,148.0,,2018.0,2018.0,Sunrisers Hyderabad,148.0,118.0,6.0,125.42,24.67,6,0,0,13,6,45.0,False,45
+5892,IS Sodhi,Ish Sodhi,New Zealand,Right-hand batter,Leg-spin,Bowler,7.0,9.0,2018.0,2019.0,Rajasthan Royals,7.0,17.0,2.0,41.18,3.5,2,0,0,0,0,6.0,False,6
+5898,MK Lomror,Mahipal Lomror,India,Left Handed Bat,Left-arm orthodox,Batting Allrounder,527.0,2.0,2018.0,2024.0,Royal Challengers Bengaluru,527.0,373.0,29.0,141.29,18.17,35,0,1,33,30,54.0,True,54*
+5917,M Ashwin,Murugan Ashwin,India,Right Handed Bat,Right-arm legbreak,Bowler,35.0,35.0,2016.0,2023.0,Rajasthan Royals,35.0,50.0,9.0,70.0,3.89,12,0,0,2,1,9.0,False,9
+5949,KM Asif,KM Asif,India,Right-hand batter,Right-arm fast-medium,Bowler,0.0,7.0,2018.0,2023.0,Rajasthan Royals,0.0,2.0,1.0,0.0,0.0,1,0,0,0,0,0.0,False,0
+5951,L Ngidi,Lungi Ngidi,South Africa,Right-hand batter,Right-arm fast,Bowler,4.0,46.0,2018.0,2026.0,Delhi Capitals,4.0,9.0,2.0,44.44,2.0,4,0,0,0,0,3.0,False,3
+6077,DJ Willey,David Willey,England,Left-hand batter,Left-arm fast-medium,All-rounder,53.0,7.0,2018.0,2023.0,Royal Challengers Bengaluru,53.0,62.0,2.0,85.48,26.5,5,0,0,7,0,20.0,True,20*
+6078,DR Shorey,Dhruv Shorey,India,Right-hand batter,Right-arm off-spin,Batter,13.0,,2018.0,2019.0,Chennai Super Kings,13.0,17.0,2.0,76.47,6.5,2,0,0,0,1,8.0,False,8
+6141,M Prasidh Krishna,Prasidh Krishna,India,Right-hand batter,Right-arm fast,Batter,15.0,98.0,2018.0,2026.0,Gujarat Titans,15.0,31.0,3.0,48.39,5.0,8,0,0,1,0,6.0,True,6*
+6192,MM Ali,Moeen Ali,England,Left-hand batter,Right-arm off-spin,All-rounder,1167.0,46.0,2018.0,2025.0,Kolkata Knight Riders,1167.0,835.0,53.0,139.76,22.02,59,0,6,95,67,93.0,False,93
+6282,SP Goswami,Shreevats Goswami,India,Left-hand batter,No information available,Batter,293.0,,2008.0,2020.0,Sunrisers Hyderabad,293.0,295.0,20.0,99.32,14.65,21,0,1,32,3,52.0,False,52
+6307,P Chopra,Prashant Chopra,India,Right Handed Bat,Right-arm legbreak,WK-Batsman,8.0,,2018.0,2018.0,Rajasthan Royals,8.0,6.0,1.0,133.33,8.0,1,0,0,2,0,8.0,False,8
+6328,JPR Scantlebury-Searles,Javon Searles,West Indies,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,8.0,2.0,2018.0,2018.0,Kolkata Knight Riders,8.0,6.0,1.0,133.33,8.0,2,0,0,0,1,6.0,True,6*
+6347,Abhishek Sharma,Abhishek Sharma,India,Left Handed Bat,Left-arm orthodox,Batting Allrounder,2379.0,11.0,2018.0,2026.0,Sunrisers Hyderabad,2379.0,1389.0,81.0,171.27,29.37,89,2,13,224,144,141.0,False,141
+6349,CJ Dala,Junior Dala,South Africa,Right-hand batter,Right-arm medium,Bowler,,0.0,2018.0,2018.0,Delhi Capitals,0.0,0.0,0.0,,,0,0,0,0,0,,,
+6362,S Lamichhane,Sandeep Lamichhane,Nepal,Right-hand batter,Leg-spin,Bowler,0.0,14.0,2018.0,2019.0,Delhi Capitals,0.0,1.0,1.0,0.0,0.0,1,0,0,0,0,0.0,False,0
+6735,KK Ahmed,Khaleel Ahmed,India,Right-hand batter,Left-arm fast-medium,Bowler,2.0,96.0,2018.0,2026.0,Chennai Super Kings,2.0,9.0,5.0,22.22,0.4,6,0,0,0,0,1.0,True,1*
+6795,Navdeep Saini,Navdeep Saini,India,Right Handed Bat,Right-arm fast,Bowler,33.0,26.0,2019.0,2026.0,Kolkata Knight Riders,33.0,37.0,4.0,89.19,8.25,7,0,0,3,0,12.0,True,12*
+6799,S Dube,Shivam Dube,India,Left-hand batter,Right-arm medium,All-rounder,2129.0,7.0,2019.0,2026.0,Chennai Super Kings,2129.0,1464.0,68.0,145.42,31.31,87,0,10,132,137,95.0,True,95*
+6802,SO Hetmyer,Shimron Hetmyer,West Indies,Left Handed Bat,No information available,Batsman,1566.0,,2019.0,2026.0,Rajasthan Royals,1566.0,1049.0,57.0,149.29,27.47,85,0,5,98,96,75.0,False,75
+6815,JM Bairstow,Jonny Bairstow,England,Right-hand batter,Right-arm medium,Batter,1674.0,,2019.0,2025.0,Mumbai Indians,1674.0,1146.0,48.0,146.07,34.88,52,2,9,173,74,114.0,False,114
+6837,CA Ingram,Colin Ingram,South Africa,Left-hand batter,Leg-spin,Batter,205.0,,2011.0,2019.0,Delhi Capitals,205.0,180.0,12.0,113.89,17.08,15,0,0,22,5,47.0,False,47
+6845,KMA Paul,Keemo Paul,West Indies,Right-hand batter,Right-arm fast-medium,All-rounder,18.0,10.0,2019.0,2019.0,Delhi Capitals,18.0,24.0,5.0,75.0,3.6,5,0,0,1,1,7.0,False,7
+6853,Rasikh Salam,Rasikh Salam Dar,India,Right-hand batter,Right-arm fast-medium,Bowler,43.0,30.0,2019.0,2026.0,Royal Challengers Bengaluru,43.0,42.0,5.0,102.38,8.6,7,0,0,5,0,10.0,False,10
+6881,N Pooran,Nicholas Pooran,West Indies,Left-hand batter,Right-arm off-spin,Batter,2527.0,,2019.0,2026.0,Lucknow Super Giants,2527.0,1543.0,83.0,163.77,30.45,100,0,15,168,186,87.0,True,87*
+6885,SM Curran,Sam Curran,England,Left-hand batter,Left-arm fast-medium,All-rounder,997.0,63.0,2019.0,2025.0,Chennai Super Kings,997.0,731.0,40.0,136.39,24.92,53,0,6,85,41,88.0,False,88
+6922,CV Varun,Varun Chakaravarthy,India,Right Handed Bat,Right-arm legbreak,Bowler,31.0,114.0,2019.0,2026.0,Kolkata Knight Riders,31.0,53.0,6.0,58.49,5.17,13,0,0,3,0,10.0,True,10*
+6924,GC Viljoen,Hardus Viljoen,South Africa,Right-hand batter,Right-arm fast-medium,Bowler,3.0,8.0,2019.0,2019.0,Punjab Kings,3.0,7.0,2.0,42.86,1.5,3,0,0,0,0,2.0,True,2*
+7031,GH Vihari,Hanuma Vihari,India,Right-hand batter,Right-arm off-spin,All-rounder,284.0,1.0,2013.0,2019.0,Delhi Capitals,284.0,321.0,20.0,88.47,14.2,23,0,0,23,1,46.0,False,46
+7042,NS Naik,Niranjan Naik,India,Left-hand batter,No information available,Bowler,31.0,,2016.0,2020.0,Kolkata Knight Riders,31.0,50.0,4.0,62.0,7.75,4,0,0,2,0,22.0,False,22
+7067,P Ray Barman,Prayas Barman,India,Right Handed Bat,Right-arm offbreak,Batsman,19.0,0.0,2019.0,2019.0,Royal Challengers Bengaluru,19.0,24.0,1.0,79.17,19.0,1,0,0,2,0,19.0,False,19
+7097,MJ Santner,Mitchell Santner,New Zealand,Left-hand batter,Left-arm orthodox,All-rounder,136.0,31.0,2019.0,2026.0,Mumbai Indians,136.0,123.0,8.0,110.57,17.0,21,0,0,9,6,22.0,False,22
+7171,JP Behrendorff,Jason Behrendorff,Australia,Right-hand batter,Left-arm fast-medium,Bowler,6.0,22.0,2019.0,2023.0,Mumbai Indians,6.0,9.0,0.0,66.67,,2,0,0,0,0,3.0,True,3*
+7267,SC Kuggeleijn,Scott Kuggeleijn,New Zealand,Right Handed Bat,Right-arm fast-medium,Batting Allrounder,,2.0,2019.0,2019.0,Chennai Super Kings,0.0,0.0,0.0,,,0,0,0,0,0,,,
+7272,AS Joseph,Alzarri Joseph,West Indies,Right-hand batter,Right-arm fast,Bowler,27.0,22.0,2019.0,2024.0,Royal Challengers Bengaluru,27.0,32.0,1.0,84.38,27.0,5,0,0,3,0,15.0,True,15*
+7335,HF Gurney,Harry Gurney,England,Right Handed Bat,Left-arm fast-medium,Bowler,1.0,7.0,2019.0,2019.0,Kolkata Knight Riders,1.0,5.0,0.0,20.0,,1,0,0,0,0,1.0,True,1*
+7348,S Midhun,Sudhesan Midhun,India,Right Handed Bat,Right-arm legbreak,Bowler,,0.0,2019.0,2019.0,Rajasthan Royals,0.0,0.0,0.0,,,0,0,0,0,0,,,
+7432,SD Lad,Siddhesh Dinesh Lad,India,Right hand Bat,Right arm Offbreak,Batsman,15.0,,2019.0,2019.0,Mumbai Indians,15.0,13.0,1.0,115.38,15.0,1,0,0,1,1,15.0,False,15
+7454,R Parag,Riyan Parag,India,Right-hand batter,Leg-spin,All-rounder,1879.0,11.0,2019.0,2026.0,Rajasthan Royals,1879.0,1302.0,74.0,144.32,25.39,86,0,9,135,108,95.0,False,95
+7472,JL Denly,Joe Denly,England,Right-hand batter,Leg-spin,All-rounder,0.0,,2019.0,2019.0,Kolkata Knight Riders,0.0,1.0,1.0,0.0,0.0,1,0,0,0,0,0.0,False,0
+7506,LS Livingstone,Liam Livingstone,England,Right-hand batter,Leg-spin,All-rounder,1066.0,13.0,2019.0,2026.0,Sunrisers Hyderabad,1066.0,687.0,42.0,155.17,25.38,49,0,7,70,76,94.0,False,94
+7613,Milind Kumar,Milind Pathak,India,Left-hand batter,No information available,Batter,,,,,,0.0,0.0,0.0,,,0,0,0,0,0,,,
+7629,AJ Turner,Ashton Turner,Australia,Right-hand batter,Right-arm off-spin,All-rounder,24.0,,2019.0,2024.0,Lucknow Super Giants,24.0,28.0,5.0,85.71,4.8,6,0,0,0,2,16.0,False,16
+7632,Arshdeep Singh,Arshdeep Singh,India,Left-hand batter,Left-arm fast-medium,Bowler,32.0,120.0,2019.0,2026.0,Punjab Kings,32.0,47.0,6.0,68.09,5.33,14,0,0,4,0,10.0,True,10*
+7714,DW Steyn,Dale Steyn,South Africa,Right-hand batter,Right-arm fast,Bowler,167.0,105.0,2008.0,2020.0,Royal Challengers Bengaluru,167.0,160.0,22.0,104.38,7.59,33,0,0,14,3,19.0,True,19*
+7771,Harpreet Brar,Harpreet Brar,India,Left-hand batter,Left-arm orthodox,Bowler,249.0,37.0,2019.0,2026.0,Punjab Kings,249.0,206.0,12.0,120.87,20.75,27,0,0,20,10,29.0,False,29
+7786,SE Rutherford,Sherfane Rutherford,West Indies,Left-hand batter,Right-arm fast-medium,All-rounder,520.0,1.0,2019.0,2026.0,Mumbai Indians,520.0,364.0,21.0,142.86,24.76,27,0,1,30,38,71.0,True,71*
+7815,Y Prithvi Raj,Prithvi Raj Yarra,India,Left-hand batter,Left-arm fast-medium,Bowler,0.0,1.0,2019.0,2019.0,Kolkata Knight Riders,0.0,1.0,0.0,0.0,,1,0,0,0,0,0.0,True,0*
+7941,O Thomas,Thomas Odoyo,Kenya,Right-hand batter,Right-arm fast-medium,All-rounder,,5.0,2019.0,2019.0,Rajasthan Royals,0.0,0.0,0.0,,,0,0,0,0,0,,,
+7954,AS Roy,Anukul Roy,India,Left-hand batter,Left-arm orthodox,All-rounder,78.0,17.0,2019.0,2026.0,Kolkata Knight Riders,78.0,64.0,8.0,121.88,9.75,14,0,0,6,2,29.0,True,29*
+8056,S Sandeep Warrier,Sandeep Warrier,India,Right-hand batter,Right-arm fast-medium,Bowler,,8.0,2019.0,2024.0,Gujarat Titans,0.0,0.0,0.0,,,0,0,0,0,0,,,
+8081,P Simran Singh,Prabhsimran Singh,India,Right-hand batter,No information available,WK-Batsman,1865.0,,2019.0,2026.0,Punjab Kings,1865.0,1189.0,63.0,156.85,29.6,65,1,14,196,94,103.0,False,103
+8305,Anmolpreet Singh,Anmolpreet Sing,India,Right Handed Bat,Right-arm offbreak,Batsman,139.0,,2021.0,2024.0,Sunrisers Hyderabad,139.0,115.0,9.0,120.87,15.44,9,0,0,19,3,36.0,False,36
+8419,JL Pattinson,James Pattinson,Australia,Left-hand batter,Right-arm fast,Bowler,15.0,11.0,2020.0,2020.0,Mumbai Indians,15.0,13.0,1.0,115.38,15.0,2,0,0,2,0,11.0,False,11
+8440,A Nortje,Anrich Nortje,South Africa,Right-hand batter,Right-arm fast,Bowler,49.0,63.0,2020.0,2026.0,Lucknow Super Giants,49.0,50.0,7.0,98.0,7.0,14,0,0,6,0,23.0,True,23*
+8460,Ravi Bishnoi,Ravi Bishnoi,India,Right Handed Bat,Right-arm legbreak,Bowler,45.0,89.0,2020.0,2026.0,Rajasthan Royals,45.0,69.0,12.0,65.22,3.75,18,0,0,2,2,13.0,False,13
+8464,SS Cottrell,Sheldon Cottrell,West Indies,Right-hand batter,Left-arm fast-medium,Bowler,0.0,6.0,2020.0,2020.0,Punjab Kings,0.0,2.0,1.0,0.0,0.0,1,0,0,0,0,0.0,False,0
+8472,D Padikkal,Devdutt Padikkal,India,Left-hand batter,Right-arm off-spin,Batter,2270.0,,2020.0,2026.0,Royal Challengers Bengaluru,2270.0,1705.0,85.0,133.14,26.71,89,1,14,239,80,101.0,True,101*
+8475,I Udana,Isuru Udana,Sri Lanka,Right Handed Bat,Left-arm fast-medium,Bowling Allrounder,15.0,8.0,2020.0,2020.0,Royal Challengers Bengaluru,15.0,11.0,3.0,136.36,5.0,4,0,0,1,1,10.0,True,10*
+8488,T Banton,Tom Banton,England,Right-hand batter,No information available,Batter,18.0,,2020.0,2020.0,Kolkata Knight Riders,18.0,20.0,2.0,90.0,9.0,2,0,0,1,1,10.0,False,10
+8494,Abdul Samad,Abdul Samad,India,Right-hand batter,Leg-spin,All-rounder,859.0,2.0,2020.0,2026.0,Lucknow Super Giants,859.0,578.0,45.0,148.62,19.09,58,0,0,55,55,45.0,False,45
+8500,JO Holder,Jason Holder,West Indies,Right-hand batter,Right-arm fast-medium,All-rounder,324.0,76.0,2013.0,2026.0,Gujarat Titans,324.0,263.0,26.0,123.19,12.46,34,0,0,16,21,47.0,True,47*
+8507,PK Garg,Priyam Garg,India,Right-hand batter,Right-arm medium,Batter,273.0,,2020.0,2023.0,Delhi Capitals,273.0,241.0,18.0,113.28,15.17,19,0,1,16,9,51.0,True,51*
+8537,RD Gaikwad,Ruturaj Gaikwad,India,Right Handed Bat,Right-arm offbreak,Batsman,2839.0,,2020.0,2026.0,Chennai Super Kings,2839.0,2093.0,74.0,135.64,38.36,84,2,22,260,107,108.0,True,108*
+8547,YBK Jaiswal,Yashasvi Jaiswal,India,Left Handed Bat,Right-arm legbreak,Batsman,2593.0,0.0,2020.0,2026.0,Rajasthan Royals,2593.0,1697.0,78.0,152.8,33.24,82,2,18,310,110,124.0,False,124
+8556,KL Nagarkoti,Kamlesh Nagarkoti,India,Right-hand batter,Right-arm fast,Bowler,22.0,5.0,2020.0,2022.0,Delhi Capitals,22.0,33.0,4.0,66.67,5.5,7,0,0,1,0,8.0,True,8*
+8573,TU Deshpande,Tushar Deshpande,India,Left Handed Bat,Right-arm fast-medium,Bowler,54.0,60.0,2020.0,2026.0,Rajasthan Royals,54.0,36.0,4.0,150.0,13.5,10,0,0,2,4,25.0,False,25
+8613,JR Philippe,Josh Philippe,Australia,Right-hand batter,No information available,Batter,78.0,,2020.0,2020.0,Royal Challengers Bengaluru,78.0,77.0,4.0,101.3,19.5,5,0,0,9,1,33.0,False,33
+8640,Kartik Tyagi,Kartik Tyagi,India,Right-hand batter,Right-arm fast,Bowler,24.0,35.0,2020.0,2026.0,Kolkata Knight Riders,24.0,26.0,7.0,92.31,3.43,9,0,0,2,1,7.0,False,7
+8714,JDS Neesham,James Neesham,New Zealand,Left-hand batter,Right-arm fast-medium,All-rounder,92.0,8.0,2014.0,2022.0,Rajasthan Royals,92.0,93.0,9.0,98.92,10.22,10,0,0,6,2,22.0,False,22
+8772,DR Sams,Daniel Sams,Australia,Right-hand batter,Left-arm fast-medium,All-rounder,44.0,15.0,2020.0,2022.0,Mumbai Indians,44.0,44.0,9.0,100.0,4.89,13,0,0,1,3,15.0,False,15
+8787,Shahbaz Ahmed,Shahbaz Nadeem,India,Right-hand batter,Left-arm orthodox,Bowler,603.0,27.0,2020.0,2026.0,Lucknow Super Giants,603.0,489.0,29.0,123.31,20.79,40,0,1,33,28,59.0,True,59*
+8809,N Jagadeesan,Narayan Jagadeesan,India,Right-hand batter,No information available,Batter,162.0,,2020.0,2023.0,Kolkata Knight Riders,162.0,147.0,9.0,110.2,18.0,10,0,0,21,2,39.0,True,39*
+8876,AT Carey,Alex Carey,Australia,Left-hand batter,No information available,Batter,32.0,,2020.0,2020.0,Delhi Capitals,32.0,29.0,2.0,110.34,16.0,3,0,0,0,1,14.0,True,14*
+9208,JR Hazlewood,Josh Hazlewood,Australia,Left-hand batter,Right-arm fast-medium,Bowler,19.0,73.0,2020.0,2026.0,Royal Challengers Bengaluru,19.0,30.0,1.0,63.33,19.0,8,0,0,1,0,7.0,True,7*
+9257,CJ Green,Chris Green,Australia,Right-hand batter,Right-arm off-spin,All-rounder,,0.0,2020.0,2020.0,Kolkata Knight Riders,0.0,0.0,0.0,,,0,0,0,0,0,,,
+9567,MR Marsh,Mitchell Marsh,Australia,Right-hand batter,Right-arm fast-medium,All-rounder,1855.0,37.0,2010.0,2026.0,Lucknow Super Giants,1855.0,1249.0,60.0,148.52,30.92,62,2,12,155,111,117.0,False,117
+9595,P Dubey,Praveen Dubey,India,Right Handed Bat,Right-arm legbreak,Bowling Allrounder,23.0,2.0,2020.0,2025.0,Punjab Kings,23.0,33.0,1.0,69.7,23.0,2,0,0,2,0,16.0,False,16
+9811,Lalit Yadav,Lalit Yadav,India,Right-hand batter,Right-arm off-spin,All-rounder,305.0,11.0,2021.0,2024.0,Delhi Capitals,305.0,290.0,16.0,105.17,19.06,21,0,0,27,7,48.0,True,48*
+9841,Monu Kumar,Monu Kumar,India,Right-hand batter,Right-arm medium,All-rounder,,0.0,2020.0,2020.0,Chennai Super Kings,0.0,0.0,0.0,,,0,0,0,0,0,,,
+10055,KA Jamieson,Kyle Jamieson,New Zealand,Right-hand batter,Right-arm fast-medium,Bowler,77.0,16.0,2021.0,2026.0,Delhi Capitals,77.0,73.0,5.0,105.48,15.4,10,0,0,6,4,16.0,True,16*
+10059,M Jansen,Marco Jansen,South Africa,Right-hand batter,Left-arm fast,All-rounder,192.0,47.0,2021.0,2026.0,Punjab Kings,192.0,174.0,15.0,110.34,12.8,25,0,0,9,9,34.0,True,34*
+10064,RM Patidar,Rajat Patidar,India,Right-hand batter,Right-arm off-spin,Batter,1612.0,,2021.0,2026.0,Royal Challengers Bengaluru,1612.0,980.0,48.0,164.49,33.58,52,1,14,106,110,112.0,True,112*
+10130,C Sakariya,Chetan Sakariya,India,Left-hand batter,Left-arm fast-medium,Bowler,20.0,20.0,2021.0,2025.0,Kolkata Knight Riders,20.0,31.0,6.0,64.52,3.33,7,0,0,3,0,7.0,False,7
+10134,JA Richardson,Jhye Richardson,Australia,Right-hand batter,Right-arm fast,Bowler,17.0,3.0,2021.0,2024.0,Delhi Capitals,17.0,26.0,3.0,65.38,5.67,3,0,0,2,0,15.0,False,15
+10139,M Shahrukh Khan,Shahrukh Khan,India,Right-hand batter,Right-arm off-spin,Batter,775.0,1.0,2021.0,2026.0,Gujarat Titans,775.0,524.0,38.0,147.9,20.39,53,0,2,49,52,58.0,False,58
+10147,RP Meredith,Riley Meredith,Australia,Right-hand batter,Right-arm fast,Bowler,0.0,21.0,2021.0,2023.0,Mumbai Indians,0.0,3.0,0.0,0.0,,2,0,0,0,0,0.0,True,0*
+10289,Virat Singh,V Singh,India,Right-hand batter,No information available,Batter,15.0,,2021.0,2021.0,Sunrisers Hyderabad,15.0,26.0,2.0,57.69,7.5,2,0,0,1,0,11.0,False,11
+10326,Jalaj S Saxena,Jalaj Saxena,India,Right-hand batter,Right-arm off-spin,All-rounder,,0.0,2021.0,2021.0,Punjab Kings,0.0,0.0,0.0,,,0,0,0,0,0,,,
+10329,LI Meriwala,Lukman Meriwala,India,Left Handed Bat,Left Handed Bat,Bowler,,1.0,2021.0,2021.0,Delhi Capitals,0.0,0.0,0.0,,,0,0,0,0,0,,,
+10342,RV Patel,Ripal Patel,India,Right-hand batter,Right-arm fast-medium,All-rounder,80.0,0.0,2021.0,2023.0,Delhi Capitals,80.0,73.0,5.0,109.59,16.0,7,0,0,6,2,23.0,False,23
+10406,FA Allen,Fabian Allen,West Indies,Right Handed Bat,Left-arm orthodox,Batting Allrounder,14.0,2.0,2021.0,2022.0,Mumbai Indians,14.0,19.0,2.0,73.68,7.0,3,0,0,1,0,8.0,False,8
+10465,KW Richardson,Kane Richardson,Australia,Right-hand batter,Right-arm fast-medium,Bowler,36.0,21.0,2013.0,2021.0,Royal Challengers Bengaluru,36.0,39.0,3.0,92.31,12.0,4,0,0,2,1,26.0,False,26
+10780,Anuj Rawat,Anuj Rawat,India,Left-hand batter,No information available,Batter,318.0,,2021.0,2024.0,Royal Challengers Bengaluru,318.0,267.0,16.0,119.1,19.88,21,0,1,26,14,66.0,False,66
+10813,DJ Malan,Dawid Malan,England,Left-hand batter,Leg-spin,Batter,26.0,,2021.0,2021.0,Punjab Kings,26.0,26.0,1.0,100.0,26.0,1,0,0,1,1,26.0,False,26
+10843,KS Bharat,Srikar Bharat,India,Right Handed Bat,No information available,WK-Batsman,199.0,,2021.0,2022.0,Delhi Capitals,199.0,163.0,7.0,122.09,28.43,8,0,1,12,8,78.0,True,78*
+10848,PWH de Silva,Wanindu Hasaranga,Sri Lanka,Right-hand batter,Leg-spin,All-rounder,81.0,47.0,2021.0,2025.0,Rajasthan Royals,81.0,88.0,15.0,92.05,5.4,19,0,0,7,1,18.0,False,18
+10858,VR Iyer,Venkatesh Iyer,India,Left-hand batter,Right-arm medium,All-rounder,1677.0,3.0,2021.0,2026.0,Royal Challengers Bengaluru,1677.0,1181.0,53.0,142.0,31.64,62,1,13,157,78,104.0,False,104
+10882,Umran Malik,Umran Malik,India,Right-hand batter,Right-arm fast,Bowler,23.0,31.0,2021.0,2024.0,Sunrisers Hyderabad,23.0,16.0,2.0,143.75,11.5,5,0,0,1,2,19.0,True,19*
+10887,Akash Singh,Akash Singh,India,Right-hand batter,Leg-spin,Batter,,13.0,2021.0,2026.0,Lucknow Super Giants,0.0,0.0,0.0,,,0,0,0,0,0,,,
+10893,GD Phillips,Glenn Phillips,New Zealand,Right-hand batter,Right-arm off-spin,Batter,132.0,2.0,2021.0,2026.0,Gujarat Titans,132.0,109.0,11.0,121.1,12.0,13,0,0,7,8,25.0,False,25
+10914,AK Markram,Aiden Markram,South Africa,Right-hand batter,Right-arm off-spin,Batter,1671.0,6.0,2021.0,2026.0,Lucknow Super Giants,1671.0,1234.0,56.0,135.41,29.84,66,0,10,131,68,68.0,True,68*
+10918,GHS Garton,George Garton,England,Left Handed Bat,Left-arm fast-medium,Batting Allrounder,2.0,3.0,2021.0,2021.0,Royal Challengers Bengaluru,2.0,4.0,1.0,50.0,2.0,2,0,0,0,0,2.0,True,2*
+11007,K Yadav,Kartik Yadav,India,Left-hand batter,Left-arm orthodox,Bowler,0.0,2.0,2021.0,2023.0,Rajasthan Royals,0.0,4.0,0.0,0.0,,1,0,0,0,0,0.0,True,0*
+11126,T Shamsi,Tabraiz Shamsi,South Africa,Right-hand batter,Left-arm wrist-spin,Bowler,2.0,3.0,2016.0,2021.0,Rajasthan Royals,2.0,4.0,0.0,50.0,,1,0,0,0,0,2.0,True,2*
+11173,NT Ellis,Nathan Ellis,Australia,Right-hand batter,Right-arm fast-medium,Bowler,19.0,20.0,2021.0,2025.0,Chennai Super Kings,19.0,25.0,4.0,76.0,4.75,5,0,0,0,1,12.0,False,12
+11265,TL Seifert,Tim Seifert,New Zealand,Right Handed Bat,No information available,WK-Batsman,45.0,,2021.0,2026.0,Kolkata Knight Riders,45.0,41.0,6.0,109.76,7.5,6,0,0,6,1,21.0,False,21
+11490,AU Rashid,Adil Rashid,England,Right-hand batter,Leg-spin,Bowler,22.0,2.0,2021.0,2023.0,Sunrisers Hyderabad,22.0,16.0,2.0,137.5,11.0,2,0,0,2,1,18.0,False,18
+11498,IC Porel,Ishan Porel,India,Right-hand batter,Right-arm fast-medium,Bowler,,1.0,2021.0,2021.0,Punjab Kings,0.0,0.0,0.0,,,0,0,0,0,0,,,
+11566,TH David,Tim David,Australia,Right-hand batter,Right-arm off-spin,Batter,1151.0,0.0,2021.0,2026.0,Royal Challengers Bengaluru,1151.0,650.0,35.0,177.08,32.89,59,0,2,76,83,70.0,True,70*
+11687,DP Conway,Devon Conway,New Zealand,Left-hand batter,Right-arm medium,Batter,1080.0,,2022.0,2025.0,Chennai Super Kings,1080.0,773.0,25.0,139.72,43.2,28,0,11,116,34,92.0,True,92*
+11732,Tilak Varma,Tilak Varma,India,Left-hand batter,Right-arm off-spin,Batter,1858.0,0.0,2022.0,2026.0,Mumbai Indians,1858.0,1284.0,52.0,144.7,35.73,65,1,10,143,91,101.0,True,101*
+11734,Akash Deep,Akash Deep,India,Right-hand batter,Right-arm fast-medium,Bowler,25.0,11.0,2022.0,2025.0,Lucknow Super Giants,25.0,14.0,3.0,178.57,8.33,5,0,0,2,2,17.0,False,17
+11748,OF Smith,Steven Smith,Australia,Right-hand batter,Leg-spin,Batter,51.0,7.0,2022.0,2022.0,Punjab Kings,51.0,44.0,3.0,115.91,17.0,6,0,0,1,5,25.0,True,25*
+11749,PBB Rajapaksa,Bhanuka Rajapaksa,Sri Lanka,Left Handed Bat,Right-arm medium,WK-Batsman,277.0,,2022.0,2023.0,Punjab Kings,277.0,191.0,13.0,145.03,21.31,13,0,1,22,15,50.0,False,50
+11752,RA Bawa,Raj Bawa,India,Left Handed Bat,Right-arm fast-medium,Batting Allrounder,35.0,2.0,2022.0,2026.0,Mumbai Indians,35.0,32.0,3.0,109.38,11.67,4,0,0,2,0,16.0,False,16
+11760,A Badoni,Ayush Badoni,India,Right-hand batter,Right-arm off-spin,All-rounder,1178.0,4.0,2022.0,2026.0,Lucknow Super Giants,1178.0,836.0,46.0,140.91,25.61,56,0,7,96,47,74.0,False,74
+11761,A Manohar,Abhinav Manohar,India,Right-hand batter,Leg-spin,Batter,292.0,,2022.0,2025.0,Sunrisers Hyderabad,292.0,235.0,19.0,124.26,15.37,20,0,0,23,14,43.0,False,43
+11773,MS Wade,Matthew Wade,Australia,Left-hand batter,No information available,Batter,183.0,,2011.0,2024.0,Gujarat Titans,183.0,177.0,14.0,103.39,13.07,14,0,0,23,2,35.0,False,35
+11775,Mohsin Khan,Mohsin Khan,India,Left Handed Bat,Left-arm fast-medium,Bowler,25.0,38.0,2022.0,2026.0,Lucknow Super Giants,25.0,28.0,5.0,89.29,5.0,7,0,0,2,1,13.0,True,13*
+11777,PVD Chameera,Dushmantha Chameera,Sri Lanka,Right-hand batter,Right-arm fast,Bowler,53.0,15.0,2022.0,2026.0,Delhi Capitals,53.0,45.0,4.0,117.78,13.25,11,0,0,3,3,17.0,False,17
+11802,R Shepherd,Romario Shepherd,West Indies,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,268.0,19.0,2022.0,2026.0,Royal Challengers Bengaluru,268.0,153.0,11.0,175.16,24.36,19,0,1,18,22,53.0,True,53*
+11845,D Pretorius,Dwaine Pretorius,South Africa,Right-hand batter,Right-arm fast-medium,All-rounder,44.0,7.0,2022.0,2023.0,Chennai Super Kings,44.0,28.0,4.0,157.14,11.0,5,0,0,3,3,22.0,False,22
+11855,Mukesh Choudhary,Mukesh Choudhary,India,Left-hand batter,Left-arm fast-medium,Bowler,8.0,26.0,2022.0,2026.0,Chennai Super Kings,8.0,8.0,1.0,100.0,8.0,3,0,0,1,0,4.0,False,4
+11956,JM Sharma,Jitesh Sharma,India,Right Handed Bat,No information available,WK-Batsman,1107.0,,2022.0,2026.0,Royal Challengers Bengaluru,1107.0,726.0,48.0,152.48,23.06,59,0,1,86,68,85.0,True,85*
+11974,VG Arora,Vaibhav Arora,India,Right Handed Bat,Right-arm fast-medium,Bowler,10.0,51.0,2022.0,2026.0,Kolkata Knight Riders,10.0,27.0,4.0,37.04,2.5,11,0,0,0,0,2.0,True,2*
+12035,D Brevis,Dewald Brevis,South Africa,Right-hand batter,Leg-spin,Batter,606.0,1.0,2022.0,2026.0,Chennai Super Kings,606.0,415.0,24.0,146.02,25.25,24,0,2,38,43,57.0,False,57
+12087,B Sai Sudharsan,Sai Sudharsan,India,Left Handed Bat,Right-arm legbreak,Batsman,2515.0,,2022.0,2026.0,Gujarat Titans,2515.0,1686.0,52.0,149.17,48.37,57,3,20,258,82,108.0,True,108*
+12090,DG Nalkande,Darshan Nalkande,India,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,12.0,6.0,2022.0,2024.0,Gujarat Titans,12.0,12.0,2.0,100.0,6.0,2,0,0,0,1,12.0,False,12
+12120,M Theekshana,Maheesh Theekshana,Sri Lanka,Right Handed Bat,Right-arm offbreak,Bowler,17.0,36.0,2022.0,2025.0,Rajasthan Royals,17.0,34.0,3.0,50.0,5.67,6,0,0,0,1,7.0,True,7*
+12133,Shashank Singh,Shashank Singh,India,Right-hand batter,Right-arm medium,All-rounder,905.0,5.0,2022.0,2026.0,Punjab Kings,905.0,560.0,25.0,161.61,36.2,42,0,6,67,51,68.0,True,68*
+12157,Ramandeep Singh,Ramandeep Singh,India,Right-hand batter,Right-arm medium,All-rounder,299.0,7.0,2022.0,2026.0,Kolkata Knight Riders,299.0,205.0,16.0,145.85,18.69,26,0,0,17,19,35.0,False,35
+12199,HE van der Dussen,Rassie van der Dussen,South Africa,Right-hand batter,Leg-spin,Batter,22.0,,2022.0,2022.0,Rajasthan Royals,22.0,24.0,2.0,91.67,11.0,3,0,0,2,0,12.0,True,12*
+12206,KR Sen,Kuldeep Sen,India,Right-hand batter,Right-arm fast,Bowler,0.0,14.0,2022.0,2024.0,Rajasthan Royals,0.0,3.0,0.0,0.0,,1,0,0,0,0,0.0,True,0*
+12270,SS Prabhudessai,Suyash Prabhudessai,India,Right Handed Bat,Right-arm medium,Batting Allrounder,126.0,,2022.0,2024.0,Royal Challengers Bengaluru,126.0,106.0,10.0,118.87,12.6,10,0,0,11,4,34.0,False,34
+12327,Yash Dayal,Yash Dayal,India,Right-hand batter,Left-arm fast-medium,Bowler,4.0,45.0,2022.0,2025.0,Royal Challengers Bengaluru,4.0,9.0,3.0,44.44,1.33,4,0,0,0,0,3.0,False,3
+12332,Aman Hakim Khan,Aman Khan,India,Left-hand batter,No information available,All-rounder,115.0,0.0,2022.0,2023.0,Delhi Capitals,115.0,104.0,9.0,110.58,12.78,10,0,1,8,6,51.0,False,51
+12476,OC McCoy,Obed McCoy,West Indies,Left Handed Bat,Left-arm fast-medium,Bowler,8.0,11.0,2022.0,2023.0,Rajasthan Royals,8.0,5.0,1.0,160.0,8.0,1,0,0,0,1,8.0,False,8
+12551,HR Shokeen,Hrithik Shokeen,India,Right Handed Bat,Right-arm offbreak,Bowling Allrounder,66.0,5.0,2022.0,2023.0,Mumbai Indians,66.0,65.0,3.0,101.54,22.0,5,0,0,9,0,25.0,False,25
+12710,DJ Mitchell,Daryl Mitchell,New Zealand,Right-hand batter,Right-arm medium,All-rounder,351.0,1.0,2022.0,2024.0,Chennai Super Kings,351.0,267.0,13.0,131.46,27.0,15,0,2,28,10,63.0,False,63
+12767,B Indrajith,Baba Indrajith,India,Right Handed Bat,Right-arm legbreak,Right-arm legbreak,21.0,,2022.0,2022.0,Kolkata Knight Riders,21.0,30.0,3.0,70.0,7.0,3,0,0,2,0,15.0,False,15
+12771,Harshit Rana,Harshit Rana,India,Right-hand batter,Right-arm fast-medium,Bowler,59.0,42.0,2022.0,2025.0,Kolkata Knight Riders,59.0,56.0,6.0,105.36,9.83,10,0,0,5,3,34.0,False,34
+12852,K Kartikeya,Kumar Kartikeya,India,Right Handed Bat,Left-arm wrist-spin,Bowler,12.0,12.0,2022.0,2025.0,Rajasthan Royals,12.0,17.0,4.0,70.59,3.0,4,0,0,1,0,6.0,False,6
+12920,Simarjeet Singh,Simarjeet Singh,India,Right-hand batter,Right-arm fast-medium,Bowler,10.0,12.0,2022.0,2025.0,Sunrisers Hyderabad,10.0,15.0,3.0,66.67,3.33,6,0,0,0,0,3.0,True,3*
+13029,SA Abbott,Sean Abbott,Australia,Right-hand batter,Right-arm fast-medium,Bowler,22.0,1.0,2015.0,2022.0,Sunrisers Hyderabad,22.0,18.0,3.0,122.22,7.33,3,0,0,1,2,14.0,False,14
+13121,Fazalhaq Farooqi,Fazalhaq Farooqi,Afghanistan,Right-hand batter,Left-arm fast-medium,Bowler,5.0,6.0,2022.0,2025.0,Rajasthan Royals,5.0,15.0,0.0,33.33,,3,0,0,0,0,2.0,True,2*
+13208,KS Sharma,Karan Sharma,India,Right-hand batter,Leg-spin,Batter,16.0,,2022.0,2023.0,Lucknow Super Giants,16.0,25.0,3.0,64.0,5.33,3,0,0,1,0,9.0,False,9
+13216,R Sai Kishore,Ravisrinivasan Sai Kishore,India,Left Handed Bat,Left-arm orthodox,Bowling Allrounder,18.0,33.0,2022.0,2026.0,Gujarat Titans,18.0,16.0,4.0,112.5,4.5,4,0,0,0,2,13.0,False,13
+13276,T Stubbs,Tristan Stubbs,South Africa,Right-hand batter,Right-arm off-spin,Batter,986.0,4.0,2022.0,2026.0,Delhi Capitals,986.0,649.0,25.0,151.93,39.44,43,0,5,69,46,71.0,True,71*
+13339,M Pathirana,Matheesha Pathirana,Sri Lanka,Right Handed Bat,Right-arm fast,Bowler,,53.0,2022.0,2026.0,Kolkata Knight Riders,0.0,0.0,0.0,,,0,0,0,0,0,,,
+13348,PH Solanki,Prashant Solanki,India,Right Handed Bat,Right-arm legbreak,Bowler,,2.0,2022.0,2022.0,Chennai Super Kings,0.0,0.0,0.0,,,0,0,0,0,0,,,
+13431,R Sanjay Yadav,Sanjay Bangar,India,Right-hand batter,Right-arm fast-medium,All-rounder,0.0,0.0,2022.0,2022.0,Mumbai Indians,0.0,2.0,1.0,0.0,0.0,1,0,0,0,0,0.0,False,0
+13442,A Tomar,Abhijeet Tomar,India,Right-hand batter,Right-arm off-spin,Batter,4.0,,2022.0,2022.0,Kolkata Knight Riders,4.0,8.0,1.0,50.0,4.0,1,0,0,1,0,4.0,False,4
+13571,PN Mankad,Prerak Mankad,India,Right-hand batter,Right-arm medium,All-rounder,97.0,,2022.0,2023.0,Lucknow Super Giants,97.0,73.0,3.0,132.88,32.33,5,0,1,13,2,64.0,True,64*
+13694,J Little,Joshua Little,Ireland,Right Handed Bat,Left-arm fast-medium,Bowler,,13.0,2023.0,2024.0,Gujarat Titans,0.0,0.0,0.0,,,0,0,0,0,0,,,
+13705,RS Hangargekar,Rajvardhan Hangargekar,India,Right-hand batter,Right-arm fast-medium,All-rounder,,3.0,2023.0,2023.0,Chennai Super Kings,0.0,0.0,0.0,,,0,0,0,0,0,,,
+13733,Rahmanullah Gurbaz,Rahmanullah Gurbaz,Afghanistan,Right-hand batter,No information available,Batter,363.0,,2023.0,2025.0,Kolkata Knight Riders,363.0,269.0,17.0,134.94,21.35,18,0,2,34,22,81.0,False,81
+13738,Sikandar Raza,Sikandar Raza,Zimbabwe,Right-hand batter,Right-arm off-spin,All-rounder,182.0,3.0,2023.0,2024.0,Punjab Kings,182.0,136.0,7.0,133.82,26.0,9,0,1,12,8,57.0,False,57
+13758,KR Mayers,Kyle Mayers,West Indies,Left-hand batter,Right-arm medium,All-rounder,379.0,0.0,2023.0,2023.0,Lucknow Super Giants,379.0,263.0,13.0,144.11,29.15,13,0,4,38,22,73.0,False,73
+13764,Mukesh Kumar,Mukesh Kumar,India,Right-hand batter,Right-arm fast-medium,Bowler,10.0,52.0,2023.0,2026.0,Delhi Capitals,10.0,18.0,1.0,55.56,10.0,5,0,0,0,0,6.0,True,6*
+13770,RR Rossouw,Rilee Rossouw,South Africa,Left-hand batter,Right-arm off-spin,Batter,473.0,,2014.0,2024.0,Punjab Kings,473.0,308.0,20.0,153.57,23.65,22,0,2,45,25,82.0,True,82*
+13781,HC Brook,Harry Brook,England,Right Handed Bat,Right-arm medium,Batsman,190.0,,2023.0,2023.0,Sunrisers Hyderabad,190.0,154.0,9.0,123.38,21.11,11,1,0,23,4,100.0,True,100*
+13804,Arshad Khan,Arshad Khan,India,Left Handed Bat,Left-arm medium,Bowling Allrounder,142.0,20.0,2023.0,2026.0,Gujarat Titans,142.0,95.0,6.0,149.47,23.67,12,0,1,6,11,58.0,True,58*
+13805,C Green,Cameron Green,Australia,Right-hand batter,Right-arm fast-medium,All-rounder,1029.0,27.0,2023.0,2026.0,Kolkata Knight Riders,1029.0,681.0,27.0,151.1,38.11,42,1,4,84,49,100.0,True,100*
+13816,MG Bracewell,Michael Bracewell,New Zealand,Left Handed Bat,Right-arm offbreak,Batting Allrounder,58.0,6.0,2023.0,2023.0,Royal Challengers Bengaluru,58.0,47.0,2.0,123.4,29.0,4,0,0,6,1,26.0,False,26
+13818,N Wadhera,Nehal Wadhera,India,Left Handed Bat,Right-arm legbreak,Batsman,784.0,0.0,2023.0,2026.0,Punjab Kings,784.0,560.0,33.0,140.0,23.76,37,0,4,64,43,70.0,False,70
+13822,RJW Topley,Reece Topley,England,Right-hand batter,Left-arm fast-medium,Bowler,3.0,5.0,2023.0,2025.0,Mumbai Indians,3.0,6.0,0.0,50.0,,1,0,0,0,0,3.0,True,3*
+13858,Yash Thakur,Yash Thakur,India,Right-hand batter,Right-arm fast-medium,Bowler,,30.0,2023.0,2026.0,Punjab Kings,0.0,0.0,0.0,,,0,0,0,0,0,,,
+13864,Abishek Porel,Abishek Porel,India,Left-hand batter,No information available,Batter,769.0,,2023.0,2026.0,Delhi Capitals,769.0,529.0,30.0,145.37,25.63,33,0,4,80,28,65.0,False,65
+13891,Dhruv Jurel,Dhruv Jurel,India,Right-hand batter,No information available,WK-Batsman,1195.0,,2023.0,2026.0,Rajasthan Royals,1195.0,775.0,38.0,154.19,31.45,51,0,10,98,62,81.0,True,81*
+13900,MW Short,Matthew Short,Australia,Right Handed Bat,Right-arm offbreak,Batsman,177.0,0.0,2023.0,2026.0,Chennai Super Kings,177.0,143.0,9.0,123.78,19.67,9,0,0,21,5,36.0,False,36
+13940,Suyash Sharma,Suyash Sharma,India,Right-hand batter,Leg-spin,Bowler,,29.0,2023.0,2026.0,Royal Challengers Bengaluru,0.0,0.0,0.0,,,0,0,0,0,0,,,
+14029,SSB Magala,Sisanda Magala,South Africa,Right Handed Bat,Right-arm fast-medium,Bowler,,1.0,2023.0,2023.0,Chennai Super Kings,0.0,0.0,0.0,,,0,0,0,0,0,,,
+14081,Mohit Rathee,Mohit Rathee,India,Right-hand batter,Leg-spin,All-rounder,1.0,0.0,2023.0,2023.0,Punjab Kings,1.0,2.0,0.0,50.0,,1,0,0,0,0,1.0,True,1*
+14122,WD Parnell,Wayne Parnell,South Africa,Left-hand batter,Left-arm fast-medium,Bowler,65.0,40.0,2011.0,2023.0,Royal Challengers Bengaluru,65.0,80.0,10.0,81.25,6.5,13,0,0,4,1,16.0,False,16
+14151,YV Dhull,Yash Dhull,India,Right Handed Bat,Right-arm offbreak,Batsman,16.0,,2023.0,2023.0,Delhi Capitals,16.0,23.0,3.0,69.57,5.33,3,0,0,1,0,13.0,False,13
+14265,Vijaykumar Vyshak,Vijaykumar Vyshak,India,Right-hand batter,Right-arm medium,Bowler,16.0,31.0,2023.0,2026.0,Punjab Kings,16.0,16.0,2.0,100.0,8.0,6,0,0,0,1,13.0,True,13*
+14271,Atharva Taide,Atharva Taide,India,Left-hand batter,Left-arm orthodox,Batter,260.0,0.0,2023.0,2025.0,Sunrisers Hyderabad,260.0,177.0,10.0,146.89,26.0,10,0,2,30,8,66.0,False,66
+14276,Harpreet Singh,Harpreet Singh Bhatia,United Arab Emirates,Left-hand batter,Right-arm medium,Batter,123.0,,2011.0,2024.0,Punjab Kings,123.0,119.0,7.0,103.36,17.57,8,0,0,10,3,41.0,False,41
+14298,Yudhvir Singh,Yudhvir Singh Charak,India,Right-hand batter,Right-arm fast-medium,Bowler,22.0,8.0,2023.0,2025.0,Rajasthan Royals,22.0,16.0,4.0,137.5,5.5,4,0,0,1,2,14.0,False,14
+14300,Arjun Tendulkar,Arjun Tendulkar,India,Left-hand batter,Left-arm fast-medium,All-rounder,18.0,5.0,2023.0,2026.0,Lucknow Super Giants,18.0,14.0,1.0,128.57,18.0,2,0,0,0,1,13.0,False,13
+14304,D Jansen,Duan Jansen,South Africa,Right Handed Bat,Left-arm fast,Bowler,,1.0,2023.0,2023.0,Mumbai Indians,0.0,0.0,0.0,,,0,0,0,0,0,,,
+14344,Noor Ahmad,Noor Ahmad,Afghanistan,Right-hand batter,Left-arm wrist-spin,Bowler,31.0,62.0,2023.0,2026.0,Chennai Super Kings,31.0,58.0,11.0,53.45,2.82,15,0,0,2,1,8.0,False,8
+14431,Naveen-ul-Haq,Naveen-ul-Haq,Afghanistan,Right-hand batter,Right-arm fast-medium,Bowler,18.0,26.0,2023.0,2024.0,Lucknow Super Giants,18.0,25.0,1.0,72.0,18.0,4,0,0,2,0,13.0,False,13
+14482,D Wiese,David Wiese,Namibia,Right-hand batter,Right-arm fast-medium,All-rounder,148.0,17.0,2015.0,2023.0,Kolkata Knight Riders,148.0,101.0,5.0,146.53,29.6,11,0,0,12,7,47.0,True,47*
+14490,Liton Das,Litton Das,Bangladesh,Right Handed Bat,No information available,WK-Batsman,4.0,,2023.0,2023.0,Kolkata Knight Riders,4.0,4.0,1.0,100.0,4.0,1,0,0,1,0,4.0,False,4
+14497,PD Salt,Philip Salt,England,Right-hand batter,Right-arm off-spin,Batter,1258.0,,2023.0,2026.0,Royal Challengers Bengaluru,1258.0,721.0,37.0,174.48,34.0,40,0,12,138,67,89.0,True,89*
+14523,Mayank Dagar,Mayank Dagar,India,Right-hand batter,Left-arm orthodox,All-rounder,0.0,2.0,2023.0,2024.0,Royal Challengers Bengaluru,0.0,1.0,1.0,0.0,0.0,1,0,0,0,0,0.0,False,0
+14592,Abdul Basith,Abdul Basith,India,Right-hand batter,Right-arm off-spin,All-rounder,1.0,,2023.0,2023.0,Rajasthan Royals,1.0,1.0,0.0,100.0,,1,0,0,0,0,1.0,True,1*
+14774,Gurnoor Brar,Gurnoor Brar,India,Left-hand batter,Right-arm fast,Bowler,,0.0,2023.0,2023.0,Punjab Kings,0.0,0.0,0.0,,,0,0,0,0,0,,,
+14827,AJ Hosein,Akeal Hosein,Trinidadian,Left hand Bat,Slow Left arm Orthodox,Bowler,21.0,10.0,2023.0,2026.0,Chennai Super Kings,21.0,13.0,0.0,161.54,,3,0,0,1,1,16.0,True,16*
+14879,SK Rasheed,Shaik Rasheed,India,Right Handed Bat,Right-arm legbreak,Batsman,71.0,,2025.0,2025.0,Chennai Super Kings,71.0,63.0,5.0,112.7,14.2,5,0,0,9,2,27.0,False,27
+14941,Sonu Yadav,Sonu Yadav,India,Right-hand batter,Right-arm fast-medium,All-rounder,,,,,,0.0,0.0,0.0,,,0,0,0,0,0,,,
+15002,Akash Madhwal,Akash Madhwal,India,Right-hand batter,Right-arm fast-medium,Bowler,8.0,26.0,2023.0,2025.0,Rajasthan Royals,8.0,14.0,0.0,57.14,,2,0,0,0,0,4.0,True,4*
+15107,R Goyal,Rajeshwari Goyal,India,Right Handed Bat,No information available,Batsman,,0.0,2023.0,2023.0,Mumbai Indians,0.0,0.0,0.0,,,0,0,0,0,0,,,
+15186,JE Root,Joe Root,England,Right-hand batter,Right-arm off-spin,Batter,10.0,0.0,2023.0,2023.0,Rajasthan Royals,10.0,15.0,1.0,66.67,10.0,1,0,0,1,0,10.0,False,10
+15202,Vivrant Sharma,Vivrant Sharma,India,Left-hand batter,Leg-spin,All-rounder,69.0,0.0,2023.0,2023.0,Sunrisers Hyderabad,69.0,47.0,1.0,146.81,69.0,1,0,1,9,2,69.0,False,69
+15255,RS Sodhi,Reetinder Sodhi,India,Right Handed Bat,Right-arm medium,Batting Allrounder,4.0,,2010.0,2010.0,Punjab Kings,4.0,2.0,0.0,200.0,,1,0,0,1,0,4.0,True,4*
+15303,P Dharmani,Pankaj Dharmani,India,Right Handed Bat,No information available,Batting Allrounder,,,,,,0.0,0.0,0.0,,,0,0,0,0,0,,,
+15480,MD Shanaka,Dasun Shanaka,Sri Lanka,Right-hand batter,Right-arm medium,All-rounder,89.0,1.0,2023.0,2026.0,Rajasthan Royals,89.0,72.0,7.0,123.61,12.71,8,0,0,5,5,29.0,False,29
+15488,Sanvir Singh,Sanvir Singh,India,Right-hand batter,Right-arm medium,All-rounder,25.0,,2023.0,2024.0,Sunrisers Hyderabad,25.0,21.0,2.0,119.05,12.5,5,0,0,2,1,8.0,True,8*
+15574,Nithish Kumar Reddy,Nitish Kumar Reddy,India,Right Handed Bat,Right-arm fast-medium,Batting Allrounder,787.0,17.0,2023.0,2026.0,Sunrisers Hyderabad,787.0,541.0,27.0,145.47,29.15,35,0,3,50,46,76.0,True,76*
+15586,D Ferreira,Donovan Ferreira,South Africa,Right-hand batter,Right-arm off-spin,Batter,326.0,1.0,2024.0,2026.0,Rajasthan Royals,326.0,191.0,12.0,170.68,27.17,16,0,2,25,23,69.0,False,69
+15704,H Sharma,Hitesh Sharma,Philippines,Right-hand batter,No information available,Batter,,0.0,2023.0,2024.0,Royal Challengers Bengaluru,0.0,0.0,0.0,,,0,0,0,0,0,,,
+15755,Subhransu Senapati,Subhranshu Pradeep Senapati,India,Right-hand batter,Right-arm medium,Batter,,,,,,0.0,0.0,0.0,,,0,0,0,0,0,,,
+15867,R Ravindra,Rachin Ravindra,New Zealand,Left-hand batter,Left-arm orthodox,All-rounder,413.0,0.0,2024.0,2025.0,Chennai Super Kings,413.0,287.0,17.0,143.9,24.29,18,0,2,40,16,65.0,True,65*
+15872,Sameer Rizvi,Sameer Rizvi,India,Right-hand batter,Right-arm off-spin,Batter,424.0,,2024.0,2026.0,Delhi Capitals,424.0,293.0,14.0,144.71,30.29,18,0,3,30,26,90.0,False,90
+15900,SD Hope,Shai Hope,West Indies,Right Handed Bat,No information available,WK-Batsman,183.0,,2024.0,2024.0,Delhi Capitals,183.0,122.0,8.0,150.0,22.88,9,0,0,12,12,41.0,False,41
+15903,Sumit Kumar,Sumit Kumar,India,Right-hand batter,No information available,Batter,18.0,0.0,2024.0,2024.0,Delhi Capitals,18.0,24.0,2.0,75.0,9.0,3,0,0,2,1,9.0,True,9*
+15905,Tanay Thyagarajan,Tanay Thyagarajan,India,Left-hand batter,Left-arm orthodox,All-rounder,,,,,,0.0,0.0,0.0,,,0,0,0,0,0,,,
+15921,MA Starc,Mitchell Starc,Australia,Left-hand batter,Left-arm fast,Bowler,111.0,91.0,2014.0,2026.0,Delhi Capitals,111.0,121.0,12.0,91.74,9.25,22,0,0,11,0,29.0,False,29
+15949,N Burger,Nandre Burger,South Africa,Left Handed Bat,Left-arm fast-medium,Bowler,14.0,21.0,2024.0,2026.0,Rajasthan Royals,14.0,9.0,1.0,155.56,14.0,3,0,0,0,1,10.0,True,10*
+15966,Azmatullah Omarzai,Azmatullah Omarzai,Afghanistan,Right-hand batter,Right-arm fast-medium,All-rounder,151.0,15.0,2024.0,2026.0,Punjab Kings,151.0,101.0,10.0,149.5,15.1,11,0,0,11,10,38.0,False,38
+15970,G Coetzee,Gerald Coetzee,South Africa,Right-hand batter,Right-arm fast,Bowler,31.0,15.0,2024.0,2025.0,Gujarat Titans,31.0,33.0,6.0,93.94,5.17,7,0,0,2,2,12.0,False,12
+15975,L Wood,Luke Wood,England,Left Handed Bat,Left-arm fast-medium,Bowler,9.0,1.0,2024.0,2024.0,Mumbai Indians,9.0,3.0,0.0,300.0,,1,0,0,0,1,9.0,True,9*
+15978,Naman Dhir,Naman Dhir,India,Right-hand batter,Right-arm off-spin,Batter,710.0,1.0,2024.0,2026.0,Mumbai Indians,710.0,433.0,26.0,163.97,27.31,33,0,3,67,36,62.0,True,62*
+15985,SH Johnson,Spencer Johnson,Australia,Left Handed Bat,Left-arm fast,Bowler,8.0,7.0,2024.0,2026.0,Chennai Super Kings,8.0,12.0,1.0,66.67,8.0,6,0,0,1,0,5.0,True,5*
+15986,SZ Mulani,Shams Mulani,India,Left-hand batter,Left-arm orthodox,All-rounder,1.0,0.0,2024.0,2024.0,Mumbai Indians,1.0,1.0,0.0,100.0,,1,0,0,0,0,1.0,True,1*
+16065,KT Maphaka,Kwena Maphaka,South Africa,Left-hand batter,Left-arm fast-medium,Bowler,8.0,2.0,2024.0,2025.0,Rajasthan Royals,8.0,2.0,0.0,400.0,,1,0,0,2,0,8.0,True,8*
+16111,A Raghuvanshi,Angkrish Raghuvanshi,India,Right Handed Bat,Right-arm offbreak,Batsman,885.0,,2024.0,2026.0,Kolkata Knight Riders,885.0,608.0,26.0,145.56,34.04,30,0,7,86,35,82.0,True,82*
+16153,M Siddharth,Manimaran Siddharth,India,Right Handed Bat,Left-arm orthodox,Bowler,,9.0,2024.0,2026.0,Lucknow Super Giants,0.0,0.0,0.0,,,0,0,0,0,0,,,
+16155,MP Yadav,Mayank Yadav,India,Right Handed Bat,Right-arm fast,Bowler,5.0,10.0,2024.0,2026.0,Lucknow Super Giants,5.0,5.0,1.0,100.0,5.0,1,0,0,1,0,5.0,False,5
+16248,SB Dubey,Shubham Dubey,India,Left-hand batter,Right-arm off-spin,Batter,220.0,,2024.0,2026.0,Rajasthan Royals,220.0,143.0,10.0,153.85,22.0,17,0,0,17,13,34.0,True,34*
+16317,Ashutosh Sharma,Ashutosh Sharma,India,Right-hand batter,Right-arm medium,All-rounder,564.0,,2024.0,2026.0,Delhi Capitals,564.0,334.0,19.0,168.86,29.68,26,0,2,39,40,66.0,True,66*
+16395,Saurav Chauhan,Saurav Chauhan,India,Left-hand batter,Right-arm off-spin,Batter,18.0,,2024.0,2024.0,Royal Challengers Bengaluru,18.0,15.0,3.0,120.0,6.0,3,0,0,1,1,9.0,False,9
+16413,J Fraser-McGurk,Jake Fraser-McGurk,Australia,Right-hand batter,Leg-spin,Batter,385.0,,2024.0,2025.0,Delhi Capitals,385.0,193.0,15.0,199.48,25.67,15,0,4,39,30,84.0,False,84
+16418,Kumar Kushagra,Kumar Kushagra,India,Right-hand batter,No information available,Batter,21.0,,2024.0,2026.0,Gujarat Titans,21.0,21.0,4.0,100.0,5.25,4,0,0,3,0,18.0,False,18
+16436,BR Sharath,Sharath BR,India,Right Handed Bat,No information available,WK-Batsman,2.0,,2024.0,2024.0,Gujarat Titans,2.0,5.0,1.0,40.0,2.0,1,0,0,0,0,2.0,False,2
+16527,KA Maharaj,Keshav Maharaj,South Africa,Right-hand batter,Left-arm orthodox,Bowler,1.0,2.0,2024.0,2024.0,Rajasthan Royals,1.0,2.0,1.0,50.0,1.0,1,0,0,0,0,1.0,False,1
+16578,WG Jacks,Will Jacks,England,Right-hand batter,Right-arm off-spin,All-rounder,602.0,10.0,2024.0,2026.0,Mumbai Indians,602.0,379.0,22.0,158.84,27.36,26,1,2,50,38,100.0,True,100*
+16632,Tanush Kotian,Tanush Kotian,India,Right-hand batter,Right-arm off-spin,All-rounder,24.0,,2024.0,2024.0,Rajasthan Royals,24.0,31.0,1.0,77.42,24.0,1,0,0,3,0,24.0,False,24
+16658,S Joseph,Shamar Joseph,West Indies,Left Handed Bat,Right-arm fast,Bowler,,0.0,2024.0,2024.0,Lucknow Super Giants,0.0,0.0,0.0,,,0,0,0,0,0,,,
+16938,N Thushara,Nuwan Thushara,Sri Lanka,Right-hand batter,Right-arm fast-medium,Bowler,,9.0,2024.0,2025.0,Royal Challengers Bengaluru,0.0,0.0,0.0,,,0,0,0,0,0,,,
+17083,LB Williams,Lizaad Williams,South Africa,Left Handed Bat,Right-arm fast-medium,Bowler,1.0,1.0,2024.0,2024.0,Delhi Capitals,1.0,2.0,0.0,50.0,,1,0,0,0,0,1.0,True,1*
+17220,AA Kulkarni,Arshin Kulkarni,India,Right Handed Bat,Right-arm fast-medium,Batting Allrounder,26.0,,2024.0,2026.0,Lucknow Super Giants,26.0,33.0,4.0,78.79,6.5,4,0,0,3,0,17.0,False,17
+17269,RJ Gleeson,Richard Gleeson,England,Right-hand batter,Right-arm fast-medium,Bowler,2.0,2.0,2024.0,2025.0,Mumbai Indians,2.0,2.0,0.0,100.0,,1,0,0,0,0,2.0,True,2*
+17349,MJ Suthar,Manav Suthar,India,Left Handed Bat,Left-arm orthodox,Bowling Allrounder,1.0,2.0,2024.0,2026.0,Gujarat Titans,1.0,2.0,1.0,50.0,1.0,1,0,0,0,0,1.0,False,1
+17427,A Kamboj,Anshul Kamboj,India,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,74.0,34.0,2024.0,2026.0,Chennai Super Kings,74.0,52.0,3.0,142.31,24.67,10,0,0,5,4,19.0,True,19*
+17461,Gulbadin Naib,Gulbadin Naib,Afghanistan,Right-hand batter,Right-arm fast-medium,All-rounder,19.0,0.0,2024.0,2024.0,Delhi Capitals,19.0,15.0,1.0,126.67,19.0,1,0,0,1,1,19.0,False,19
+17509,V Viyaskanth,Vijayakanth Viyaskanth,Sri Lanka,Right Handed Bat,Right-arm legbreak,Bowler,7.0,1.0,2024.0,2024.0,Sunrisers Hyderabad,7.0,5.0,0.0,140.0,,1,0,0,0,0,7.0,True,7*
+17536,V Kaverappa,Vidhwath Kaverappa,India,Right Handed Bat,Right-arm fast-medium,Bowler,,2.0,2024.0,2024.0,Punjab Kings,0.0,0.0,0.0,,,0,0,0,0,0,,,
+17711,T Kohler-Cadmore,Tom Kohler-Cadmore,England,Right Handed Bat,Right-arm offbreak,WK-Batsman,48.0,,2024.0,2024.0,Rajasthan Royals,48.0,54.0,3.0,88.89,16.0,3,0,0,7,1,20.0,False,20
+17797,Shivam Singh,Shivam Singh,India,Right-hand batter,Right-arm off-spin,Batter,2.0,,2024.0,2024.0,Punjab Kings,2.0,3.0,0.0,66.67,,1,0,0,0,0,2.0,True,2*
+17940,TM Srivastava,Tanmay Srivastava,India,Left-hand batter,No information available,Batter,8.0,,2008.0,2009.0,Punjab Kings,8.0,11.0,1.0,72.73,8.0,3,0,0,0,0,7.0,False,7
+17951,Aniket Verma,Aniket Verma,India,Right-hand batter,Right-arm medium,Batter,315.0,,2025.0,2026.0,Sunrisers Hyderabad,315.0,196.0,15.0,160.71,21.0,20,0,1,18,25,74.0,False,74
+17988,PVSN Raju,Satyanarayana Raju,India,Right Handed Bat,Right-arm fast-medium,Bowler,1.0,2.0,2025.0,2025.0,Mumbai Indians,1.0,1.0,0.0,100.0,,1,0,0,0,0,1.0,True,1*
+17990,R Minz,Robin Minz,India,Left Handed Bat,Left-arm orthodox,WK-Batsman,12.0,,2025.0,2026.0,Mumbai Indians,12.0,19.0,3.0,63.16,4.0,4,0,0,1,0,5.0,False,5
+17995,RD Rickelton,Ryan Rickelton,South Africa,Left-hand batter,No information available,Batter,836.0,,2025.0,2026.0,Mumbai Indians,836.0,497.0,24.0,168.21,34.83,26,1,5,78,55,123.0,True,123*
+18002,V Puthur,Vignesh Puthur,India,Right Handed Bat,Left-arm wrist-spin,Bowler,,6.0,2025.0,2025.0,Mumbai Indians,0.0,0.0,0.0,,,0,0,0,0,0,,,
+18012,DS Rathi,Digvesh Singh Rathi,India,Right Handed Bat,Right-arm legbreak,Bowler,3.0,19.0,2025.0,2026.0,Lucknow Super Giants,3.0,8.0,1.0,37.5,3.0,3,0,0,0,0,2.0,True,2*
+18022,Prince Yadav,Prince Yadav,India,Right-hand batter,Right-arm medium,Bowler,5.0,25.0,2025.0,2026.0,Lucknow Super Giants,5.0,11.0,0.0,45.45,,3,0,0,0,0,4.0,True,4*
+18029,T Vijay,Tripurana Vijay,India,Right Handed Bat,Right-arm offbreak,Bowling Allrounder,,0.0,2026.0,2026.0,Delhi Capitals,0.0,0.0,0.0,,,0,0,0,0,0,,,
+18032,V Nigam,Vipraj Nigam,India,Right Handed Bat,Right-arm legbreak,Bowling Allrounder,157.0,14.0,2025.0,2026.0,Delhi Capitals,157.0,89.0,8.0,176.4,19.62,10,0,0,17,8,39.0,False,39
+18050,Priyansh Arya,Priyansh Arya,India,Left-hand batter,Right-arm off-spin,Batter,909.0,,2025.0,2026.0,Punjab Kings,909.0,471.0,31.0,192.99,29.32,31,1,6,87,63,103.0,False,103
+18058,Suryansh Shedge,Suryansh Shedge,India,Right-hand batter,Right-arm fast-medium,All-rounder,165.0,0.0,2025.0,2026.0,Punjab Kings,165.0,101.0,7.0,163.37,23.57,10,0,1,9,12,57.0,False,57
+18134,MS Bhandage,Manoj Bhandage,India,Left-hand batter,Right-arm fast-medium,All-rounder,1.0,,2025.0,2025.0,Royal Challengers Bengaluru,1.0,4.0,1.0,25.0,1.0,1,0,0,0,0,1.0,False,1
+18200,PWA Mulder,Wiaan Mulder,South Africa,Right-hand batter,Right-arm medium,All-rounder,9.0,0.0,2025.0,2025.0,Sunrisers Hyderabad,9.0,11.0,1.0,81.82,9.0,1,0,0,1,0,9.0,False,9
+18207,Zeeshan Ansari,Zeeshan Ansari,India,Right-hand batter,Leg-spin,Bowler,,8.0,2025.0,2025.0,Sunrisers Hyderabad,0.0,0.0,0.0,,,0,0,0,0,0,,,
+18211,J Overton,Jamie Overton,England,Right-hand batter,Right-arm fast,All-rounder,151.0,14.0,2025.0,2026.0,Chennai Super Kings,151.0,93.0,5.0,162.37,30.2,8,0,0,14,7,43.0,False,43
+18240,Ashwani Kumar,Ashwani Kumar,India,Left-hand batter,Left-arm fast-medium,Bowler,1.0,17.0,2025.0,2026.0,Mumbai Indians,1.0,6.0,0.0,16.67,,1,0,0,0,0,1.0,True,1*
+18341,PHKD Mendis,Kamindu Mendis,Sri Lanka,Left Handed Bat,Right-arm offbreak,Batting Allrounder,92.0,2.0,2025.0,2025.0,Sunrisers Hyderabad,92.0,69.0,4.0,133.33,23.0,5,0,0,7,2,32.0,True,32*
+18360,C Bosch,Corbin Bosch,South Africa,Right-hand batter,Right-arm fast-medium,All-rounder,97.0,14.0,2025.0,2026.0,Mumbai Indians,97.0,63.0,3.0,153.97,32.33,6,0,0,8,5,32.0,True,32*
+18654,Himmat Singh,Himmat Singh,India,Right-hand batter,Right-arm off-spin,Batter,92.0,,2026.0,2026.0,Lucknow Super Giants,92.0,69.0,3.0,133.33,30.67,5,0,0,5,5,40.0,True,40*
+18680,E Malinga,Eshan Malinga,Sri Lanka,Left Handed Bat,Right-arm fast-medium,Bowler,7.0,35.0,2025.0,2026.0,Sunrisers Hyderabad,7.0,17.0,1.0,41.18,7.0,3,0,0,0,0,5.0,False,5
+18801,JP Inglis,Josh Inglis,Australia,Right-hand batter,No information available,Wicket-keeper batter,544.0,,2025.0,2026.0,Lucknow Super Giants,544.0,314.0,14.0,173.25,38.86,16,0,4,58,28,85.0,False,85
+18818,XC Bartlett,Xavier Bartlett,Australia,Right Handed Bat,Right-arm fast-medium,Bowler,40.0,7.0,2025.0,2026.0,Punjab Kings,40.0,28.0,2.0,142.86,20.0,4,0,0,3,2,18.0,True,18*
+18964,V Suryavanshi,Vaibhav Sooryavanshi,India,Left Handed Bat,Left-arm orthodox,Batsman,1028.0,,2025.0,2026.0,Rajasthan Royals,1028.0,449.0,23.0,228.95,44.7,23,2,6,81,96,103.0,False,103
+18996,A Mhatre,Ayush Mhatre,India,Right Handed Bat,Right-arm offbreak,Batsman,441.0,,2025.0,2026.0,Chennai Super Kings,441.0,240.0,13.0,183.75,33.92,13,0,3,51,23,94.0,False,94
+19235,JG Bethell,Jacob Bethell,England,Left Handed Bat,Left-arm orthodox,Batting Allrounder,163.0,,2025.0,2026.0,Royal Challengers Bengaluru,163.0,116.0,9.0,140.52,18.11,9,0,1,21,6,55.0,False,55
+19262,Karim Janat,Karim Janat,Afghanistan,Right-hand batter,Right-arm fast-medium,All-rounder,,0.0,2025.0,2025.0,Gujarat Titans,0.0,0.0,0.0,,,0,0,0,0,0,,,
+19437,Ashok Sharma,Ashok Sharma,India,Right-hand batter,Right-arm fast-medium,Bowler,1.0,6.0,2026.0,2026.0,Gujarat Titans,1.0,4.0,0.0,25.0,,2,0,0,0,0,1.0,True,1*
+19442,KS Rathore,Kunal Singh Rathore,India,Left Handed Bat,Right-arm offbreak,WK-Batsman,0.0,,2025.0,2025.0,Rajasthan Royals,0.0,5.0,1.0,0.0,0.0,1,0,0,0,0,0.0,False,0
+19574,Urvil Patel,Urvil Patel,India,Right-hand batter,No information available,Wicket-keeper batter,197.0,,2025.0,2026.0,Chennai Super Kings,197.0,96.0,10.0,205.21,19.7,10,0,1,11,20,65.0,False,65
+19589,M Tiwari,Manoj Tiwary,India,Right Handed Bat,Right-arm legbreak,Batsman,21.0,4.0,2025.0,2026.0,Delhi Capitals,21.0,12.0,1.0,175.0,21.0,2,0,0,2,1,18.0,True,18*
+19615,MJ Owen,Mitchell Owen,Australia,Right Handed Bat,Right-arm medium,Batting Allrounder,0.0,,2025.0,2025.0,Punjab Kings,0.0,2.0,1.0,0.0,0.0,1,0,0,0,0,0.0,False,0
+19674,Harsh Dubey,Harsh Dubey,India,Left-hand batter,Left-arm orthodox,All-rounder,13.0,13.0,2025.0,2026.0,Sunrisers Hyderabad,13.0,9.0,2.0,144.44,6.5,4,0,0,2,0,9.0,True,9*
+19688,W O'Rourke,William ORourke,New Zealand,Right Handed Bat,Right-arm fast-medium,Bowler,,6.0,2025.0,2025.0,Lucknow Super Giants,0.0,0.0,0.0,,,0,0,0,0,0,,,
+19907,MP Breetzke,Matthew Breetzke,South Africa,Right-hand batter,No information available,Wicket-keeper batter,14.0,,2025.0,2025.0,Lucknow Super Giants,14.0,12.0,1.0,116.67,14.0,1,0,0,1,1,14.0,False,14
+19936,Musheer Khan,Musheer Khan,India,Right-hand batter,Left-arm orthodox,All-rounder,0.0,1.0,2025.0,2025.0,Punjab Kings,0.0,3.0,1.0,0.0,0.0,1,0,0,0,0,0.0,False,0
+19954,BKG Mendis,Kusal Mendis,Sri Lanka,Right-hand batter,No information available,Wicket-keeper batter,20.0,,2025.0,2025.0,Gujarat Titans,20.0,10.0,1.0,200.0,20.0,1,0,0,1,2,20.0,False,20
+20065,Sediqullah Atal,Sediqullah Atal,Afghanistan,Left-hand batter,No information available,Batter,22.0,,2025.0,2025.0,Delhi Capitals,22.0,16.0,1.0,137.5,22.0,1,0,0,0,2,22.0,False,22
+20070,Abhinandan Singh,Abhinandan Singh,India,Right-hand batter,Right-arm fast-medium,Bowler,,3.0,2026.0,2026.0,Royal Challengers Bengaluru,0.0,0.0,0.0,,,0,0,0,0,0,,,
+20075,DA Payne,David Payne,England,Right-hand batter,Left-arm fast-medium,Bowler,6.0,2.0,2026.0,2026.0,Sunrisers Hyderabad,6.0,5.0,0.0,120.0,,1,0,0,0,0,6.0,True,6*
+20083,JA Duffy,Jacob Duffy,New Zealand,Right Handed Bat,Right-arm fast-medium,Bowler,,9.0,2026.0,2026.0,Royal Challengers Bengaluru,0.0,0.0,0.0,,,0,0,0,0,0,,,
+20092,S Arora,Salil Arora,India,Right Handed Bat,No information available,WK-Batsman,121.0,,2026.0,2026.0,Sunrisers Hyderabad,121.0,77.0,6.0,157.14,20.17,10,0,0,9,9,30.0,True,30*
+20099,AM Ghazanfar,AM Ghazanfar,Afghanistan,Right-hand batter,Right-arm off-spin,Bowler,2.0,15.0,2026.0,2026.0,Mumbai Indians,2.0,3.0,0.0,66.67,,1,0,0,0,0,2.0,True,2*
+20103,B Muzarabani,Blessing Muzarabani,Zimbabwe,Right-hand batter,Right-arm fast-medium,Bowler,,5.0,2026.0,2026.0,Kolkata Knight Riders,0.0,0.0,0.0,,,0,0,0,0,0,,,
+20106,FH Allen,Finn Allen,New Zealand,Right Handed Bat,No information available,Batsman,349.0,,2026.0,2026.0,Kolkata Knight Riders,349.0,163.0,10.0,214.11,34.9,11,1,1,33,28,100.0,True,100*
+20130,Brijesh Sharma,Brijesh Sharma,India,Right-hand batter,Right-arm medium,Bowler,2.0,14.0,2026.0,2026.0,Rajasthan Royals,2.0,4.0,0.0,50.0,,2,0,0,0,0,1.0,True,1*
+20137,Kartik Sharma,Kartik Sharma,India,Right-hand batter,No information available,Wicket-keeper batter,295.0,,2026.0,2026.0,Chennai Super Kings,295.0,216.0,9.0,136.57,32.78,11,0,2,24,16,71.0,False,71
+20161,C Connolly,Cooper Connolly,Australia,Left Handed Bat,Left-arm orthodox,Batting Allrounder,491.0,,2026.0,2026.0,Punjab Kings,491.0,301.0,11.0,163.12,44.64,13,1,2,43,32,107.0,True,107*
+20197,MD Choudhary,Mukesh Choudhary,India,Left Handed Bat,Left-arm fast-medium,Bowler,170.0,,2026.0,2026.0,Lucknow Super Giants,170.0,120.0,6.0,141.67,28.33,10,0,1,11,12,54.0,True,54*
+20204,P Nissanka,Pathum Nissanka,Sri Lanka,Right-hand batter,No information available,Batter,278.0,,2026.0,2026.0,Delhi Capitals,278.0,175.0,10.0,158.86,27.8,10,0,2,33,12,62.0,False,62
+20239,Shivang Kumar,Shivang Kumar,India,Right-hand batter,Left-arm wrist-spin,All-rounder,53.0,11.0,2026.0,2026.0,Sunrisers Hyderabad,53.0,46.0,6.0,115.22,8.83,6,0,0,6,1,27.0,False,27
+20259,PR Veer,Prashant Veer,India,Left Handed Bat,Left-arm orthodox,Bowling Allrounder,90.0,0.0,2026.0,2026.0,Chennai Super Kings,90.0,67.0,2.0,134.33,45.0,5,0,0,10,3,43.0,False,43
+20567,Auqib Nabi,Auqib Nabi Dar,India,Right-hand batter,Right-arm medium,All-rounder,14.0,0.0,2026.0,2026.0,Delhi Capitals,14.0,4.0,1.0,350.0,14.0,2,0,0,2,1,10.0,True,10*
+20570,Gurjapneet Singh,Gurjapneet Singh,India,Right-hand batter,Left-arm fast-medium,Bowler,,4.0,2026.0,2026.0,Chennai Super Kings,0.0,0.0,0.0,,,0,0,0,0,0,,,
+20601,GF Linde,George Linde,South Africa,Left-hand batter,Left-arm orthodox,All-rounder,31.0,1.0,2026.0,2026.0,Lucknow Super Giants,31.0,21.0,3.0,147.62,10.33,3,0,0,6,0,16.0,False,16
+20660,LG Pretorius,Lhuan-dre Pretorius,South Africa,Left-hand batter,No information available,Wicket-keeper batter,7.0,,2026.0,2026.0,Rajasthan Royals,7.0,8.0,2.0,87.5,3.5,2,0,0,0,0,7.0,False,7
+20663,PP Hinge,Praful Hinge,India,Right Handed Bat,Right-arm fast-medium,Bowler,3.0,14.0,2026.0,2026.0,Sunrisers Hyderabad,3.0,9.0,1.0,33.33,3.0,2,0,0,0,0,3.0,False,3
+20669,Sakib Hussain,Sakib Hussain,India,Right-hand batter,Right-arm fast-medium,Bowler,5.0,16.0,2026.0,2026.0,Sunrisers Hyderabad,5.0,7.0,0.0,71.43,,1,0,0,1,0,5.0,True,5*
+20747,Mayank Rawat,Mayank Rawat,India,Right-hand batter,Right-arm off-spin,All-rounder,,,,,,0.0,0.0,0.0,,,0,0,0,0,0,,,
+20879,Yash Raj Punja,Yash Raj Punja,India,Right-hand batter,Leg-spin,Bowler,,9.0,2026.0,2026.0,Rajasthan Royals,0.0,0.0,0.0,,,0,0,0,0,0,,,
+20916,DV Malewar,Danish Malewar,India,Right Handed Bat,Right-arm legbreak,Batsman,2.0,,2026.0,2026.0,Mumbai Indians,2.0,5.0,2.0,40.0,1.0,2,0,0,0,0,2.0,False,2
+20923,Krish Bhagat,Krish Bhagat,India,Right-hand batter,Right-arm fast-medium,All-rounder,10.0,0.0,2026.0,2026.0,Mumbai Indians,10.0,21.0,1.0,47.62,10.0,2,0,0,0,0,7.0,False,7
+20945,D Madushanka,Dilshan Madushanka,Sri Lanka,Right Handed Bat,Left-arm fast-medium,Bowler,,1.0,2026.0,2026.0,Sunrisers Hyderabad,0.0,0.0,0.0,,,0,0,0,0,0,,,
+20992,Ravi Singh,Ravi Singh,India,Left-hand batter,Leg-spin,Wicket-keeper batter,4.0,,2026.0,2026.0,Rajasthan Royals,4.0,2.0,1.0,200.0,4.0,1,0,0,1,0,4.0,False,4
+21175,AA Noffke,Ashley Noffke,Australia,Right Handed Bat,Right-arm fast-medium,Bowler,9.0,1.0,2008.0,2008.0,Royal Challengers Bengaluru,9.0,10.0,1.0,90.0,9.0,1,0,0,1,0,9.0,False,9
+21176,AB Agarkar,Ajit Agarkar,India,Right-hand batter,Right-arm fast-medium,Bowler,179.0,33.0,2008.0,2013.0,Delhi Capitals,179.0,154.0,10.0,116.23,17.9,18,0,0,13,5,39.0,False,39
+21180,B Akhil,Balachandra Akhil,India,Right Handed Bat,Right-arm medium,Batting Allrounder,76.0,7.0,2008.0,2011.0,Kochi Tuskers Kerala,76.0,55.0,6.0,138.18,12.67,11,0,0,5,5,27.0,True,27*
+21182,CL White,Cameron White,Australia,Right-hand batter,Leg-spin,Batter,971.0,1.0,2008.0,2013.0,Sunrisers Hyderabad,971.0,760.0,36.0,127.76,26.97,45,0,6,76,36,78.0,False,78
+21183,DJ Hussey,David Hussey,Australia,Right-hand batter,Right-arm off-spin,All-rounder,1322.0,10.0,2008.0,2014.0,Chennai Super Kings,1322.0,1075.0,49.0,122.98,26.98,61,0,5,90,60,71.0,False,71
+21186,JH Kallis,Jacques Kallis,South Africa,Right-hand batter,Right-arm fast-medium,All-rounder,2427.0,74.0,2008.0,2014.0,Kolkata Knight Riders,2427.0,2222.0,85.0,109.23,28.55,95,0,17,255,44,89.0,True,89*
+21187,LR Shukla,Laxmi Shukla,India,Right Handed Bat,Right-arm medium,Batting Allrounder,405.0,17.0,2008.0,2014.0,Delhi Capitals,405.0,350.0,27.0,115.71,15.0,33,0,0,33,15,48.0,True,48*
+21188,M Kartik,Murali Kartik,India,Left-hand batter,Left-arm orthodox,Bowler,113.0,39.0,2008.0,2014.0,Punjab Kings,113.0,108.0,7.0,104.63,16.14,14,0,0,7,1,21.0,False,21
+21189,MV Boucher,Mark Boucher,South Africa,Right-hand batter,Right-arm medium,Wicket-keeper batter,394.0,,2008.0,2011.0,Kolkata Knight Riders,394.0,309.0,14.0,127.51,28.14,23,0,1,32,13,50.0,True,50*
+21190,Mohammad Hafeez,Mohammad Hafeez,Pakistan,Right-hand batter,Right-arm off-spin,All-rounder,64.0,2.0,2008.0,2008.0,Kolkata Knight Riders,64.0,83.0,7.0,77.11,9.14,8,0,0,7,2,16.0,False,16
+21192,R Dravid,Rahul Dravid,India,Right-hand batter,Right-arm off-spin,Batter,2174.0,,2008.0,2013.0,Rajasthan Royals,2174.0,1882.0,77.0,115.52,28.23,82,0,11,268,28,75.0,True,75*
+21194,RT Ponting,Ricky Ponting,Australia,Right-hand batter,Right-arm medium,Batter,91.0,,2008.0,2013.0,Mumbai Indians,91.0,128.0,9.0,71.09,10.11,9,0,0,5,2,28.0,False,28
+21195,SB Joshi,Sunil Joshi,India,Left-hand batter,Left-arm orthodox,Batter,6.0,1.0,2008.0,2008.0,Royal Challengers Bengaluru,6.0,14.0,2.0,42.86,3.0,2,0,0,0,0,3.0,False,3
+21196,SC Ganguly,Sourav Ganguly,India,Left-hand batter,Right-arm medium,Batter,1349.0,12.0,2008.0,2012.0,Pune Warriors,1349.0,1263.0,53.0,106.81,25.45,56,0,7,137,42,91.0,False,91
+21199,W Jaffer,Wasim Jaffer,India,Right-hand batter,Right-arm off-spin,Batter,130.0,,2008.0,2009.0,Royal Challengers Bengaluru,130.0,121.0,8.0,107.44,16.25,8,0,1,14,3,50.0,False,50
+21202,B Lee,Brett Lee,Australia,Right-hand batter,Right-arm fast,Bowler,124.0,30.0,2008.0,2013.0,Kolkata Knight Riders,124.0,97.0,10.0,127.84,12.4,19,0,0,8,8,25.0,False,25
+21204,JDP Oram,Jacob Oram,New Zealand,Left-hand batter,Right-arm fast-medium,All-rounder,106.0,13.0,2008.0,2013.0,Mumbai Indians,106.0,108.0,8.0,98.15,13.25,11,0,0,6,5,41.0,True,41*
+21205,JR Hopes,James Hopes,Australia,Right Handed Bat,Right-arm medium,Batsman,417.0,14.0,2008.0,2011.0,Delhi Capitals,417.0,306.0,16.0,136.27,26.06,19,0,4,49,11,71.0,False,71
+21206,Joginder Sharma,Joginder Sharma,India,Right-hand batter,Right-arm fast-medium,All-rounder,36.0,13.0,2008.0,2011.0,Chennai Super Kings,36.0,30.0,4.0,120.0,9.0,5,0,0,1,2,16.0,True,16*
+21207,K Goel,Karan Goel,India,Right Handed Bat,No information available,Batting Allrounder,218.0,0.0,2008.0,2010.0,Punjab Kings,218.0,231.0,15.0,94.37,14.53,16,0,0,17,9,38.0,False,38
+21208,KC Sangakkara,Kumar Sangakkara,Sri Lanka,Left-hand batter,Right-arm off-spin,Batter,1687.0,,2008.0,2013.0,Sunrisers Hyderabad,1687.0,1392.0,65.0,121.19,25.95,68,0,10,195,27,94.0,False,94
+21209,M Muralitharan,Muthiah Muralidaran,Sri Lanka,Right Handed Bat,Right-arm offbreak,Bowler,20.0,67.0,2008.0,2014.0,Royal Challengers Bengaluru,20.0,30.0,6.0,66.67,3.33,9,0,0,1,0,6.0,False,6
+21210,MEK Hussey,Michael Hussey,Australia,Left-hand batter,Right-arm medium,Batter,1977.0,,2008.0,2015.0,Chennai Super Kings,1977.0,1612.0,51.0,122.64,38.76,58,1,15,198,52,116.0,True,116*
+21211,ML Hayden,Matthew Hayden,Australia,Left-hand batter,Right-arm medium,Batter,1107.0,,2008.0,2010.0,Chennai Super Kings,1107.0,806.0,31.0,137.34,35.71,32,0,8,121,44,93.0,False,93
+21216,P Amarnath,Palani Amarnath,India,Right Handed Bat,Right-arm medium,Bowler,,7.0,2008.0,2008.0,Chennai Super Kings,0.0,0.0,0.0,,,0,0,0,0,0,,,
+21221,S Badrinath,S Badrinath,India,Right-hand batter,Right-arm off-spin,Batter,1441.0,,2008.0,2013.0,Chennai Super Kings,1441.0,1212.0,47.0,118.89,30.66,65,0,11,154,28,71.0,True,71*
+21222,S Sreesanth,S Sreesanth,India,Right-hand batter,Right-arm fast-medium,Bowler,34.0,43.0,2008.0,2013.0,Rajasthan Royals,34.0,55.0,4.0,61.82,8.5,12,0,0,6,0,15.0,True,15*
+21226,SM Katich,Simon Katich,Australia,Left-hand batter,Left-arm wrist-spin,Batter,241.0,,2008.0,2009.0,Punjab Kings,241.0,186.0,10.0,129.57,24.1,11,0,2,25,8,75.0,False,75
+21227,WA Mota,Wilkin Mota,India,Right Handed Bat,No information available,Batting Allrounder,56.0,4.0,2008.0,2009.0,Punjab Kings,56.0,75.0,6.0,74.67,9.33,8,0,0,2,0,25.0,False,25
+21230,B Geeves,Brett Geeves,Australia,Right Handed Bat,Right-arm fast-medium,Bowler,,2.0,2008.0,2008.0,Delhi Capitals,0.0,0.0,0.0,,,0,0,0,0,0,,,
+21231,D Salunkhe,Dinesh Salunkhe,India,Right Handed Bat,No information available,Batting Allrounder,33.0,1.0,2008.0,2008.0,Rajasthan Royals,33.0,24.0,2.0,137.5,16.5,3,0,0,5,0,26.0,True,26*
+21232,DL Vettori,Daniel Vettori,New Zealand,Left-hand batter,Left-arm orthodox,All-rounder,121.0,34.0,2008.0,2012.0,Royal Challengers Bengaluru,121.0,113.0,8.0,107.08,15.12,16,0,0,11,2,29.0,False,29
+21233,DS Lehmann,Darren Lehmann,Australia,Left-hand batter,Left-arm orthodox,All-rounder,18.0,,2008.0,2008.0,Rajasthan Royals,18.0,18.0,2.0,100.0,9.0,2,0,0,3,0,17.0,False,17
+21236,GD McGrath,Glenn McGrath,Australia,Right-hand batter,Right-arm fast-medium,Bowler,4.0,14.0,2008.0,2008.0,Delhi Capitals,4.0,5.0,1.0,80.0,4.0,2,0,0,1,0,4.0,True,4*
+21240,M Kaif,Mohammad Kaif,India,Right-hand batter,Right-arm off-spin,Batter,259.0,,2008.0,2012.0,Royal Challengers Bengaluru,259.0,250.0,18.0,103.6,14.39,22,0,0,22,6,34.0,True,34*
+21241,M Manhas,Mithun Manhas,India,Right-hand batter,Right-arm off-spin,All-rounder,514.0,0.0,2009.0,2014.0,Chennai Super Kings,514.0,470.0,23.0,109.36,22.35,38,0,0,43,10,42.0,True,42*
+21242,M Rawat,Mahesh Rawat,India,Right-hand batter,No information available,Wicket-keeper batter,55.0,,2008.0,2013.0,Pune Warriors,55.0,69.0,5.0,79.71,11.0,11,0,0,4,1,23.0,True,23*
+21243,MF Maharoof,Farveez Maharoof,Sri Lanka,Right-hand batter,Right-arm fast-medium,All-rounder,177.0,33.0,2008.0,2010.0,Delhi Capitals,177.0,123.0,10.0,143.9,17.7,14,0,0,12,9,39.0,False,39
+21249,SK Trivedi,Siddharth Trivedi,India,Right Handed Bat,Right-arm medium,Bowler,42.0,73.0,2008.0,2013.0,Rajasthan Royals,42.0,59.0,7.0,71.19,6.0,14,0,0,3,1,9.0,False,9
+21250,SK Warne,Shane Warne,Australia,Right-hand batter,Leg-spin,Bowler,198.0,60.0,2008.0,2011.0,Rajasthan Royals,198.0,214.0,20.0,92.52,9.9,27,0,0,14,6,34.0,True,34*
+21252,T Kohli,Taruwar Kohli,India,Right-hand batter,Right-arm medium,All-rounder,11.0,,2008.0,2009.0,Punjab Kings,11.0,19.0,3.0,57.89,3.67,3,0,0,0,1,7.0,False,7
+21253,V Sehwag,Virender Sehwag,India,Right-hand batter,Right-arm off-spin,Batter,2728.0,6.0,2008.0,2015.0,Punjab Kings,2728.0,1755.0,99.0,155.44,27.56,104,2,16,334,106,122.0,False,122
+21256,AM Nayar,Abhishek Nayar,India,Left-hand batter,Right-arm medium,All-rounder,672.0,9.0,2008.0,2014.0,Rajasthan Royals,672.0,577.0,38.0,116.46,17.68,50,0,0,55,20,45.0,True,45*
+21260,DJ Thornely,Dominic Thornely,Australia,Right Handed Bat,No information available,Batting Allrounder,39.0,3.0,2008.0,2008.0,Mumbai Indians,39.0,53.0,3.0,73.58,13.0,4,0,0,2,2,30.0,False,30
+21265,L Ronchi,Luke Ronchi,New Zealand,Right-hand batter,No information available,Wicket-keeper batter,34.0,,2008.0,2009.0,Mumbai Indians,34.0,34.0,5.0,100.0,6.8,5,0,0,6,1,13.0,False,13
+21266,LRPL Taylor,Ross Taylor,Samoa,Right-hand batter,Right-arm off-spin,Batter,1017.0,0.0,2008.0,2014.0,Delhi Capitals,1017.0,822.0,40.0,123.72,25.42,54,0,3,66,46,81.0,True,81*
+21267,MA Khote,Musavir Khote,India,Right Handed Bat,No information available,Batting Allrounder,24.0,2.0,2008.0,2008.0,Mumbai Indians,24.0,22.0,2.0,109.09,12.0,3,0,0,2,1,9.0,False,9
+21270,PR Shah,Pinal Shah,India,Right Handed Bat,No information available,WK-Batsman,92.0,,2008.0,2011.0,Rajasthan Royals,92.0,91.0,8.0,101.1,11.5,9,0,0,9,2,29.0,False,29
+21274,S Chanderpaul,Shivnarine Chanderpaul,West Indies,Left-hand batter,Leg-spin,Batter,25.0,,2008.0,2008.0,Royal Challengers Bengaluru,25.0,31.0,3.0,80.65,8.33,3,0,0,4,0,16.0,False,16
+21277,SM Pollock,Shaun Pollock,South Africa,Right-hand batter,Right-arm fast-medium,All-rounder,147.0,13.0,2008.0,2008.0,Mumbai Indians,147.0,111.0,8.0,132.43,18.38,8,0,0,12,8,33.0,False,33
+21279,ST Jayasuriya,Sanath Jayasuriya,Sri Lanka,Left Handed Bat,Left-arm orthodox,Batting Allrounder,768.0,16.0,2008.0,2010.0,Mumbai Indians,768.0,532.0,28.0,144.36,27.43,30,1,4,84,39,114.0,True,114*
+21282,A Symonds,Andrew Symonds,Australia,Right-hand batter,Right-arm medium,All-rounder,974.0,23.0,2008.0,2011.0,Mumbai Indians,974.0,750.0,27.0,129.87,36.07,36,1,5,74,41,117.0,True,117*
+21285,AC Gilchrist,Adam Gilchrist,Australia,Left-hand batter,Right-arm off-spin,Wicket-keeper batter,2069.0,1.0,2008.0,2013.0,Punjab Kings,2069.0,1495.0,76.0,138.39,27.22,80,2,11,239,92,109.0,True,109*
+21286,AS Yadav,Arjun Yadav,India,Right Handed Bat,No information available,Batsman,49.0,,2008.0,2008.0,Deccan Chargers,49.0,39.0,5.0,125.64,9.8,6,0,0,5,2,16.0,False,16
+21298,PP Ojha,Pragyan Ojha,India,Left-hand batter,Left-arm orthodox,Bowler,16.0,99.0,2008.0,2015.0,Mumbai Indians,16.0,45.0,12.0,35.56,1.33,19,0,0,0,0,3.0,False,3
+21300,RP Singh,R P Singh,India,Right-hand batter,No information available,Batter,52.0,100.0,2008.0,2016.0,Rising Pune Supergiant,52.0,76.0,15.0,68.42,3.47,28,0,0,2,1,10.0,False,10
+21302,SB Bangar,Sanjay Bangar,India,Right-hand batter,Right-arm fast-medium,All-rounder,49.0,6.0,2008.0,2009.0,Kolkata Knight Riders,49.0,58.0,7.0,84.48,7.0,7,0,0,1,3,17.0,True,17*
+21303,SB Styris,Scott Styris,New Zealand,Right-hand batter,Right-arm medium,All-rounder,131.0,9.0,2008.0,2011.0,Chennai Super Kings,131.0,133.0,7.0,98.5,18.71,10,0,0,10,3,36.0,True,36*
+21305,VVS Laxman,VVS Laxman,India,Right-hand batter,Right-arm off-spin,Batter,282.0,,2008.0,2011.0,Kochi Tuskers Kerala,282.0,267.0,19.0,105.62,14.84,20,0,1,33,5,52.0,False,52
+21307,WPUJC Vaas,Chaminda Vaas,Sri Lanka,Left-hand batter,Left-arm fast-medium,Bowler,81.0,22.0,2008.0,2010.0,Deccan Chargers,81.0,73.0,8.0,110.96,10.12,11,0,0,2,3,20.0,False,20
+21308,Y Venugopal Rao,Venugopal Rao,India,Right Handed Bat,Right-arm offbreak,Batsman,985.0,7.0,2008.0,2014.0,Sunrisers Hyderabad,985.0,836.0,44.0,117.82,22.39,52,0,3,77,37,71.0,True,71*
+21312,DPMD Jayawardene,Mahela Jayawardene,Sri Lanka,Right-hand batter,Right-arm medium,Batter,1808.0,,2008.0,2013.0,Delhi Capitals,1808.0,1464.0,64.0,123.5,28.25,78,1,10,200,39,110.0,True,110*
+21319,Kamran Akmal,Kamran Akmal,Pakistan,Right-hand batter,No information available,Wicket-keeper batter,128.0,,2008.0,2008.0,Rajasthan Royals,128.0,78.0,5.0,164.1,25.6,6,0,1,13,8,53.0,True,53*
+21324,Pankaj Singh,Pratap Singh,India,Right-hand batter,Right-arm medium,Bowler,7.0,11.0,2008.0,2012.0,Rajasthan Royals,7.0,12.0,2.0,58.33,3.5,5,0,0,0,0,4.0,True,4*
+21327,S Sohal,Sunny Sohal,India,Right Handed Bat,Right-arm legbreak,Batsman,368.0,,2008.0,2011.0,Deccan Chargers,368.0,292.0,20.0,126.03,18.4,20,0,2,34,18,62.0,False,62
+21348,Mohammad Asif,Mohammad Asif,Pakistan,Left-hand batter,Right-arm fast-medium,Bowler,3.0,9.0,2008.0,2008.0,Delhi Capitals,3.0,6.0,2.0,50.0,1.5,2,0,0,0,0,3.0,False,3
+21355,Shahid Afridi,Shahid Afridi,Pakistan,Right-hand batter,Leg-spin,All-rounder,81.0,9.0,2008.0,2008.0,Deccan Chargers,81.0,46.0,8.0,176.09,10.12,9,0,0,7,6,33.0,False,33
+21356,Shoaib Malik,Shoaib Malik,Pakistan,Right-hand batter,Right-arm off-spin,All-rounder,52.0,2.0,2008.0,2008.0,Delhi Capitals,52.0,47.0,4.0,110.64,13.0,5,0,0,5,0,24.0,False,24
+21360,VY Mahesh,Yo Mahesh,India,Right Handed Bat,No information available,Bowling Allrounder,15.0,22.0,2008.0,2012.0,Chennai Super Kings,15.0,27.0,2.0,55.56,7.5,5,0,0,0,0,6.0,True,6*
+21389,VS Yeligati,Vikrant Yeligati,India,Right Handed Bat,No information available,Batting Allrounder,2.0,0.0,2008.0,2008.0,Mumbai Indians,2.0,2.0,1.0,100.0,2.0,1,0,0,0,0,2.0,False,2
+21395,D Kalyankrishna,Doddapaneni Kalyankrishna,India,Right Handed Bat,No information available,Batting Allrounder,3.0,2.0,2008.0,2008.0,Deccan Chargers,3.0,8.0,1.0,37.5,3.0,1,0,0,0,0,3.0,False,3
+21397,GC Smith,Graeme Smith,South Africa,Left-hand batter,Right-arm off-spin,Batter,739.0,,2008.0,2011.0,Pune Warriors,739.0,668.0,26.0,110.63,28.42,29,0,4,94,9,91.0,False,91
+21436,RR Sarwan,Ramnaresh Sarwan,West Indies,Right-hand batter,Leg-spin,Batter,73.0,,2008.0,2008.0,Punjab Kings,73.0,75.0,4.0,97.33,18.25,4,0,0,6,1,31.0,False,31
+21443,VRV Singh,Vikram Singh,India,Right-hand batter,Right-arm fast-medium,All-rounder,4.0,16.0,2008.0,2010.0,Punjab Kings,4.0,3.0,2.0,133.33,2.0,2,0,0,1,0,4.0,False,4
+21445,A Kumble,Anil Kumble,India,Right-hand batter,Leg-spin,Bowler,35.0,49.0,2008.0,2010.0,Royal Challengers Bengaluru,35.0,47.0,3.0,74.47,11.67,15,0,0,3,0,8.0,False,8
+21468,Sohail Tanvir,Sohail Tanvir,Pakistan,Left-hand batter,Left-arm fast-medium,Bowler,36.0,24.0,2008.0,2008.0,Rajasthan Royals,36.0,29.0,3.0,124.14,12.0,5,0,0,3,1,13.0,False,13
+21509,DNT Zoysa,Nuwan Zoysa,Sri Lanka,Left-hand batter,Left-arm fast-medium,Batter,11.0,2.0,2008.0,2008.0,Deccan Chargers,11.0,9.0,1.0,122.22,11.0,2,0,0,1,0,10.0,True,10*
+21519,SD Chitnis,Siddharth Chitnis,India,Right-hand batter,Right-arm off-spin,Batter,99.0,2.0,2008.0,2012.0,Punjab Kings,99.0,89.0,7.0,111.24,14.14,8,0,0,10,2,38.0,False,38
+21554,B Chipli,Bharath Chipli,India,Right Handed Bat,No information available,Batsman,280.0,0.0,2008.0,2013.0,Delhi Capitals,280.0,251.0,15.0,111.55,18.67,21,0,1,28,7,61.0,True,61*
+21558,JA Morkel,Albie Morkel,South Africa,Left-hand batter,Right-arm fast-medium,All-rounder,975.0,96.0,2008.0,2016.0,Rising Pune Supergiant,975.0,687.0,40.0,141.92,24.38,67,0,3,61,55,73.0,True,73*
+21588,CRD Fernando,Dilhara Fernando,Sri Lanka,Right-hand batter,Right-arm fast-medium,Bowler,4.0,19.0,2008.0,2010.0,Mumbai Indians,4.0,3.0,0.0,133.33,,2,0,0,0,0,2.0,True,2*
+21589,DB Das,Debabrata Das,India,Right-hand batter,Leg-spin,Batter,304.0,,2008.0,2013.0,Kolkata Knight Riders,304.0,261.0,14.0,116.48,21.71,22,0,0,23,16,35.0,True,35*
+21640,Gagandeep Singh,Gagandeep Singh,India,Right-hand batter,No information available,All-rounder,,3.0,2008.0,2008.0,Punjab Kings,0.0,0.0,0.0,,,0,0,0,0,0,,,
+21641,HH Gibbs,Herschelle Gibbs,South Africa,Right-hand batter,No information available,Batter,886.0,,2008.0,2012.0,Mumbai Indians,886.0,807.0,32.0,109.79,27.69,36,0,6,83,31,69.0,True,69*
+21664,BJ Hodge,Brad Hodge,Australia,Right Handed Bat,Right-arm offbreak,Batting Allrounder,1400.0,18.0,2008.0,2014.0,Rajasthan Royals,1400.0,1118.0,42.0,125.22,33.33,63,0,6,122,43,73.0,False,73
+21678,SA Asnodkar,Swapnil Asnodkar,India,Right Handed Bat,Right-arm offbreak,Batting Allrounder,423.0,,2008.0,2011.0,Rajasthan Royals,423.0,339.0,20.0,124.78,21.15,19,0,2,56,10,60.0,False,60
+21683,Salman Butt,Salman Butt,Pakistan,Left-hand batter,Right-arm off-spin,Batter,193.0,,2008.0,2008.0,Kolkata Knight Riders,193.0,161.0,7.0,119.88,27.57,7,0,1,30,2,73.0,False,73
+21686,Umar Gul,Umar Gul,Pakistan,Right-hand batter,Right-arm fast-medium,Bowler,39.0,14.0,2008.0,2008.0,Kolkata Knight Riders,39.0,19.0,3.0,205.26,13.0,4,0,0,1,5,24.0,False,24
+21698,M Ntini,Makhaya Ntini,South Africa,Right-hand batter,Right-arm fast,Bowler,11.0,8.0,2008.0,2008.0,Chennai Super Kings,11.0,18.0,1.0,61.11,11.0,2,0,0,2,0,11.0,False,11
+21710,S Vidyut,Vidyut Sivaramakrishnan,India,Right Handed Bat,No information available,Batting Allrounder,145.0,1.0,2008.0,2008.0,Chennai Super Kings,145.0,109.0,8.0,133.03,18.12,8,0,1,21,3,54.0,False,54
+21712,SP Fleming,Stephen Fleming,New Zealand,Left-hand batter,No information available,Batter,196.0,,2008.0,2008.0,Chennai Super Kings,196.0,165.0,9.0,118.79,21.78,10,0,0,27,3,45.0,False,45
+21723,DB Ravi Teja,Dwaraka Ravi Teja,India,Right Handed Bat,No information available,Batsman,375.0,1.0,2008.0,2013.0,Sunrisers Hyderabad,375.0,317.0,19.0,118.3,19.74,25,0,1,35,9,60.0,False,60
+21724,DP Vijaykumar,Vijaykumar Vyshak,India,Right Handed Bat,Right-arm medium,Bowler,1.0,4.0,2008.0,2008.0,Deccan Chargers,1.0,1.0,0.0,100.0,,1,0,0,0,0,1.0,True,1*
+21729,LPC Silva,Chamara Silva,Sri Lanka,Right-hand batter,Leg-spin,Batter,40.0,0.0,2008.0,2008.0,Deccan Chargers,40.0,26.0,2.0,153.85,20.0,3,0,0,5,1,23.0,True,23*
+21730,Misbah-ul-Haq,Misbah-ul-Haq,Pakistan,Right-hand batter,Leg-spin,Batter,117.0,,2008.0,2008.0,Royal Challengers Bengaluru,117.0,81.0,7.0,144.44,16.71,8,0,0,10,6,47.0,True,47*
+21786,RR Raje,Rohan Raje,India,Right-hand batter,Right-arm fast-medium,All-rounder,20.0,7.0,2008.0,2009.0,Mumbai Indians,20.0,18.0,1.0,111.11,20.0,5,0,0,1,1,11.0,True,11*
+21796,YV Takawale,Yogesh Takawale,India,Right Handed Bat,No information available,WK-Batsman,192.0,,2008.0,2014.0,Royal Challengers Bengaluru,192.0,178.0,8.0,107.87,24.0,10,0,0,26,3,45.0,False,45
+21829,DT Patil,Devraj Patil,India,Right Handed Bat,No information available,WK-Batsman,13.0,,2008.0,2008.0,Royal Challengers Bengaluru,13.0,13.0,2.0,100.0,6.5,2,0,0,1,0,9.0,False,9
+21845,U Kaul,Uday Kaul,India,Left-hand batter,No information available,Wicket-keeper batter,0.0,,2008.0,2008.0,Punjab Kings,0.0,1.0,0.0,0.0,,1,0,0,0,0,0.0,True,0*
+21869,S Anirudha,Srikkanth Anirudha,India,Right Handed Bat,No information available,Batsman,136.0,,2008.0,2014.0,Sunrisers Hyderabad,136.0,113.0,8.0,120.35,17.0,12,0,1,9,7,64.0,False,64
+21908,CK Kapugedera,Chamara Kapugedera,Sri Lanka,Right-hand batter,Right-arm medium,Batter,16.0,0.0,2008.0,2008.0,Chennai Super Kings,16.0,23.0,3.0,69.57,5.33,3,0,0,0,0,8.0,False,8
+21914,L Balaji,Lakshmipathy Balaji,India,Right-hand batter,Right-arm fast-medium,Bowler,36.0,85.0,2008.0,2014.0,Punjab Kings,36.0,49.0,8.0,73.47,4.5,13,0,0,2,1,15.0,False,15
+21931,A Chopra,Aakash Chopra,India,Right-hand batter,No information available,Batter,53.0,,2008.0,2009.0,Kolkata Knight Riders,53.0,71.0,6.0,74.65,8.83,6,0,0,7,0,24.0,False,24
+21943,J Arunkumar,Jagadeesh Arunkumar,India,Right Handed Bat,No information available,Batting Allrounder,23.0,,2008.0,2008.0,Royal Challengers Bengaluru,23.0,23.0,3.0,100.0,7.67,3,0,0,5,0,22.0,False,22
+21952,T Taibu,Tatenda Taibu,Zimbabwe,Right-hand batter,Right-arm off-spin,Wicket-keeper batter,31.0,,2008.0,2008.0,Kolkata Knight Riders,31.0,26.0,3.0,119.23,10.33,3,0,0,3,0,15.0,False,15
+21967,NK Patel,Niraj Patel,India,Right Handed Bat,No information available,Batting Allrounder,121.0,,2008.0,2009.0,Rajasthan Royals,121.0,119.0,4.0,101.68,30.25,6,0,1,14,1,57.0,False,57
+22005,SR Tendulkar,Sachin Tendulkar,India,Right-hand batter,Leg-spin,Batter,2334.0,0.0,2008.0,2013.0,Mumbai Indians,2334.0,1948.0,69.0,119.82,33.83,78,1,13,295,29,100.0,True,100*
+22064,AD Mascarenhas,Dimitri Mascarenhas,England,Right Handed Bat,Right-arm fast-medium,Bowling Allrounder,79.0,19.0,2008.0,2013.0,Punjab Kings,79.0,78.0,9.0,101.28,8.78,11,0,0,5,1,27.0,False,27
+22084,TM Dilshan,Tillakaratne Dilshan,Sri Lanka,Right-hand batter,Right-arm off-spin,All-rounder,1153.0,5.0,2008.0,2013.0,Royal Challengers Bengaluru,1153.0,1007.0,43.0,114.5,26.81,50,0,9,140,24,76.0,True,76*
+22100,LA Pomersbach,Luke Pomersbach,Australia,Left Handed Bat,Right-arm offbreak,Batsman,302.0,,2008.0,2013.0,Punjab Kings,302.0,246.0,11.0,122.76,27.45,16,0,1,25,13,79.0,True,79*
+22134,Shoaib Akhtar,Shoaib Akhtar,Pakistan,Right-hand batter,Right-arm fast,Bowler,2.0,5.0,2008.0,2008.0,Kolkata Knight Riders,2.0,7.0,1.0,28.57,2.0,1,0,0,0,0,2.0,False,2
+22183,RR Powar,Ramesh Powar,India,Right-hand batter,Right-arm off-spin,Bowler,67.0,15.0,2008.0,2012.0,Punjab Kings,67.0,64.0,3.0,104.69,22.33,9,0,0,6,1,28.0,True,28*
+22193,Younis Khan,Younis Khan,Pakistan,Right-hand batter,Right-arm medium,Batter,3.0,,2008.0,2008.0,Rajasthan Royals,3.0,7.0,1.0,42.86,3.0,1,0,0,0,0,3.0,False,3
+22211,PM Sarvesh Kumar,Sarvesh Kumar,India,Right Handed Bat,No information available,Bowling Allrounder,1.0,1.0,2008.0,2008.0,Deccan Chargers,1.0,2.0,0.0,50.0,,1,0,0,0,0,1.0,True,1*
+22239,RV Pawar,Ramesh Powar,India,Right Handed Bat,Right-arm offbreak,Bowler,,,,,,0.0,0.0,0.0,,,0,0,0,0,0,,,
+22278,Abdur Razzak,Abdur Razzak,Bangladesh,Left-hand batter,Left-arm orthodox,Bowler,0.0,0.0,2008.0,2008.0,Royal Challengers Bengaluru,0.0,2.0,0.0,0.0,,1,0,0,0,0,0.0,True,0*
+22317,H Das,Halhadar Das,India,Right Handed Bat,No information available,WK-Batsman,2.0,,2008.0,2008.0,Deccan Chargers,2.0,5.0,1.0,40.0,2.0,1,0,0,0,0,2.0,False,2
+22496,A Nel,Andre Nel,South Africa,Right-hand batter,Right-arm fast-medium,Bowler,,1.0,2008.0,2008.0,Mumbai Indians,0.0,0.0,0.0,,,0,0,0,0,0,,,
+22520,A Mukund,Abhinav Mukund,India,Left-hand batter,No information available,Batter,19.0,,2008.0,2013.0,Royal Challengers Bengaluru,19.0,22.0,2.0,86.36,9.5,2,0,0,1,0,19.0,False,19
+22576,BAW Mendis,Ajantha Mendis,Sri Lanka,Right-hand batter,Right-arm off-spin,Bowler,3.0,9.0,2008.0,2013.0,Pune Warriors,3.0,6.0,2.0,50.0,1.5,3,0,0,0,0,2.0,False,2
+22733,A Flintoff,Andrew Flintoff,England,Right-hand batter,Right-arm fast,All-rounder,62.0,2.0,2009.0,2009.0,Chennai Super Kings,62.0,53.0,2.0,116.98,31.0,3,0,0,5,2,24.0,False,24
+22758,T Thushara,Thilan Thushara,Sri Lanka,Left-hand batter,Left-arm fast-medium,Bowler,12.0,10.0,2009.0,2010.0,Chennai Super Kings,12.0,18.0,2.0,66.67,6.0,4,0,0,0,0,8.0,False,8
+22768,JD Ryder,Jesse Ryder,New Zealand,Left-hand batter,Right-arm medium,All-rounder,604.0,11.0,2009.0,2012.0,Pune Warriors,604.0,458.0,28.0,131.88,21.57,29,0,4,69,19,86.0,False,86
+22770,KP Pietersen,Kevin Pietersen,England,Right-hand batter,Right-arm off-spin,Batter,1001.0,9.0,2009.0,2016.0,Rising Pune Supergiant,1001.0,743.0,28.0,134.72,35.75,36,1,4,91,40,103.0,True,103*
+22771,Kamran Khan,Kamran Khan,India,Right-hand batter,No information available,Bowler,3.0,14.0,2009.0,2011.0,Pune Warriors,3.0,5.0,1.0,60.0,3.0,1,0,0,0,0,3.0,False,3
+22784,T Henderson,Tyron Henderson,South Africa,Right Handed Bat,Right-arm fast-medium,Batting Allrounder,11.0,1.0,2009.0,2009.0,Rajasthan Royals,11.0,16.0,2.0,68.75,5.5,2,0,0,0,1,11.0,False,11
+22789,AM Salvi,Aavishkar Salvi,India,Right Handed Bat,Right-arm medium,Bowler,,7.0,2009.0,2011.0,Delhi Capitals,0.0,0.0,0.0,,,0,0,0,0,0,,,
+22791,DP Nannes,Dirk Nannes,Australia,Right Handed Bat,Left-arm fast,Bowler,4.0,38.0,2009.0,2013.0,Chennai Super Kings,4.0,13.0,1.0,30.77,4.0,2,0,0,0,0,3.0,False,3
+22803,RS Bopara,Ravi Bopara,England,Right-hand batter,Right-arm medium,All-rounder,531.0,13.0,2009.0,2015.0,Sunrisers Hyderabad,531.0,453.0,18.0,117.22,29.5,22,0,3,39,16,84.0,False,84
+22809,VS Malik,Vikramjeet Singh Malik,India,Right Handed Bat,Right-arm medium,Bowler,7.0,6.0,2009.0,2014.0,Rajasthan Royals,7.0,7.0,1.0,100.0,7.0,2,0,0,1,0,6.0,False,6
+22811,YA Abdulla,Yusuf Abdulla,South Africa,Left Handed Bat,Left-arm fast-medium,Batting Allrounder,0.0,15.0,2009.0,2010.0,Punjab Kings,0.0,1.0,0.0,0.0,,1,0,0,0,0,0.0,True,0*
+22823,FH Edwards,Fidel Edwards,West Indies,Right-hand batter,Right-arm fast,Bowler,4.0,6.0,2009.0,2009.0,Deccan Chargers,4.0,5.0,1.0,80.0,4.0,2,0,0,0,0,3.0,True,3*
+22825,Harmeet Singh,Harmeet Singh Bansal,India,Right-hand batter,Right-arm fast-medium,Bowler,18.0,31.0,2009.0,2013.0,Punjab Kings,18.0,12.0,4.0,150.0,4.5,4,0,0,3,0,14.0,False,14
+22858,R Bishnoi,Rajesh Bishnoi,India,Right Handed Bat,No information available,Batsman,19.0,,2009.0,2009.0,Royal Challengers Bengaluru,19.0,17.0,3.0,111.76,6.33,3,0,0,1,2,18.0,False,18
+22893,Yashpal Singh,Yashpal Singh,India,Right-hand batter,Right-arm medium,All-rounder,47.0,,2009.0,2009.0,Kolkata Knight Riders,47.0,66.0,4.0,71.21,11.75,4,0,0,5,0,20.0,False,20
+22952,AS Raut,Abhishek Raut,India,Right-hand batter,Leg-spin,All-rounder,194.0,0.0,2009.0,2011.0,Rajasthan Royals,194.0,167.0,9.0,116.17,21.56,16,0,0,13,7,36.0,True,36*
+22968,PC Valthaty,Paul Valthaty,India,Right Handed Bat,Right-arm medium,Batsman,505.0,7.0,2009.0,2013.0,Punjab Kings,505.0,418.0,22.0,120.81,22.95,23,1,2,60,20,120.0,True,120*
+22970,RJ Quiney,Rob Quiney,Australia,Left-hand batter,Right-arm medium,Batter,103.0,,2009.0,2009.0,Rajasthan Royals,103.0,102.0,7.0,100.98,14.71,7,0,1,12,3,51.0,False,51
+22992,RR Bose,Ranadeb Bose,India,Right Handed Bat,No information available,Batting Allrounder,,0.0,2009.0,2009.0,Punjab Kings,0.0,0.0,0.0,,,0,0,0,0,0,,,
+23042,KP Appanna,KP Appanna,India,Right-hand batter,Left-arm orthodox,Bowler,2.0,11.0,2009.0,2012.0,Royal Challengers Bengaluru,2.0,4.0,1.0,50.0,2.0,3,0,0,0,0,1.0,True,1*
+23084,AA Bilakhia,Azhar Bilakhia,India,Right Handed Bat,No information available,Batsman,69.0,,2009.0,2010.0,Deccan Chargers,69.0,85.0,5.0,81.18,13.8,7,0,0,5,0,22.0,False,22
+23107,Shoaib Ahmed,Shoaib Ahmed,India,Right-hand batter,No information available,Bowler,1.0,5.0,2009.0,2009.0,Deccan Chargers,1.0,6.0,2.0,16.67,0.5,3,0,0,0,0,1.0,True,1*
+23113,AN Ghosh,Arindam Ghosh,India,Right-hand batter,No information available,All-rounder,7.0,,2009.0,2009.0,Kolkata Knight Riders,7.0,8.0,2.0,87.5,3.5,2,0,0,1,0,7.0,False,7
+23179,MN van Wyk,Morne van Wyk,South Africa,Right Handed Bat,Left-arm orthodox,WK-Batsman,167.0,,2009.0,2009.0,Kolkata Knight Riders,167.0,132.0,3.0,126.52,55.67,5,0,1,19,1,74.0,False,74
+23184,RE van der Merwe,Roelof van der Merwe,Netherlands,Right-hand batter,Left-arm orthodox,Bowler,159.0,25.0,2009.0,2013.0,Delhi Capitals,159.0,141.0,11.0,112.77,14.45,15,0,0,11,8,35.0,False,35
+23243,TL Suman,Tirumalsetti Suman,India,Right Handed Bat,Right-arm offbreak,Batsman,676.0,7.0,2009.0,2013.0,Pune Warriors,676.0,575.0,32.0,117.57,21.12,39,0,2,55,26,78.0,True,78*
+23267,S Tyagi,Sudeep Tyagi,India,Right Handed Bat,Right-arm fast-medium,Bowler,3.0,6.0,2009.0,2010.0,Chennai Super Kings,3.0,4.0,1.0,75.0,3.0,1,0,0,0,0,3.0,True,3*
+23282,GR Napier,Graham Napier,England,Right Handed Bat,Right-arm medium,Bowling Allrounder,15.0,1.0,2009.0,2009.0,Mumbai Indians,15.0,16.0,1.0,93.75,15.0,1,0,0,1,0,15.0,False,15
+23336,LA Carseldine,Lee Carseldine,Australia,Right Handed Bat,No information available,Batting Allrounder,81.0,1.0,2009.0,2009.0,Rajasthan Royals,81.0,68.0,4.0,119.12,20.25,5,0,0,11,0,39.0,False,39
+23350,SM Harwood,Shane Harwood,Australia,Right Handed Bat,Right-arm fast-medium,Batting Allrounder,9.0,3.0,2009.0,2009.0,Rajasthan Royals,9.0,14.0,0.0,64.29,,2,0,0,0,0,6.0,True,6*
+23412,D du Preez,Dillon du Preez,South Africa,Right Handed Bat,Right-arm fast-medium,Batting Allrounder,10.0,4.0,2009.0,2009.0,Royal Challengers Bengaluru,10.0,13.0,1.0,76.92,10.0,1,0,0,0,0,10.0,False,10
+23450,RJ Harris,Ryan Harris,Australia,Right-hand batter,Right-arm fast,Bowler,117.0,47.0,2009.0,2013.0,Punjab Kings,117.0,112.0,12.0,104.46,9.75,21,0,0,6,3,17.0,False,17
+23463,A Singh,Amit Singh,India,Right Handed Bat,Right-arm medium,Bowler,2.0,31.0,2009.0,2012.0,Rajasthan Royals,2.0,10.0,4.0,20.0,0.5,5,0,0,0,0,1.0,True,1*
+23554,M Morkel,Morne Morkel,South Africa,Left-hand batter,Right-arm fast,Bowler,126.0,88.0,2009.0,2016.0,Kolkata Knight Riders,126.0,90.0,11.0,140.0,11.45,20,0,0,11,5,23.0,True,23*
+23573,GJ Bailey,George Bailey,Australia,Right-hand batter,Right-arm medium,Batter,663.0,,2009.0,2016.0,Rising Pune Supergiant,663.0,544.0,27.0,121.88,24.56,36,0,2,59,19,61.0,True,61*
+23680,A Mithun,Abhimanyu Mithun,India,Right-hand batter,Right-arm medium,Bowler,34.0,8.0,2009.0,2013.0,Royal Challengers Bengaluru,34.0,26.0,5.0,130.77,6.8,6,0,0,4,1,11.0,False,11
+23685,C Nanda,Chetanya Nanda,India,Right Handed Bat,No information available,Batsman,0.0,2.0,2009.0,2009.0,Mumbai Indians,0.0,1.0,1.0,0.0,0.0,1,0,0,0,0,0.0,False,0
+23728,SS Sarkar,Sourav Sarkar,India,Right Handed Bat,No information available,Batting Allrounder,,1.0,2009.0,2009.0,Kolkata Knight Riders,0.0,0.0,0.0,,,0,0,0,0,0,,,
+23879,J Botha,Johan Botha,South Africa,Right-hand batter,Right-arm off-spin,All-rounder,409.0,27.0,2009.0,2015.0,Kolkata Knight Riders,409.0,359.0,20.0,113.93,20.45,28,0,1,39,5,67.0,True,67*
+23962,Mashrafe Mortaza,Mashrafe Mortaza,Bangladesh,Right-hand batter,Right-arm fast-medium,Bowler,2.0,1.0,2009.0,2009.0,Kolkata Knight Riders,2.0,2.0,0.0,100.0,,1,0,0,0,0,2.0,True,2*
+23972,SS Shaikh,Shoaib Shaikh,India,Right Handed Bat,Right-arm medium,Bowler,6.0,,2009.0,2009.0,Kolkata Knight Riders,6.0,7.0,1.0,85.71,6.0,1,0,0,1,0,6.0,False,6
+23984,Jaskaran Singh,Jaspal Singh,Malta,Right-hand batter,Right-arm medium,Batter,8.0,6.0,2009.0,2010.0,Deccan Chargers,8.0,11.0,1.0,72.73,8.0,4,0,0,0,0,4.0,True,4*
+24060,AB McDonald,Andrew McDonald,Australia,Right-hand batter,Right-arm fast-medium,All-rounder,123.0,14.0,2009.0,2013.0,Royal Challengers Bengaluru,123.0,100.0,5.0,123.0,24.6,9,0,0,9,4,33.0,True,33*
+24084,Y Nagar,Yogesh Nagar,India,Right-hand batter,No information available,All-rounder,285.0,4.0,2009.0,2012.0,Delhi Capitals,285.0,259.0,14.0,110.04,20.36,20,0,0,20,9,44.0,True,44*
+24091,CK Langeveldt,Charl Langeveldt,South Africa,Right-hand batter,Right-arm fast-medium,Batter,8.0,13.0,2009.0,2011.0,Royal Challengers Bengaluru,8.0,9.0,2.0,88.89,4.0,2,0,0,0,1,8.0,False,8
+24153,Mohammad Ashraful,Mohammad Ashraful,Bangladesh,Right-hand batter,Leg-spin,Batter,2.0,,2009.0,2009.0,Mumbai Indians,2.0,10.0,1.0,20.0,2.0,1,0,0,0,0,2.0,False,2
+24157,RA Shaikh,Rahil Akhilahmed Shaikh,India,Left-hand batter,Left-arm medium-fast,Bowler,,0.0,2009.0,2009.0,Mumbai Indians,0.0,0.0,0.0,,,0,0,0,0,0,,,
+24278,Anirudh Singh,Anirudh Singh,India,Left-hand batter,Right-arm medium,Batter,63.0,,2010.0,2010.0,Deccan Chargers,63.0,66.0,4.0,95.45,15.75,4,0,0,6,1,40.0,False,40
+24281,CA Pujara,Cheteshwar Pujara,India,Right-hand batter,Leg-spin,Batter,390.0,,2010.0,2014.0,Punjab Kings,390.0,391.0,19.0,99.74,20.53,22,0,1,50,4,51.0,False,51
+24289,OA Shah,Owais Shah,England,Right-hand batter,Right-arm off-spin,All-rounder,506.0,,2010.0,2013.0,Rajasthan Royals,506.0,389.0,15.0,130.08,33.73,22,0,4,34,23,76.0,False,76
+24301,A Uniyal,Amit Uniyal,India,Left-hand batter,Left-arm fast-medium,Bowler,4.0,3.0,2010.0,2010.0,Rajasthan Royals,4.0,7.0,1.0,57.14,4.0,2,0,0,0,0,4.0,True,4*
+24302,AA Jhunjhunwala,Abhishek Jhunjhunwala,India,Right-hand batter,Right-arm offbreak,Batter,217.0,1.0,2010.0,2012.0,Deccan Chargers,217.0,210.0,13.0,103.33,16.69,15,0,1,19,5,53.0,True,53*
+24304,AG Murtaza,Ali Murtaza,India,Left-hand batter,Left-arm orthodox,Bowler,10.0,12.0,2010.0,2013.0,Pune Warriors,10.0,14.0,1.0,71.43,10.0,3,0,0,1,0,5.0,False,5
+24313,P Dogra,Paras Dogra,India,Right-hand batter,Legbreak,Batter,127.0,,2010.0,2013.0,Kolkata Knight Riders,127.0,138.0,11.0,92.03,11.55,12,0,0,4,5,41.0,False,41
+24314,R McLaren,Ryan McLaren,South Africa,Left-hand batter,Right-arm fast-medium,All-rounder,159.0,14.0,2010.0,2013.0,Kolkata Knight Riders,159.0,171.0,8.0,92.98,19.88,13,0,1,14,1,51.0,True,51*
+24315,R Sathish,Rajagopal Sathish,India,Right-hand batter,Right-arm medium,All-rounder,270.0,6.0,2010.0,2016.0,Kolkata Knight Riders,270.0,231.0,17.0,116.88,15.88,24,0,0,22,6,27.0,True,27*
+24324,SW Tait,Shaun Tait,Australia,Right-hand batter,Right-arm fast,Bowler,23.0,26.0,2010.0,2013.0,Rajasthan Royals,23.0,26.0,3.0,88.46,7.67,5,0,0,1,1,11.0,False,11
+24341,MS Bisla,Manvinder Singh Bisla,India,Right-hand batter,No information available,Wicket-keeper batter,798.0,,2010.0,2015.0,Royal Challengers Bengaluru,798.0,702.0,38.0,113.68,21.0,39,0,4,93,23,92.0,False,92
+24375,RS Gavaskar,Rohan Sunil Gavaskar,India,Left-hand batter,Left-arm orthodox,Batter,2.0,0.0,2010.0,2010.0,Kolkata Knight Riders,2.0,8.0,1.0,25.0,2.0,1,0,0,0,0,2.0,False,2
+24390,JM Kemp,Justin Kemp,South Africa,Right-hand batter,Right-arm fast-medium,Batter,26.0,3.0,2010.0,2010.0,Chennai Super Kings,26.0,24.0,2.0,108.33,13.0,2,0,0,1,1,22.0,False,22
+24417,FY Fazal,Faiz Yakub Fazal,India,Left-hand batter,Right-arm medium,Batter,183.0,1.0,2010.0,2011.0,Rajasthan Royals,183.0,173.0,10.0,105.78,18.3,11,0,0,22,1,45.0,False,45
+24430,S Ladda,Sarbjeet Singh Ladda,India,Right-hand batter,Legbreak googly,Bowler,0.0,5.0,2010.0,2016.0,Gujarat Lions,0.0,9.0,1.0,0.0,0.0,2,0,0,0,0,0.0,True,0*
+24487,SE Bond,Shane Bond,New Zealand,Right-hand batter,Right-arm fast,Bowler,1.0,9.0,2010.0,2010.0,Kolkata Knight Riders,1.0,2.0,1.0,50.0,1.0,1,0,0,0,0,1.0,False,1
+24523,DR Martyn,Damien Martyn,Australia,Right-hand batter,Right-arm medium,Batter,19.0,,2010.0,2010.0,Rajasthan Royals,19.0,24.0,1.0,79.17,19.0,1,0,0,1,0,19.0,False,19
+24530,MJ Lumb,Michael John Lumb,England,Left-hand batter,Right-arm medium,Batter,278.0,,2010.0,2011.0,Deccan Chargers,278.0,194.0,12.0,143.3,23.17,12,0,1,45,6,83.0,False,83
+24541,S Narwal,Sumit Narwal,India,Left-hand batter,Right-arm medium,All-rounder,37.0,6.0,2010.0,2013.0,Kolkata Knight Riders,37.0,27.0,3.0,137.04,12.33,4,0,0,6,0,23.0,False,23
+24574,AB Barath,Adrian Barath,West Indies,Right-hand batter,Right-arm off-spin,Batter,42.0,,2010.0,2010.0,Punjab Kings,42.0,42.0,2.0,100.0,21.0,3,0,0,5,1,33.0,False,33
+24595,SJ Srivastava,Shalabh Jagdishprasad Srivastava,India,Right-hand batter,Left-arm fast-medium,Bowler,5.0,15.0,2010.0,2011.0,Punjab Kings,5.0,5.0,1.0,100.0,5.0,4,0,0,0,0,3.0,True,3*
+24602,AC Voges,Adam Voges,Australia,Right-hand batter,Left-arm orthodox,Batter,181.0,1.0,2010.0,2010.0,Rajasthan Royals,181.0,143.0,4.0,126.57,45.25,7,0,0,15,3,45.0,True,45*
+24670,MD Mishra,Mohnish Dinesh Mishra,India,Right-hand batter,Right-arm offbreak,Batter,237.0,,2010.0,2012.0,Pune Warriors,237.0,208.0,16.0,113.94,14.81,17,0,0,24,8,41.0,False,41
+24672,R Sharma,Rahul Sharma,India,Right-hand batter,Legbreak googly,Bowler,66.0,42.0,2010.0,2014.0,Delhi Capitals,66.0,75.0,14.0,88.0,4.71,19,0,0,5,3,14.0,True,14*
+24686,J Theron,Juan Rustum Theron,South Africa,Right-hand batter,Right-arm fast-medium,Bowler,10.0,13.0,2010.0,2015.0,Rajasthan Royals,10.0,12.0,2.0,83.33,5.0,4,0,0,1,0,7.0,True,7*
+24805,NLTC Perera,Thisara Perera,Sri Lanka,Left-hand batter,Right-arm fast-medium,All-rounder,424.0,37.0,2010.0,2016.0,Rising Pune Supergiant,424.0,309.0,22.0,137.22,19.27,30,0,0,23,26,40.0,False,40
+24905,KB Arun Karthik,Kondabathula Bodhiswaroopa Arun Karthik,India,Right-hand batter,Legbreak googly,Wicket-keeper batter,51.0,,2010.0,2013.0,Royal Challengers Bengaluru,51.0,51.0,5.0,100.0,10.2,8,0,0,4,1,19.0,True,19*
+24938,KAJ Roach,Kemar Roach,West Indies,Right-hand batter,Right-arm fast,Bowler,10.0,0.0,2010.0,2010.0,Deccan Chargers,10.0,9.0,1.0,111.11,10.0,1,0,0,1,0,10.0,False,10
+24972,PD Collingwood,Paul Collingwood,England,Right-hand batter,Right-arm medium,Batter,203.0,5.0,2010.0,2010.0,Delhi Capitals,203.0,156.0,5.0,130.13,40.6,7,0,3,9,13,75.0,True,75*
+25011,C Ganapathy,Chandrasekar Ganapathy,India,Right-hand batter,Right-arm medium,All-rounder,,0.0,2010.0,2010.0,Chennai Super Kings,0.0,0.0,0.0,,,0,0,0,0,0,,,
+25078,MB Parmar,Mohnish Bipinbhai Parmar,India,Right-hand batter,Right-arm offbreak,Bowler,,0.0,2010.0,2010.0,Kolkata Knight Riders,0.0,0.0,0.0,,,0,0,0,0,0,,,
+25121,DE Bollinger,Doug Bollinger,Australia,Left-hand batter,Left-arm fast-medium,Bowler,21.0,43.0,2010.0,2012.0,Chennai Super Kings,21.0,23.0,1.0,91.3,21.0,4,0,0,1,1,16.0,True,16*
+25138,SB Wagh,Shrikant Wagh,India,Left-hand batter,Left-arm fast-medium,All-rounder,2.0,5.0,2010.0,2011.0,Pune Warriors,2.0,3.0,2.0,66.67,1.0,2,0,0,0,0,2.0,False,2
+25230,AP Dole,Aditya Pradip Dole,India,Right-hand batter,Right-arm medium-fast,Bowler,34.0,5.0,2010.0,2010.0,Rajasthan Royals,34.0,22.0,2.0,154.55,17.0,2,0,0,3,1,30.0,False,30
+25253,AN Ahmed,Arslan Ahmed,Portugal,Right-hand batter,No information available,Batter,36.0,15.0,2010.0,2015.0,Royal Challengers Bengaluru,36.0,26.0,1.0,138.46,36.0,6,0,0,4,1,18.0,True,18*
+25375,L Ablish,Lovesh Ablish,India,Right-hand batter,Right-arm medium-fast,Bowler,0.0,5.0,2010.0,2011.0,Punjab Kings,0.0,2.0,0.0,0.0,,1,0,0,0,0,0.0,True,0*
+25390,B Sumanth,Bodapati Sumanth,India,Right-hand batter,Right-arm medium,Batter,35.0,,2010.0,2010.0,Deccan Chargers,35.0,37.0,1.0,94.59,35.0,4,0,0,3,0,16.0,False,16
+25438,S Sriram,Sridharan Sriram,India,Left-hand batter,Left-arm orthodox,All-rounder,31.0,0.0,2010.0,2011.0,Delhi Capitals,31.0,36.0,2.0,86.11,15.5,2,0,0,3,0,27.0,False,27
+25530,C Madan,Chandan Madan,India,Right-hand batter,No information available,Wicket-keeper batter,15.0,,2010.0,2010.0,Mumbai Indians,15.0,19.0,1.0,78.95,15.0,1,0,0,3,0,15.0,False,15
+25581,AG Paunikar,Amit Paunikar,India,Right-hand batter,No information available,Wicket-keeper batter,49.0,,2010.0,2011.0,Rajasthan Royals,49.0,58.0,5.0,84.48,9.8,5,0,0,9,0,20.0,False,20
+25860,ND Doshi,Nayan Dilip Doshi,England,Right-hand batter,Left-arm orthodox,Bowler,0.0,2.0,2010.0,2011.0,Rajasthan Royals,0.0,13.0,1.0,0.0,0.0,1,0,0,0,0,0.0,False,0
+25923,S Randiv,Suraj Randiv,Sri Lanka,Right-hand batter,Right-arm off-spin,Bowler,2.0,8.0,2011.0,2011.0,Chennai Super Kings,2.0,4.0,1.0,50.0,2.0,1,0,0,0,0,2.0,False,2
+25933,AL Menaria,Ashok Menaria,India,Left-hand batter,Left-arm orthodox,All-rounder,401.0,3.0,2011.0,2013.0,Rajasthan Royals,401.0,356.0,21.0,112.64,19.1,23,0,0,24,18,40.0,False,40
+25960,AUK Pathan,Asadulla Khan Pathan,India,Right-hand batter,Right-arm medium,All-rounder,39.0,0.0,2011.0,2012.0,Royal Challengers Bengaluru,39.0,23.0,5.0,169.57,7.8,7,0,0,5,2,14.0,False,14
+25976,RV Gomez,Raiphi Vincent Gomez,India,Right-hand batter,Right-arm medium-fast,All-rounder,50.0,6.0,2011.0,2013.0,Pune Warriors,50.0,51.0,5.0,98.04,10.0,9,0,0,5,1,26.0,True,26*
+25991,DJ Jacobs,David Johan Jacobs,South Africa,Right-hand batter,Right-arm medium,Wicket-keeper batter,92.0,,2011.0,2012.0,Mumbai Indians,92.0,98.0,7.0,93.88,13.14,7,0,0,10,4,32.0,False,32
+25994,JEC Franklin,James Franklin,New Zealand,Left-hand batter,Left-arm medium,All-rounder,327.0,9.0,2011.0,2012.0,Mumbai Indians,327.0,301.0,11.0,108.64,29.73,16,0,1,25,8,79.0,False,79
+26007,UBT Chand,Unmukt Chand,United States of America,Right-hand batter,Right-arm off-spin,Wicket-keeper batter,300.0,,2011.0,2016.0,Mumbai Indians,300.0,300.0,20.0,100.0,15.0,20,0,1,32,9,58.0,False,58
+26012,AC Thomas,Alfonso Clive Thomas,South Africa,Right-hand batter,Right-arm fast-medium,Bowler,20.0,16.0,2011.0,2012.0,Pune Warriors,20.0,19.0,2.0,105.26,10.0,4,0,0,1,1,12.0,False,12
+26014,BA Bhatt,Bhargav Bhatt,India,Left-hand batter,Left-arm orthodox,Bowler,6.0,13.0,2011.0,2013.0,Punjab Kings,6.0,7.0,1.0,85.71,6.0,2,0,0,0,1,6.0,True,6*
+26024,NJ Rimmington,Nathan Rimmington,Australia,Right-hand batter,Right-arm fast-medium,Bowler,1.0,0.0,2011.0,2011.0,Punjab Kings,1.0,1.0,0.0,100.0,,1,0,0,0,0,1.0,True,1*
+26035,Sunny Singh,Sunny Singh,India,Right-hand batter,Right-arm medium,Batter,43.0,,2011.0,2011.0,Punjab Kings,43.0,31.0,4.0,138.71,10.75,5,0,0,6,1,20.0,False,20
+26059,RN ten Doeschate,Ryan Neil ten Doeschate,Netherlands,Right-hand batter,Right-arm medium-fast,All-rounder,326.0,3.0,2011.0,2015.0,Kolkata Knight Riders,326.0,235.0,14.0,138.72,23.29,21,0,1,26,15,70.0,True,70*
+26159,NL McCullum,Nathan McCullum,New Zealand,Right-hand batter,Right-arm off-spin,All-rounder,26.0,0.0,2011.0,2011.0,Pune Warriors,26.0,22.0,1.0,118.18,26.0,2,0,0,0,1,15.0,False,15
+26185,JJ van der Wath,Johannes Jacobus van der Wath,South Africa,Right-hand batter,Right-arm fast-medium,All-rounder,18.0,3.0,2011.0,2011.0,Royal Challengers Bengaluru,18.0,16.0,2.0,112.5,9.0,3,0,0,1,1,14.0,True,14*
+26190,R Ninan,Ryan Ninan,India,Right-hand batter,Right-arm offbreak,All-rounder,3.0,3.0,2011.0,2011.0,Royal Challengers Bengaluru,3.0,6.0,1.0,50.0,3.0,1,0,0,0,0,3.0,False,3
+26441,TD Paine,Tim Paine,Australia,Right-hand batter,Right-arm medium,Wicket-keeper batter,10.0,,2011.0,2011.0,Pune Warriors,10.0,26.0,2.0,38.46,5.0,2,0,0,0,0,8.0,False,8
+26477,DH Yagnik,Dishant Harendra Yagnik,India,Left-hand batter,No information available,Wicket-keeper batter,170.0,,2011.0,2014.0,Rajasthan Royals,170.0,137.0,10.0,124.09,17.0,17,0,0,23,2,34.0,False,34
+26530,BJ Haddin,Brad Haddin,Australia,Right-hand batter,No information available,Wicket-keeper batter,18.0,,2011.0,2011.0,Kolkata Knight Riders,18.0,11.0,1.0,163.64,18.0,1,0,0,2,1,18.0,False,18
+26537,J Syed Mohammad,JS Mohammad,India,Left-hand batter,Left-arm orthodox,All-rounder,29.0,10.0,2011.0,2013.0,Royal Challengers Bengaluru,29.0,26.0,2.0,111.54,14.5,5,0,0,4,0,13.0,True,13*
+26641,JE Taylor,Jerome Taylor,West Indies,Right-hand batter,Right-arm fast,Bowler,3.0,6.0,2011.0,2011.0,Pune Warriors,3.0,3.0,1.0,100.0,3.0,2,0,0,0,0,2.0,False,2
+26696,KMDN Kulasekara,Nuwan Kulasekara,Sri Lanka,Right-hand batter,Right-arm fast-medium,All-rounder,5.0,6.0,2011.0,2012.0,Chennai Super Kings,5.0,3.0,0.0,166.67,,1,0,0,1,0,5.0,True,5*
+26765,TR Birt,Travis Rodney Birt,Australia,Left-hand batter,Right-arm medium,Batter,75.0,,2011.0,2011.0,Delhi Capitals,75.0,58.0,5.0,129.31,15.0,5,0,0,9,2,27.0,False,27
+26836,M Klinger,Michael Klinger,Australia,Right-hand batter,No information available,Batter,73.0,,2011.0,2011.0,Kochi Tuskers Kerala,73.0,77.0,4.0,94.81,18.25,4,0,0,9,0,29.0,False,29
+26974,P Parameswaran,Prasanth Parameswaran,India,Right-hand batter,Left-arm medium,Bowler,1.0,9.0,2011.0,2012.0,Royal Challengers Bengaluru,1.0,2.0,0.0,50.0,,2,0,0,0,0,1.0,True,1*
+27044,AC Blizzard,Aiden Craig Blizzard,Australia,Left-hand batter,Left-arm medium,Batter,120.0,,2011.0,2012.0,Mumbai Indians,120.0,90.0,7.0,133.33,17.14,7,0,1,21,2,51.0,False,51
+27108,I Malhotra,Ishan Malhotra,India,Right-hand batter,Right-arm medium-fast,Bowler,7.0,0.0,2011.0,2011.0,Deccan Chargers,7.0,4.0,0.0,175.0,,1,0,0,1,0,7.0,True,7*
+27236,CJ Ferguson,Callum Ferguson,Australia,Right-hand batter,Right-arm medium,Batter,98.0,,2011.0,2012.0,Pune Warriors,98.0,117.0,6.0,83.76,16.33,8,0,0,9,0,23.0,False,23
+27339,AA Kazi,Abrar Kazi,India,Left-hand batter,Left-arm orthodox,Bowler,,1.0,2011.0,2011.0,Royal Challengers Bengaluru,0.0,0.0,0.0,,,0,0,0,0,0,,,
+27451,Anand Rajan,Anand Rajan,India,Right-hand batter,Right-arm medium,Bowler,,10.0,2011.0,2013.0,Sunrisers Hyderabad,0.0,0.0,0.0,,,0,0,0,0,0,,,
+27501,AA Chavan,Ankeet Ashok Chavan,India,Left-hand batter,Left-arm orthodox,All-rounder,12.0,8.0,2011.0,2013.0,Rajasthan Royals,12.0,11.0,2.0,109.09,6.0,3,0,0,2,0,7.0,True,7*
+27513,P Prasanth,Prasanth Padmanabhan,India,Left-hand batter,Left-arm orthodox,All-rounder,,0.0,2011.0,2011.0,Kochi Tuskers Kerala,0.0,0.0,0.0,,,0,0,0,0,0,,,
+27527,Y Gnaneswara Rao,Yalaka Gnaneswara Rao,India,Right-hand batter,Right-arm medium,All-rounder,19.0,0.0,2011.0,2011.0,Kochi Tuskers Kerala,19.0,17.0,1.0,111.76,19.0,1,0,0,3,0,19.0,False,19
+27626,S Rana,Sachin Rana,India,Right-hand batter,Right-arm medium-fast,All-rounder,91.0,0.0,2011.0,2014.0,Royal Challengers Bengaluru,91.0,81.0,4.0,112.35,22.75,8,0,0,9,1,19.0,True,19*
+27679,KH Devdhar,Kedar Devdhar,India,Right-hand batter,No information available,Wicket-keeper batter,,,,,,0.0,0.0,0.0,,,0,0,0,0,0,,,
+27711,SS Mundhe,Shrikant Sharad Mundhe,India,Right-hand batter,Right-arm medium-fast,All-rounder,,1.0,2011.0,2011.0,Pune Warriors,0.0,0.0,0.0,,,0,0,0,0,0,,,
+27760,RW Price,Ray Price,Zimbabwe,Right-hand batter,Left-arm orthodox,Bowler,,0.0,2011.0,2011.0,Mumbai Indians,0.0,0.0,0.0,,,0,0,0,0,0,,,
+27896,RE Levi,Richard Ernst Levi,South Africa,Right-hand batter,Right-arm medium,Batter,83.0,,2012.0,2012.0,Mumbai Indians,83.0,73.0,6.0,113.7,13.83,6,0,1,10,4,50.0,False,50
+27919,M de Lange,Marchant de Lange,South Africa,Right-hand batter,Right-arm fast,Bowler,1.0,6.0,2012.0,2015.0,Mumbai Indians,1.0,2.0,1.0,50.0,1.0,1,0,0,0,0,1.0,False,1
+27973,KK Cooper,Kevon Keston Cooper,West Indies,Right-hand batter,Right-arm medium,All-rounder,116.0,36.0,2012.0,2014.0,Rajasthan Royals,116.0,68.0,9.0,170.59,12.89,12,0,0,9,8,32.0,False,32
+27992,DAJ Bracewell,Brendon Bracewell,New Zealand,Right-hand batter,Right-arm medium,Batter,12.0,3.0,2012.0,2012.0,Delhi Capitals,12.0,9.0,0.0,133.33,,1,0,0,1,0,12.0,True,12*
+28021,DJ Harris,Daniel Joseph Harris,Australia,Right-hand batter,Right-arm medium,Batter,111.0,0.0,2012.0,2012.0,Deccan Chargers,111.0,101.0,4.0,109.9,27.75,4,0,0,11,5,47.0,False,47
+28040,TP Sudhindra,TP Sudhindra,India,Left-hand batter,Right-arm fast,Bowler,,1.0,2012.0,2012.0,Deccan Chargers,0.0,0.0,0.0,,,0,0,0,0,0,,,
+28183,GB Hogg,Brad Hogg,Australia,Left-hand batter,Left-arm wrist-spin,Bowler,22.0,25.0,2012.0,2016.0,Kolkata Knight Riders,22.0,22.0,3.0,100.0,7.33,4,0,0,1,0,13.0,False,13
+28221,RR Bhatkal,Raju Ravi Bhatkal,India,Right-hand batter,Right-arm medium,All-rounder,0.0,0.0,2012.0,2012.0,Royal Challengers Bengaluru,0.0,2.0,1.0,0.0,0.0,1,0,0,0,0,0.0,False,0
+28246,P Awana,Parvinder Awana,India,Right-hand batter,Right-arm fast-medium,Bowler,5.0,43.0,2012.0,2014.0,Punjab Kings,5.0,14.0,2.0,35.71,2.5,5,0,0,0,0,4.0,True,4*
+28308,V Pratap Singh,Veer Pratap Singh,India,Right-hand batter,Right-arm medium,Bowler,0.0,12.0,2012.0,2012.0,Deccan Chargers,0.0,1.0,1.0,0.0,0.0,1,0,0,0,0,0.0,False,0
+28396,CJ McKay,Clinton James McKay,Australia,Right-hand batter,Right-arm fast-medium,Bowler,8.0,1.0,2012.0,2012.0,Mumbai Indians,8.0,15.0,1.0,53.33,8.0,1,0,0,0,0,8.0,False,8
+28446,T Mishra,Mohnish Mishra,India,Right-hand batter,Right-arm off-spin,Batter,,,,,,0.0,0.0,0.0,,,0,0,0,0,0,,,
+28501,A Ashish Reddy,Ashish Reddy,India,Right-hand batter,Right-arm medium,All-rounder,280.0,19.0,2012.0,2016.0,Sunrisers Hyderabad,280.0,193.0,15.0,145.08,18.67,23,0,0,16,15,36.0,True,36*
+28557,Azhar Mahmood,A Mahmood,Denmark,Right-hand batter,No information available,Batter,388.0,31.0,2012.0,2015.0,Kolkata Knight Riders,388.0,303.0,19.0,128.05,20.42,21,0,2,39,13,80.0,False,80
+28569,N Saini,Nitin Saini,India,Right-hand batter,No information available,Wicket-keeper batter,140.0,,2012.0,2012.0,Punjab Kings,140.0,141.0,10.0,99.29,14.0,10,0,1,16,0,50.0,False,50
+28690,A Chandila,Ajit Chandila,India,Right-hand batter,Right-arm offbreak,Bowler,4.0,11.0,2012.0,2013.0,Rajasthan Royals,4.0,7.0,0.0,57.14,,2,0,0,0,0,4.0,True,4*
+28725,LJ Wright,Luke James Wright,England,Right-hand batter,Right-arm medium,All-rounder,106.0,2.0,2012.0,2013.0,Pune Warriors,106.0,60.0,5.0,176.67,21.2,5,0,0,16,3,44.0,False,44
+28766,RJ Peterson,Robin Peterson,South Africa,Left-hand batter,Left-arm orthodox,All-rounder,32.0,3.0,2012.0,2012.0,Mumbai Indians,32.0,30.0,3.0,106.67,10.67,5,0,0,3,1,16.0,True,16*
+28817,R Shukla,Rahul Shukla,India,Right-hand batter,Right-arm fast-medium,Bowler,19.0,7.0,2012.0,2014.0,Delhi Capitals,19.0,23.0,1.0,82.61,19.0,4,0,0,2,0,14.0,False,14
+28972,BB Samantray,Biplab Samantray,India,Right-hand batter,No information available,Batter,125.0,,2012.0,2013.0,Sunrisers Hyderabad,125.0,113.0,5.0,110.62,25.0,8,0,1,13,2,55.0,False,55
+28981,MJ Clarke,Michael Clarke,Australia,Right-hand batter,Left-arm orthodox,Batter,98.0,3.0,2012.0,2012.0,Pune Warriors,98.0,94.0,6.0,104.26,16.33,6,0,0,12,0,41.0,False,41
+29080,BW Hilfenhaus,Ben Hilfenhaus,Australia,Right-hand batter,Right-arm fast-medium,Bowler,,23.0,2012.0,2014.0,Chennai Super Kings,0.0,0.0,0.0,,,0,0,0,0,0,,,
+29203,PA Reddy,Akshath Reddy,India,Right-hand batter,Leg-spin,Batter,164.0,,2012.0,2013.0,Sunrisers Hyderabad,164.0,160.0,10.0,102.5,16.4,10,0,0,15,2,42.0,False,42
+29242,AP Majumdar,Anustup Majumdar,India,Right-hand batter,Leg-spin,All-rounder,87.0,,2012.0,2012.0,Pune Warriors,87.0,76.0,4.0,114.47,21.75,4,0,0,7,2,31.0,False,31
+29353,K Upadhyay,Krishnakant Rameshwar Upadhyay,India,Right-hand batter,Right-arm medium-fast,Bowler,12.0,0.0,2012.0,2013.0,Pune Warriors,12.0,9.0,0.0,133.33,,2,0,0,0,1,11.0,True,11*
+29856,Sunny Gupta,Sunny Gupta,India,Right-hand batter,Right-arm off-spin,All-rounder,0.0,0.0,2012.0,2012.0,Delhi Capitals,0.0,1.0,1.0,0.0,0.0,1,0,0,0,0,0.0,False,0
+29902,MC Juneja,Manprit Charanjit Juneja,India,Right-hand batter,Right-arm offbreak,Batter,125.0,,2013.0,2013.0,Delhi Capitals,125.0,128.0,7.0,97.66,17.86,7,0,0,11,1,49.0,False,49
+29984,MDKJ Perera,Kusal Perera,Sri Lanka,Left-hand batter,No information available,Wicket-keeper batter,14.0,,2013.0,2013.0,Rajasthan Royals,14.0,13.0,2.0,107.69,7.0,2,0,0,3,0,14.0,False,14
+30106,BMAJ Mendis,Balapuwaduge Manukulasuriya Amith Jeevan Mendis,Sri Lanka,Left-hand batter,Legbreak,All-rounder,23.0,1.0,2013.0,2013.0,Delhi Capitals,23.0,27.0,3.0,85.19,7.67,3,0,0,0,0,12.0,False,12
+30286,R Rampaul,Ravi Rampaul,West Indies,Left-hand batter,Right-arm fast-medium,Bowler,51.0,17.0,2013.0,2014.0,Royal Challengers Bengaluru,51.0,50.0,5.0,102.0,10.2,7,0,0,3,2,23.0,True,23*
+30317,SMSM Senanayake,Sachithra Senanayake,Sri Lanka,Right-hand batter,Right-arm off-spin,Bowler,10.0,9.0,2013.0,2013.0,Kolkata Knight Riders,10.0,17.0,1.0,58.82,10.0,4,0,0,0,0,7.0,True,7*
+30404,BJ Rohrer,Benjamin John Rohrer,Australia,Left-hand batter,Right-arm medium,Batter,193.0,0.0,2013.0,2013.0,Delhi Capitals,193.0,141.0,7.0,136.88,27.57,8,0,1,21,5,64.0,True,64*
+30679,IC Pandey,Ishwar Chand Pandey,India,Right-hand batter,Right-arm medium-fast,Bowler,0.0,19.0,2013.0,2015.0,Chennai Super Kings,0.0,2.0,1.0,0.0,0.0,1,0,0,0,0,0.0,False,0
+30702,CM Gautam,CM Gautam,India,Right-hand batter,No information available,Wicket-keeper batter,169.0,,2013.0,2015.0,Delhi Capitals,169.0,150.0,10.0,112.67,16.9,13,0,0,17,6,33.0,False,33
+30760,DJG Sammy,Daren Sammy,West Indies,Right-hand batter,Right-arm medium,All-rounder,295.0,14.0,2013.0,2015.0,Royal Challengers Bengaluru,295.0,241.0,15.0,122.41,19.67,20,0,1,15,18,60.0,False,60
+30778,X Thalaivan Sargunam,Thalaivan Sargunam,India,Right-hand batter,Right-arm off-spin,All-rounder,10.0,,2013.0,2013.0,Sunrisers Hyderabad,10.0,17.0,1.0,58.82,10.0,1,0,0,0,0,10.0,False,10
+31199,P Suyal,Pawan Suyal,India,Right-hand batter,Left-arm medium,Bowler,,2.0,2013.0,2015.0,Mumbai Indians,0.0,0.0,0.0,,,0,0,0,0,0,,,
+31235,UA Birla,Udit Alok Birla,India,Right-hand batter,Right-arm medium,Batter,7.0,,2013.0,2013.0,Pune Warriors,7.0,14.0,1.0,50.0,7.0,1,0,0,1,0,7.0,False,7
+31279,PV Tambe,Pravin Tambe,India,Right-hand batter,Leg-spin,Bowler,18.0,28.0,2013.0,2016.0,Gujarat Lions,18.0,39.0,2.0,46.15,9.0,6,0,0,1,0,7.0,True,7*
+31389,Parvez Rasool,Parvez Rasool,India,Right-hand batter,Right-arm off-spin,All-rounder,17.0,4.0,2013.0,2016.0,Royal Challengers Bengaluru,17.0,20.0,2.0,85.0,8.5,4,0,0,1,0,10.0,False,10
+31680,MG Neser,Michael Neser,Australia,Right-hand batter,Right-arm fast-medium,All-rounder,,0.0,2013.0,2013.0,Punjab Kings,0.0,0.0,0.0,,,0,0,0,0,0,,,
+31983,NJ Maddinson,Nic Maddinson,Australia,Left-hand batter,Left-arm orthodox,Batter,20.0,,2014.0,2015.0,Royal Challengers Bengaluru,20.0,21.0,3.0,95.24,6.67,3,0,0,4,0,12.0,False,12
+32350,AV Wankhade,Apoorv Vijay Wankhade,India,Right-hand batter,Right-arm medium,Batter,,,,,,0.0,0.0,0.0,,,0,0,0,0,0,,,
+32462,BR Dunk,Ben Dunk,Australia,Left-hand batter,Right-arm off-spin,Wicket-keeper batter,40.0,,2014.0,2014.0,Mumbai Indians,40.0,35.0,3.0,114.29,13.33,3,0,0,7,0,20.0,False,20
+32774,Shivam Sharma,Shivam Sharma,India,Right-hand batter,Right-arm off-spin,Bowler,5.0,4.0,2014.0,2015.0,Punjab Kings,5.0,3.0,1.0,166.67,5.0,2,0,0,1,0,4.0,False,4
+32886,VH Zol,Vijay Hari Zol,India,Left-hand batter,Right-arm offbreak,Batter,29.0,,2014.0,2014.0,Royal Challengers Bengaluru,29.0,26.0,2.0,111.54,14.5,2,0,0,3,1,16.0,False,16
+33115,K Santokie,Krishmar Santokie,West Indies,Left-hand batter,Left-arm medium-fast,Bowler,,3.0,2014.0,2014.0,Mumbai Indians,0.0,0.0,0.0,,,0,0,0,0,0,,,
+33134,BE Hendricks,Beuran Hendricks,South Africa,Left-hand batter,Left-arm fast-medium,Bowler,1.0,11.0,2014.0,2015.0,Punjab Kings,1.0,3.0,1.0,33.33,1.0,2,0,0,0,0,1.0,True,1*
+33281,JW Hastings,John Hastings,Australia,Right-hand batter,Right-arm fast-medium,All-rounder,,3.0,2014.0,2016.0,Kolkata Knight Riders,0.0,0.0,0.0,,,0,0,0,0,0,,,
+33332,Karanveer Singh,Karanveer Singh,India,Right-hand batter,Leg-spin,Bowler,12.0,14.0,2014.0,2015.0,Punjab Kings,12.0,17.0,1.0,70.59,12.0,4,0,0,1,0,5.0,True,5*
+33598,DJ Muthuswami,Domnic Joseph Muthuswami,India,Right-hand batter,Right-arm medium-fast,Bowler,1.0,4.0,2015.0,2015.0,Delhi Capitals,1.0,3.0,1.0,33.33,1.0,1,0,0,0,0,1.0,False,1
+33827,RG More,Ronit More,India,Right-hand batter,Right-arm medium,Bowler,2.0,1.0,2015.0,2015.0,Chennai Super Kings,2.0,2.0,0.0,100.0,,1,0,0,0,0,2.0,True,2*
+34463,B Aparajith,Baba Aparajith,India,Right-hand batter,Right-arm offbreak,All-rounder,,,,,,0.0,0.0,0.0,,,0,0,0,0,0,,,
+34521,GS Sandhu,Sunny Sandhu,India,Right-hand batter,Right-arm fast-medium,Bowler,,1.0,2015.0,2015.0,Delhi Capitals,0.0,0.0,0.0,,,0,0,0,0,0,,,
+35235,P Sahu,Pardeep Sahu,India,Right-hand batter,Leg-spin,All-rounder,19.0,3.0,2016.0,2016.0,Punjab Kings,19.0,13.0,1.0,146.15,19.0,2,0,0,1,1,18.0,True,18*
+35414,KJ Abbott,Kyle Abbott,South Africa,Right-hand batter,Right-arm fast-medium,Bowler,13.0,2.0,2016.0,2016.0,Punjab Kings,13.0,8.0,1.0,162.5,13.0,3,0,0,0,1,12.0,True,12*
+35828,PSP Handscomb,Peter Handscomb,Australia,Right-hand batter,No information available,Wicket-keeper batter,6.0,,2016.0,2016.0,Rising Pune Supergiant,6.0,12.0,1.0,50.0,6.0,1,0,0,0,0,6.0,False,6
+35941,SM Boland,Scott Boland,Australia,Right-hand batter,Right-arm fast-medium,Bowler,,3.0,2016.0,2016.0,Rising Pune Supergiant,0.0,0.0,0.0,,,0,0,0,0,0,,,
+36053,UT Khawaja,Usman Khawaja,Australia,Left-hand batter,Right-arm off-spin,Batter,127.0,,2016.0,2016.0,Rising Pune Supergiant,127.0,100.0,6.0,127.0,21.17,6,0,0,14,3,30.0,False,30
+36198,F Behardien,Farhaan Behardien,South Africa,Right-hand batter,Right-arm medium-fast,All-rounder,14.0,,2016.0,2016.0,Punjab Kings,14.0,13.0,2.0,107.69,7.0,3,0,0,2,0,9.0,True,9*
+36523,ER Dwivedi,Eklavya Dwivedi,India,Right-hand batter,No information available,Wicket-keeper batter,24.0,,2016.0,2016.0,Gujarat Lions,24.0,14.0,2.0,171.43,12.0,2,0,0,2,2,19.0,False,19
