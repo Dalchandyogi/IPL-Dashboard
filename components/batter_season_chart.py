@@ -97,6 +97,7 @@ def render_batter_season_chart(player_name, season_runs):
         figure.update_layout(
             template="plotly_dark",
             height=360,
+            margin={"t": 0},
             hovermode="closest",
             dragmode=False,
             hoverlabel={
